@@ -1,0 +1,35 @@
+ERROR 2021-09-25 09:00:48.606 - Access DB: Not a valid file name.
+ERROR 2021-09-25 09:00:49.523 - Access DB: Error while get data fom table: Not a valid file name.
+select * from tblCamera order by ID
+ERROR 2021-09-25 09:00:49.952 - Access DB: Error while get data fom table: Not a valid file name.
+Select * from tblComputer
+ERROR 2021-09-25 09:26:53.221 - Access DB: Not a valid file name.
+ERROR 2021-09-25 09:26:53.621 - Access DB: Error while get data fom table: Not a valid file name.
+select * from tblCamera order by ID
+ERROR 2021-09-25 09:26:53.982 - Access DB: Error while get data fom table: Not a valid file name.
+Select * from tblComputer
+ERROR 2021-09-25 09:27:20.501 - Access DB: Not a valid file name.
+ERROR 2021-09-25 09:27:21.082 - Access DB: Error while get data fom table: Not a valid file name.
+select * from tblCamera order by ID
+ERROR 2021-09-25 09:27:21.326 - Access DB: Error while get data fom table: Not a valid file name.
+Select * from tblComputer
+ERROR 2021-09-25 09:27:50.079 - Access DB: Not a valid file name.
+ERROR 2021-09-25 09:27:50.496 - Access DB: Error while get data fom table: Not a valid file name.
+select * from tblCamera order by ID
+ERROR 2021-09-25 09:27:54.872 - Access DB: Error while get data fom table: Not a valid file name.
+Select * from tblComputer
+ERROR 2021-09-25 09:28:41.760 - Access DB: Not a valid file name.
+ERROR 2021-09-25 09:28:42.054 - Access DB: Error while get data fom table: Not a valid file name.
+select * from tblCamera order by ID
+ERROR 2021-09-25 09:28:45.042 - Access DB: Error while get data fom table: Not a valid file name.
+Select * from tblComputer
+ERROR 2021-09-25 09:28:58.150 - Access DB: Not a valid file name.
+ERROR 2021-09-25 09:28:58.373 - Access DB: Error while get data fom table: Not a valid file name.
+Select * from tblComputer
+ERROR 2021-09-25 09:28:58.801 - Access DB: Error while get data fom table: Not a valid file name.
+select * from tblCamera order by ID
+ERROR 2021-09-25 09:28:59.013 - Access DB: Error while get data fom table: Not a valid file name.
+select * from tblUser order by ID
+ERROR 2021-09-25 09:29:12.613 - Access DB: Not a valid file name.
+ERROR 2021-09-25 09:30:09.839 - Access DB: Error while excute command: ExecuteNonQuery requires an open and available Connection. The connection's current state is closed.
+Insert into tblCamera(CameraType,CameraName,[IP],[Port],[Login],[Password],[ImagePath]) values('HIKVision','Cam1','192.168.20.170',85,'admin','Kztek123456','')

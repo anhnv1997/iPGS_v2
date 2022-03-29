@@ -1,0 +1,69 @@
+ERROR 2021-05-24 09:04:04.911 - Access DB: Error while excute command: The INSERT INTO statement contains the following unknown field name: 'ImageBase64'.  Make sure you have typed the name correctly, and try the operation again.
+Insert into tblCamera(CameraType,CameraName,[IP],[Port],[Login],[Password],[ImageBase64],[ImagePath])  values('HIKVision','Camera 2','192.168.21.232',80,'admin','Kztek123456','','')
+ERROR 2021-05-24 09:04:12.317 - Access DB: Error while excute command: The INSERT INTO statement contains the following unknown field name: 'ImageBase64'.  Make sure you have typed the name correctly, and try the operation again.
+Insert into tblCamera(CameraType,CameraName,[IP],[Port],[Login],[Password],[ImageBase64],[ImagePath])  values('HIKVision','Camera 2','192.168.21.233',80,'admin','Kztek123456','','')
+ERROR 2021-05-24 09:04:22.903 - Access DB: Error while excute command: The INSERT INTO statement contains the following unknown field name: 'ImageBase64'.  Make sure you have typed the name correctly, and try the operation again.
+Insert into tblCamera(CameraType,CameraName,[IP],[Port],[Login],[Password],[ImageBase64],[ImagePath])  values('HIKVision','Camera 2','192.168.21.233',80,'admin','Kztek123456','','')
+ERROR 2021-05-24 09:06:41.527 - Access DB: Error while get data fom table: The Microsoft Jet database engine cannot find the input table or query 'tblUser'.  Make sure it exists and that its name is spelled correctly.
+select * from tblUser order by ID
+ERROR 2021-05-24 09:06:59.940 - Access DB: Error while excute command: Syntax error in INSERT INTO statement.
+Insert into tblCamera(CameraType,CameraName,[IP],[Port],[Login],[Password][ImagePath])  values('HIKVision','Camera2','192.168.21.232',80,'admin','Kztek123456','')
+ERROR 2021-05-24 09:07:28.850 - Access DB: Error while get data fom table: The Microsoft Jet database engine cannot find the input table or query 'tblUser'.  Make sure it exists and that its name is spelled correctly.
+select * from tblUser order by ID
+ERROR 2021-05-24 09:10:18.182 - Access DB: Error while get data fom table: The Microsoft Jet database engine cannot find the input table or query 'tblUser'.  Make sure it exists and that its name is spelled correctly.
+select * from tblUser order by ID
+ERROR 2021-05-24 09:12:18.234 - Access DB: Error while get data fom table: The Microsoft Jet database engine cannot find the input table or query 'tblUser'.  Make sure it exists and that its name is spelled correctly.
+select * from tblUser order by ID
+ERROR 2021-05-24 09:17:56.513 - Access DB: Error while get data fom table: The Microsoft Jet database engine cannot find the input table or query 'tblUser'.  Make sure it exists and that its name is spelled correctly.
+select * from tblUser order by ID
+ERROR 2021-05-24 09:20:27.484 - Access DB: Error while get data fom table: The Microsoft Jet database engine cannot find the input table or query 'tblUser'.  Make sure it exists and that its name is spelled correctly.
+select * from tblUser order by ID
+ERROR 2021-05-24 09:21:52.277 - Access DB: Error while get data fom table: The Microsoft Jet database engine cannot find the input table or query 'tblUser'.  Make sure it exists and that its name is spelled correctly.
+select * from tblUser order by ID
+ERROR 2021-05-24 09:25:33.381 - System.Net.Sockets.SocketException (10058): A request to send or receive data was disallowed because the socket had already been shut down in that direction with a previous shutdown call.
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Kztek.iZCU.frmMainForm.udpServer_Worker_DoWork(Object sender1, DoWorkEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 208
+ERROR 2021-05-24 09:30:31.334 - System.Net.Sockets.SocketException (10058): A request to send or receive data was disallowed because the socket had already been shut down in that direction with a previous shutdown call.
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Kztek.iZCU.frmMainForm.udpServer_Worker_DoWork(Object sender1, DoWorkEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 208
+ERROR 2021-05-24 09:41:50.932 - Access DB: Error while get data fom table: The Microsoft Jet database engine cannot find the input table or query 'tblUser'.  Make sure it exists and that its name is spelled correctly.
+select * from tblUser order by ID
+ERROR 2021-05-24 09:42:18.281 - Access DB: Error while excute command: The changes you requested to the table were not successful because they would create duplicate values in the index, primary key, or relationship.  Change the data in the field or fields that contain duplicate data, remove the index, or redefine the index to permit duplicate entries and try again.
+Insert into tblCamera(CameraType,CameraName,[IP],[Port],[Login],[Password],[ImagePath]) values('HIKVision','Camera2','192.168.20.170',80,'admin','Kztek123456','')
+ERROR 2021-05-24 10:12:15.122 - Access DB: Error while get data fom table: The Microsoft Jet database engine cannot find the input table or query 'tblUser'.  Make sure it exists and that its name is spelled correctly.
+select * from tblUser order by ID
+ERROR 2021-05-24 10:34:01.253 - System.IndexOutOfRangeException: There is no row at position -1.
+   at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at Kztek.iZCU.frmMainForm.udpServer_Worker_DoWork(Object sender1, DoWorkEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 282
+ERROR 2021-05-24 11:04:20.419 - System.IndexOutOfRangeException: There is no row at position -1.
+   at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at Kztek.iZCU.frmMainForm.udpServer_Worker_DoWork(Object sender1, DoWorkEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 282
+ERROR 2021-05-24 11:13:21.028 - System.IndexOutOfRangeException: There is no row at position -1.
+   at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at Kztek.iZCU.frmMainForm.udpServer_Worker_DoWork(Object sender1, DoWorkEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 282
+ERROR 2021-05-24 11:14:46.496 - System.IndexOutOfRangeException: There is no row at position -1.
+   at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at Kztek.iZCU.frmMainForm.udpServer_Worker_DoWork(Object sender1, DoWorkEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 282
+ERROR 2021-05-24 11:18:30.227 - Event Camera 192.168.21.231 chưa có trong CSDL
+ERROR 2021-05-24 11:20:11.852 - Event Camera 192.168.21.231 chưa có trong CSDL
+ERROR 2021-05-24 11:26:47.842 - Event Camera 192.168.21.231 chưa có trong CSDL
+ERROR 2021-05-24 11:29:29.409 - Event Camera 192.168.21.231 chưa có trong CSDL
+ERROR 2021-05-24 11:35:16.247 - Event Camera 192.168.21.231 chưa có trong CSDL
+ERROR 2021-05-24 11:41:44.858 - Camera 192.168.21.231 chưa có trong CSDL
+ERROR 2021-05-24 11:51:04.318 - Camera 192.168.21.231 chưa có trong CSDL
+ERROR 2021-05-24 11:55:16.805 - Camera 192.168.21.231 chưa có trong CSDL
+ERROR 2021-05-24 12:00:54.750 - Camera 192.168.21.231 chưa có trong CSDL
+ERROR 2021-05-24 13:51:09.421 - Camera 192.168.21.231 chưa có trong CSDL
+ERROR 2021-05-24 14:12:53.741 - Access DB: Error while get data fom table: The Microsoft Jet database engine cannot find the input table or query 'tblUser'.  Make sure it exists and that its name is spelled correctly.
+select * from tblUser order by ID
+ERROR 2021-05-24 14:14:22.446 - Access DB: Error while get data fom table: The Microsoft Jet database engine cannot find the input table or query 'tblUser'.  Make sure it exists and that its name is spelled correctly.
+select * from tblUser order by ID
+ERROR 2021-05-24 14:33:07.905 - Access DB: Error while get data fom table: The Microsoft Jet database engine cannot find the input table or query 'tblUser'.  Make sure it exists and that its name is spelled correctly.
+select * from tblUser order by ID
+ERROR 2021-05-24 14:35:11.969 - Access DB: Error while get data fom table: The Microsoft Jet database engine cannot find the input table or query 'tblUser'.  Make sure it exists and that its name is spelled correctly.
+select * from tblUser order by ID
+ERROR 2021-05-24 14:48:42.576 - Camera address 1 chưa có trong CSDL

@@ -1,0 +1,1563 @@
+INFO 2021-11-13 08:12:07.871 - Start App
+INFO 2021-11-13 08:12:11.259 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:12:12.407 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:12:13.529 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:12:14.671 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:12:15.811 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:12:16.945 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:12:18.100 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:12:19.313 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:13:01.031 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:13:02.179 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:13:03.316 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:13:04.480 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:13:05.646 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:13:06.794 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:13:07.942 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:13:09.096 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:13:10.280 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:13:11.490 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:13:12.615 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:13:13.771 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:13:14.922 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:13:16.083 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:13:17.200 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:13:18.356 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:13:19.514 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:14:00.986 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:14:02.124 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:14:03.285 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:14:04.434 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:14:05.578 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:14:06.724 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:14:07.861 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:14:08.975 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:14:10.099 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:14:11.257 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:14:12.379 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:14:13.546 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:14:14.710 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:14:15.836 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:14:16.986 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:14:18.184 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:14:19.349 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:51:25.054 - Start App
+INFO 2021-11-13 08:51:26.998 - Khởi tạo TCP Server thành công
+INFO 2021-11-13 08:51:27.590 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:51:28.570 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:51:29.248 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:51:29.948 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:51:30.670 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:51:31.352 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:51:32.053 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:51:32.729 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:51:33.394 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:51:34.063 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:51:34.727 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:51:35.390 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:51:36.059 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:51:36.722 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:51:37.389 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:51:38.058 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:51:38.729 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:51:39.399 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:51:40.068 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:51:40.736 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:51:40.954 - Receive CommandGetInforFrom192.168.1.231At01?/
+INFO 2021-11-13 08:51:40.967 - Send Data Success: ImagePathD:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Data\2021_11_12_16_57_07.png,0,No
+INFO 2021-11-13 08:51:41.404 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:51:42.072 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:51:42.743 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:51:43.412 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:51:44.076 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:51:44.157 - Receive CommandGetInforFrom192.168.1.231At02?/
+INFO 2021-11-13 08:51:44.228 - Send Data Success: ImagePathD:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Data\2021_11_12_16_57_07.png,1,30F-35239
+INFO 2021-11-13 08:51:44.742 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:51:45.405 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:51:46.069 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:51:46.738 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:51:47.446 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:51:48.119 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:51:48.782 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:51:49.451 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:51:50.118 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:51:50.787 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:51:51.457 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:51:52.128 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:51:52.829 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:51:53.501 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:51:54.207 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:52:00.719 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:52:04.481 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:52:05.662 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:52:06.831 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:52:07.986 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:52:09.163 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:52:10.287 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:52:11.676 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:52:12.880 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:52:14.012 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:52:15.225 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:52:16.360 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:52:17.557 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:52:18.681 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:52:19.877 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:53:01.760 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:53:03.644 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:53:07.355 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:53:08.669 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:53:09.551 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:53:10.189 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:53:10.384 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:53:11.064 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:53:11.411 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:53:11.726 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:53:12.400 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:53:12.563 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:53:13.079 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:53:13.738 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:53:13.745 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:53:14.415 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:53:14.964 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:53:15.077 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:53:15.108 - Receive CommandGetInforFrom192.168.1.231At02?/
+INFO 2021-11-13 08:53:15.117 - Send Data Success: ImagePathD:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Data\2021_11_13_08_52_03.png,0,No
+INFO 2021-11-13 08:53:15.744 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:53:16.096 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:53:16.414 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:53:17.079 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:53:17.229 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:53:17.744 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:53:18.401 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:53:18.414 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:53:19.079 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:53:19.556 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:53:19.741 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:53:20.409 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:53:21.077 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:53:21.357 - Receive CommandGetInforFrom192.168.1.231At01?/
+INFO 2021-11-13 08:53:21.367 - Send Data Success: ImagePathD:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Data\2021_11_13_08_52_03.png,1,30E-88065
+INFO 2021-11-13 08:53:21.740 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:53:22.399 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:53:23.068 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:53:23.737 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:53:24.400 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:54:01.062 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:54:02.198 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:54:03.502 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:54:04.658 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:54:05.836 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:54:06.954 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:54:08.074 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:54:09.188 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:54:10.472 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:54:11.668 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:54:12.823 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:54:14.012 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:54:15.155 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:54:16.276 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:54:18.512 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:54:19.674 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:55:00.214 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:55:06.068 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:55:07.468 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:55:08.746 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:55:12.551 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:55:13.941 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:55:15.272 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:56:02.261 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:56:06.712 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:56:07.958 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:56:09.212 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:56:10.538 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:56:12.092 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:56:13.781 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:56:15.417 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:56:18.134 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:56:20.244 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:56:48.907 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:56:49.670 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:56:50.342 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:56:51.014 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:56:51.683 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:56:52.357 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:56:53.060 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:56:53.752 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:56:54.433 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:56:55.116 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:56:55.790 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:56:56.459 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:56:57.134 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:56:57.884 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:56:58.546 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:56:59.243 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:56:59.905 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:57:00.617 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:57:00.949 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:57:01.288 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:57:02.040 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:57:02.813 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:57:03.235 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:57:04.010 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:57:04.500 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:57:05.001 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:57:05.870 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:57:06.041 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:57:06.592 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:57:08.036 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:57:08.559 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:57:09.135 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:57:09.999 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:57:10.500 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:57:11.027 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:57:11.751 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:57:11.891 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:57:12.403 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:57:13.087 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:57:13.112 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:57:13.891 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:57:15.033 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:57:16.239 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:57:16.638 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:57:18.086 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:57:18.377 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:57:18.878 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:57:20.083 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:57:21.134 - Receive CommandGetInforFrom192.168.1.231At02?/
+INFO 2021-11-13 08:57:21.136 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:57:21.151 - Send Data Success: ImagePathD:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Data\2021_11_13_08_56_05.png,0,No
+INFO 2021-11-13 08:58:00.913 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:58:02.049 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:58:03.304 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:58:04.488 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:58:05.717 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:58:06.919 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:58:08.144 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:58:09.298 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:58:12.940 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:58:14.074 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:58:15.293 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:58:16.433 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:58:17.594 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:58:18.746 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:58:19.908 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:59:00.504 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:59:01.664 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:59:02.785 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:59:06.399 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:59:09.964 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:59:11.086 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:59:12.209 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:59:13.326 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:59:14.478 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:59:15.607 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:59:16.736 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:59:17.871 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:59:19.039 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 08:59:55.895 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:59:56.670 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:59:57.340 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:59:58.007 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 08:59:58.323 - Receive CommandGetInforFrom192.168.1.231At02
+INFO 2021-11-13 08:59:58.332 - Send Data Success: ImagePathD:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Data\2021_11_13_08_59_08.png,0,No
+INFO 2021-11-13 09:00:00.741 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:00:01.885 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:00:03.032 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:00:04.204 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:00:05.413 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:00:06.566 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:00:07.703 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:00:08.839 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:00:09.459 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:00:09.972 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:00:10.142 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:00:10.831 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:00:11.214 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:00:11.501 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:00:12.165 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:00:12.367 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:00:13.525 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:00:14.659 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:00:15.790 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:00:16.124 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:00:16.901 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:00:18.124 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:00:19.403 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:00:21.549 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:00:22.548 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:00:25.785 - Receive CommandGetInforFrom192.168.1.231At02
+INFO 2021-11-13 09:00:25.795 - Send Data Success: ImagePathD:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Data\2021_11_13_08_59_08.png,0,No
+INFO 2021-11-13 09:00:25.796 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:00:26.370 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:00:30.888 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:00:32.582 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:00:41.477 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:01:00.831 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:01:01.946 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:01:03.074 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:01:04.253 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:01:05.406 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:01:06.533 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:01:07.680 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:01:08.804 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:01:09.928 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:01:11.069 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:01:12.190 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:01:13.341 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:01:14.467 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:01:15.608 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:01:16.738 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:01:17.910 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:01:19.118 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:02:00.651 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:02:01.862 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:02:03.992 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:02:05.224 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:02:06.413 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:02:07.589 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:02:08.782 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:02:10.021 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:02:11.159 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:02:12.297 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:02:13.485 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:02:14.702 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:02:15.861 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:02:17.025 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:02:18.216 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:02:19.602 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:03:01.078 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:03:02.216 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:03:03.377 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:03:04.497 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:03:05.612 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:03:06.768 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:03:07.899 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:03:09.021 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:03:10.130 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:03:11.248 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:03:12.428 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:03:13.558 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:03:14.707 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:03:15.854 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:03:16.992 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:03:18.108 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:03:19.223 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:04:00.936 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:04:02.073 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:04:03.230 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:04:04.429 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:04:05.572 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:04:06.724 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:04:07.854 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:04:09.012 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:04:10.184 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:04:11.318 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:04:12.451 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:04:13.582 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:04:14.861 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:04:15.972 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:04:17.096 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:04:18.294 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:04:19.405 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:05:00.959 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:05:02.118 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:05:03.301 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:05:04.439 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:05:05.588 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:05:06.764 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:05:07.936 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:05:09.084 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:05:10.229 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:05:11.380 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:05:12.512 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:05:13.626 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:05:14.773 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:05:15.918 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:05:17.044 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:05:18.166 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:05:19.402 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:06:00.976 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:06:02.142 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:06:03.288 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:06:04.527 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:06:05.662 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:06:06.792 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:06:11.025 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:06:12.189 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:06:13.313 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:06:14.449 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:06:15.579 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:06:16.695 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:06:17.817 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:06:18.972 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:06:20.106 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:07:02.097 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:07:03.659 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:07:04.848 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:07:06.243 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:07:07.437 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:07:08.741 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:07:09.973 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:07:11.434 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:07:12.837 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:07:14.159 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:07:15.409 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:07:16.578 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:07:17.697 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:07:18.816 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:07:20.000 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:08:00.633 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:08:01.778 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:08:02.987 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:08:06.221 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:08:07.347 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:08:08.486 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:08:09.705 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:08:10.829 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:08:11.976 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:08:13.215 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:08:14.576 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:08:15.726 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:08:16.909 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:08:18.050 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:08:19.262 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:08:44.846 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:08:52.736 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:08:53.421 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:08:54.088 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:08:54.759 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:08:55.422 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:09:00.160 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:09:01.296 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:09:02.415 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:09:02.968 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:09:02.990 - Receive CommandGetInforFrom192.168.1.231At02
+INFO 2021-11-13 09:09:03.001 - Send Data Success: ImagePathD:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Data\2021_11_13_09_06_09.png,0,No
+INFO 2021-11-13 09:09:03.614 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:09:04.814 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:09:05.933 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:09:07.058 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:09:08.197 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:09:08.500 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:09:09.177 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:09:09.334 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:09:09.832 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:09:10.454 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:09:10.498 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:09:11.163 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:09:11.578 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:09:11.833 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:09:12.501 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:09:12.740 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:09:13.163 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:09:13.833 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:09:13.862 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:09:14.502 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:09:14.992 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:09:15.169 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:09:15.839 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:09:16.107 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:09:16.508 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:09:17.178 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:09:17.232 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:09:17.836 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:09:18.370 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:09:18.597 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:09:19.166 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:09:19.508 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:09:19.832 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:09:20.505 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:09:21.170 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:09:21.841 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:09:22.508 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:09:23.176 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:09:23.850 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:09:24.526 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:09:25.189 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:09:25.860 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:09:26.516 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:09:27.185 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:09:27.855 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:09:28.523 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:09:29.190 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:09:29.846 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:09:30.518 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:09:31.186 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:09:31.858 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:09:32.528 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:09:33.194 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:09:33.865 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:09:34.533 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:09:35.201 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:09:35.869 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:09:36.540 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:09:37.206 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:09:37.874 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:09:38.548 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:09:46.239 - Receive CommandGetInforFrom192.168.1.231At02
+INFO 2021-11-13 09:09:46.249 - Send Data Success: ImagePathD:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Data\2021_11_13_09_06_09.png,0,No
+INFO 2021-11-13 09:10:01.045 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:10:02.193 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:10:03.582 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:10:04.746 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:10:05.879 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:10:07.024 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:10:08.156 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:10:09.341 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:10:10.533 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:10:11.666 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:10:12.808 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:10:13.923 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:10:15.045 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:10:16.150 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:10:17.264 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:10:18.394 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:10:19.514 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:10:31.010 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:10:36.713 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:10:37.382 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:10:38.054 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:10:38.730 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:10:39.399 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:10:39.505 - Receive CommandGetInforFrom192.168.1.231At01
+INFO 2021-11-13 09:10:39.516 - Send Data Success: ImagePathD:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Data\2021_11_13_09_06_09.png,1,30E-88065
+INFO 2021-11-13 09:10:40.066 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:10:40.732 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:10:41.399 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:10:42.070 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:10:42.733 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:10:43.389 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:10:44.059 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:10:44.722 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:10:45.393 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:10:46.064 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:10:46.731 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:11:01.079 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:11:02.270 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:11:03.406 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:11:04.536 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:11:05.661 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:11:06.823 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:11:08.162 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:11:09.291 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:11:10.400 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:11:11.521 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:11:12.651 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:11:13.806 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:11:14.917 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:11:16.037 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:11:17.169 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:11:18.340 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:11:19.497 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:12:01.115 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:12:02.248 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:12:03.383 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:12:04.515 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:12:05.672 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:12:07.725 - New_Camera_State_Event: 14.160.26.245 - Lost Connection - EmptySlot: 0
+INFO 2021-11-13 09:12:08.902 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:12:10.028 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:12:11.146 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:12:12.279 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:12:13.397 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:12:14.512 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:12:15.648 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:12:16.763 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:12:17.910 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:12:19.146 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:13:00.598 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:13:01.715 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:13:02.838 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:13:03.972 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:13:05.114 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:13:06.236 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:13:07.386 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:13:08.544 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:13:09.715 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:13:10.856 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:13:11.982 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:13:13.144 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:13:14.290 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:13:15.438 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:13:16.587 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:13:17.718 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:13:18.846 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:13:19.978 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:14:00.485 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:14:01.641 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:14:02.763 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:14:03.884 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:14:06.027 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:14:07.168 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:14:08.283 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:14:09.403 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:14:10.525 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:14:11.647 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:14:12.782 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:14:13.925 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:14:15.067 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:14:16.180 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:14:17.289 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:14:18.419 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:14:19.547 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:15:00.102 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:15:01.224 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:15:02.343 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:15:03.473 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:15:04.640 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:15:05.769 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:15:06.896 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:15:08.027 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:15:09.152 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:15:10.308 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:15:11.436 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:15:12.581 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:15:13.707 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:15:14.834 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:15:15.957 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:15:17.085 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:15:18.218 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:15:19.354 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:16:00.902 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:16:02.054 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:16:03.202 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:16:04.367 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:16:05.525 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:16:06.679 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:16:07.818 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:16:08.952 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:16:10.089 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:16:11.236 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:16:12.445 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:16:13.618 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:16:14.766 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:16:15.900 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:16:17.080 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:16:18.217 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:16:19.345 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:17:00.819 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:17:01.950 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:17:03.140 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:17:04.257 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:17:05.376 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:17:06.501 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:17:07.611 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:17:08.742 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:17:12.311 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:17:13.439 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:17:17.023 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:18:00.916 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:18:04.530 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:18:05.671 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:18:06.794 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:18:07.938 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:18:09.056 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:18:10.173 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:18:11.336 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:18:12.502 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:18:13.652 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:18:14.758 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:18:15.873 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:18:17.000 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:18:20.037 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:19:00.448 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:19:01.575 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:19:02.698 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:19:03.820 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:19:04.934 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:19:06.063 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:19:07.182 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:19:08.307 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:19:09.447 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:19:10.555 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:19:11.664 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:19:12.834 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:19:13.957 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:19:15.079 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:19:16.207 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:19:17.319 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:19:18.441 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:19:19.564 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:20:01.162 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:20:02.334 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:20:03.767 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:20:04.964 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:20:06.137 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:20:07.303 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:20:08.563 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:20:09.725 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:20:10.891 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:20:19.176 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:21:00.810 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:21:01.920 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:21:03.045 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:21:04.167 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:21:05.377 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:21:06.492 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:21:07.650 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:21:09.167 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:21:10.350 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:21:11.683 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:21:12.955 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:21:14.245 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:21:15.403 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:21:16.550 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:21:17.688 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:21:18.802 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:21:19.914 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:22:00.981 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:22:02.162 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:22:03.393 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:22:04.607 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:22:05.744 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:22:06.949 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:22:08.234 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:22:09.495 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:22:10.736 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:22:11.970 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:22:13.140 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:22:14.305 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:22:17.943 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:22:19.090 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:23:00.883 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:23:02.050 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:23:03.198 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:23:04.342 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:23:05.472 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:23:06.604 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:23:07.891 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:23:09.200 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:23:10.421 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:23:11.599 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:23:12.806 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:23:16.858 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:23:18.272 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:23:19.463 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:24:00.145 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:24:01.258 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:24:02.401 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:24:03.559 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:24:04.680 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:24:05.800 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:24:06.924 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:24:08.070 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:24:09.208 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:24:10.334 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:24:11.506 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:24:12.698 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:24:13.835 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:24:14.947 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:24:16.066 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:24:17.221 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:24:18.358 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:24:19.506 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:25:01.014 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:25:02.152 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:25:03.290 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:25:04.421 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:25:05.531 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:25:06.653 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:25:07.821 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:25:08.955 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:25:10.062 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:25:11.183 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:25:12.328 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:25:13.469 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:25:14.588 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:25:15.713 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:25:16.871 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:25:18.001 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:25:19.115 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:26:00.711 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:26:01.847 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:26:03.064 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:26:04.194 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:26:05.323 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:26:06.485 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:26:07.650 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:26:08.783 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:26:09.921 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:26:11.061 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:26:12.191 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:26:13.348 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:26:14.475 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:26:15.628 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:26:16.750 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:26:17.864 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:26:18.992 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:27:00.619 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:27:01.751 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:27:02.888 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:27:04.016 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:27:05.138 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:27:06.258 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:27:07.383 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:27:08.502 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:27:09.697 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:27:10.832 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:27:11.971 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:27:13.095 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:27:14.211 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:27:15.336 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:27:16.454 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:27:17.601 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:27:18.713 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:27:19.843 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:28:00.420 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:28:01.533 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:28:02.666 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:28:03.792 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:28:04.945 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:28:06.062 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:28:07.194 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:28:08.333 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:28:09.527 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:28:10.644 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:28:11.762 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:28:12.903 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:28:14.011 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:28:15.158 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:28:16.307 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:28:17.465 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:28:18.588 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:28:19.710 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:29:00.279 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:29:01.425 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:29:02.560 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:29:03.738 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:29:04.867 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:29:06.013 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:29:07.121 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:29:08.232 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:29:09.399 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:29:10.529 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:29:11.664 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:29:12.823 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:29:15.967 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:29:17.097 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:29:18.226 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:29:19.344 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:30:00.919 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:30:02.052 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:30:03.299 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:30:07.922 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:30:09.122 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:30:10.240 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:30:11.349 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:30:12.474 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:30:13.619 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:30:14.740 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:30:15.853 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:30:16.967 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:30:18.077 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:30:19.263 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:31:00.833 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:31:01.970 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:31:03.098 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:31:04.275 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:31:05.467 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:31:06.590 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:31:07.747 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:31:08.855 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:31:09.963 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:31:11.074 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:31:12.248 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:31:13.358 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:31:14.469 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:31:15.605 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:31:16.737 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:31:17.850 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:31:18.968 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:31:20.100 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:32:00.659 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:32:01.834 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:32:02.958 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:32:04.068 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:32:05.201 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:32:06.379 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:32:07.507 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:32:08.633 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:32:09.755 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:32:10.914 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:32:12.048 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:32:13.188 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:32:14.334 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:32:15.472 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:32:16.595 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:32:17.716 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:32:18.838 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:32:20.686 - New_Camera_State_Event: 14.160.26.245 - Lost Connection - EmptySlot: 0
+INFO 2021-11-13 09:33:00.225 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:33:01.385 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:33:02.503 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:33:03.653 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:33:04.797 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:33:05.915 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:33:07.061 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:33:08.299 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:33:09.461 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:33:10.585 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:33:11.718 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:33:12.840 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:33:14.024 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:33:15.263 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:33:16.413 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:33:17.539 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:33:18.690 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:33:19.808 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:34:00.689 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:34:01.990 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:34:03.202 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:34:04.441 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:34:05.635 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:34:06.859 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:34:08.051 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:34:09.200 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:34:10.441 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:34:11.604 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:34:12.940 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:34:14.103 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:34:15.321 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:34:16.560 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:34:18.701 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:34:19.868 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:35:00.551 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:35:02.054 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:35:03.333 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:35:04.472 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:35:05.645 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:35:06.806 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:35:08.000 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:35:09.176 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:35:10.331 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:35:12.285 - New_Camera_State_Event: 14.160.26.245 - Lost Connection - EmptySlot: 0
+INFO 2021-11-13 09:35:13.499 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:35:14.637 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:35:16.676 - New_Camera_State_Event: 14.160.26.245 - Lost Connection - EmptySlot: 0
+INFO 2021-11-13 09:35:17.857 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:35:19.045 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:36:00.768 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:36:01.897 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:36:03.040 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:36:04.235 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:36:05.378 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:36:06.529 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:36:07.670 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:36:08.805 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:36:09.911 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:36:11.031 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:36:12.142 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:36:13.336 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:36:14.455 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:36:15.583 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:36:16.733 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:36:17.867 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:36:19.095 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:36:53.968 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:36:54.808 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:36:55.482 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:36:56.141 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:36:56.801 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:36:57.197 - Receive CommandGetInforFrom192.168.1.231At01
+INFO 2021-11-13 09:36:57.207 - Send Data Success: ImagePathD:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Data\2021_11_13_09_23_15.png,1,30E-88065
+INFO 2021-11-13 09:36:57.473 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:36:58.138 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:36:58.808 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:36:59.479 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:37:00.144 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:37:00.802 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:37:01.277 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:37:01.510 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:37:02.181 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:37:02.431 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:37:03.665 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:37:04.882 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:37:06.031 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:37:07.212 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:37:08.481 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:37:09.628 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:37:10.955 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:37:12.737 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:37:14.068 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:37:15.618 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:37:17.362 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:37:18.859 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:38:00.916 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:38:02.359 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:38:03.745 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:38:04.921 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:38:06.123 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:38:07.333 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:38:08.590 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:38:09.837 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:38:11.236 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:38:12.444 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:38:14.004 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:38:15.281 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:38:20.512 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:39:01.327 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:39:02.888 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:39:04.424 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:39:05.918 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:39:07.254 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:39:08.572 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:39:09.877 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:39:11.328 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:39:12.643 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:39:14.081 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:39:15.351 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:39:16.572 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:39:17.744 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:39:18.901 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:39:20.132 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:39:35.407 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:39:36.159 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:39:36.829 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:39:37.493 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:39:38.159 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:39:38.822 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:39:39.423 - Receive CommandGetInforFrom192.168.1.231At01
+INFO 2021-11-13 09:39:39.433 - Send Data Success: ImagePathD:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Data\2021_11_13_09_38_18.png,1,30E-88065
+INFO 2021-11-13 09:39:39.494 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:39:40.162 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:39:40.831 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:39:41.495 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:39:42.165 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:39:42.832 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:39:43.504 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:39:44.172 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:39:44.845 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:39:45.511 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:39:46.177 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:39:46.850 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:39:47.519 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:39:48.186 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:39:48.856 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:39:49.579 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:39:50.249 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:39:50.915 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:39:51.582 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:39:52.248 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:39:52.913 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:39:53.579 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:39:54.249 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:39:54.918 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:39:55.579 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:39:56.252 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:39:56.920 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:39:57.647 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:39:58.316 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:40:01.032 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:40:02.150 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:40:03.323 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:40:04.474 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:40:05.614 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:40:06.814 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:40:08.152 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:40:09.339 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:40:10.529 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:40:11.703 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:40:12.912 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:40:14.141 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:40:15.340 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:40:16.512 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:40:17.677 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:40:18.826 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:40:20.059 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:40:44.372 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:40:45.356 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:40:46.029 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:40:46.694 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:40:47.363 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:40:48.024 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:40:48.759 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:40:49.438 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:40:50.142 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:40:50.825 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:40:51.505 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:40:52.176 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:40:52.837 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:40:53.502 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:40:54.170 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:40:54.832 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:40:55.498 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:40:56.167 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:40:56.835 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:40:57.499 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:40:58.167 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:40:58.836 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:40:59.501 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:41:00.166 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:41:00.774 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:41:00.835 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:41:01.498 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:41:01.665 - Receive CommandGetInforFrom192.168.1.231At01
+INFO 2021-11-13 09:41:01.676 - Send Data Success: ImagePathD:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Data\2021_11_13_09_38_18.png,1,30E-88065
+INFO 2021-11-13 09:41:02.061 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:41:02.160 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:41:03.317 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:41:04.517 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:41:05.668 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:41:06.802 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:41:07.927 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:41:09.094 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:41:10.989 - New_Camera_State_Event: 14.160.26.245 - Lost Connection - EmptySlot: 0
+INFO 2021-11-13 09:41:12.133 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:41:13.284 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:41:14.418 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:41:15.549 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:41:16.933 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:41:18.079 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:41:19.248 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:41:26.001 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:41:29.350 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:41:40.524 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:42:01.044 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:42:02.258 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:42:03.579 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:42:04.892 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:42:06.168 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:42:07.611 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:42:08.811 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:42:10.006 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:42:11.160 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:42:12.580 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:42:13.893 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:42:15.227 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:42:16.717 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:42:18.051 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:42:20.321 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:42:27.634 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:42:28.449 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:42:29.112 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:42:29.581 - Receive CommandGetInforFrom192.168.1.231At01
+INFO 2021-11-13 09:42:29.591 - Send Data Success: ImagePathD:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Data\2021_11_13_09_38_18.png,1,30E-88065
+INFO 2021-11-13 09:42:29.782 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:42:31.845 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:42:33.548 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:42:34.218 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:42:34.887 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:42:35.553 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:42:36.237 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:43:01.060 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:43:02.200 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:43:03.320 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:43:04.501 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:43:05.644 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:43:06.771 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:43:07.899 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:43:09.056 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:43:10.222 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:43:11.347 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:43:12.494 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:43:13.666 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:43:14.859 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:43:16.038 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:43:17.170 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:43:18.500 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:43:19.655 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:43:43.083 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:43:44.132 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:43:44.807 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:43:44.896 - Receive CommandGetInforFrom192.168.1.231At01
+INFO 2021-11-13 09:43:44.906 - Send Data Success: ImagePathD:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Data\2021_11_13_09_38_18.png,1,30E-88065
+INFO 2021-11-13 09:43:45.474 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:43:49.009 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:43:49.674 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:43:50.343 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:43:51.006 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:43:51.672 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:43:52.341 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:43:53.008 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:43:53.675 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:43:54.341 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:43:55.007 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:43:55.672 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:43:56.341 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:43:57.010 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:43:57.676 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:43:58.347 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:43:59.013 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:43:59.684 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:44:00.352 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:44:00.599 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:44:01.018 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:44:01.686 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:44:01.732 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:44:02.346 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:44:02.890 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:44:03.017 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:44:03.685 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:44:04.099 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:44:04.418 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:44:05.078 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:44:05.319 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:44:05.742 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:44:06.408 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:44:06.509 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:44:07.066 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:44:07.693 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:44:07.726 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:44:08.394 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:44:08.997 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:44:09.101 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:44:09.773 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 09:44:10.144 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:44:11.346 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:44:12.521 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:44:13.677 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:44:14.868 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:44:16.036 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:44:17.209 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:44:18.399 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:44:19.621 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:45:00.314 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:45:01.546 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:45:02.677 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:45:03.806 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:45:04.972 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:45:06.147 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:45:07.358 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:45:08.735 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:45:10.118 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:45:11.298 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:45:12.469 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:45:13.647 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:45:14.831 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:45:15.949 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:45:17.094 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:45:18.248 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:45:19.396 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:46:00.871 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:46:01.997 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:46:03.137 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:46:04.311 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:46:05.771 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:46:06.900 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:46:08.038 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:46:09.191 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:46:10.320 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:46:11.492 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:46:12.640 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:46:13.771 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:46:14.925 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:46:16.051 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:46:17.174 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:46:18.311 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:46:19.479 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:47:01.148 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:47:02.488 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:47:03.783 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:47:06.067 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:47:07.368 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:47:08.829 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:47:10.154 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:47:11.347 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:47:12.529 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:47:13.660 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:47:15.147 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:47:16.311 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:47:17.473 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:47:18.660 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:47:19.814 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:48:00.763 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:48:02.069 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:48:05.151 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:48:06.887 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:48:08.067 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:48:09.416 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:48:10.728 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:48:12.008 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:48:13.369 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:48:14.655 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:48:17.252 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:48:18.498 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:48:19.742 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:49:00.296 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:49:06.709 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:49:08.319 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:49:09.604 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:49:11.064 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:49:12.431 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:49:13.680 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:49:14.916 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:49:16.356 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:49:17.624 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:49:18.941 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:50:00.492 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:50:02.246 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:50:03.649 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:50:04.898 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:50:06.653 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:50:07.953 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:50:09.198 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:50:10.350 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:50:13.504 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:50:14.671 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:50:15.813 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:50:19.354 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:51:01.195 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:51:03.297 - New_Camera_State_Event: 14.160.26.245 - Lost Connection - EmptySlot: 0
+INFO 2021-11-13 09:51:04.638 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:51:05.895 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:51:07.652 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:51:08.931 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:51:12.502 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:51:13.675 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:51:15.856 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:51:17.007 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:51:18.199 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:51:19.419 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:52:01.116 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:52:02.302 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:52:03.474 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:52:04.688 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:52:05.852 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:52:07.019 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:52:08.188 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:52:11.359 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:52:13.509 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:52:15.879 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:52:18.023 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:52:19.254 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:53:00.711 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:53:01.886 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:53:06.052 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:53:10.380 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:53:11.598 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:53:12.754 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:53:13.922 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:53:15.105 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:53:18.213 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:53:19.424 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:54:01.121 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:54:02.304 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:54:03.737 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:54:05.650 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:54:06.840 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:54:08.005 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:54:09.234 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:54:10.674 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:54:11.836 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:54:13.013 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:54:14.369 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:54:16.774 - New_Camera_State_Event: 14.160.26.245 - Lost Connection - EmptySlot: 0
+INFO 2021-11-13 09:54:17.968 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:54:19.313 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:55:00.936 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:55:02.085 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:55:03.253 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:55:04.414 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:55:06.575 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:55:07.738 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:55:08.864 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:55:10.015 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:55:16.241 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:55:18.543 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:55:19.822 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:56:01.376 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:56:02.528 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:56:03.704 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:56:04.877 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:56:06.009 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:56:07.215 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:56:08.402 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:56:13.513 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:56:14.701 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:56:15.835 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:56:16.994 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:56:18.157 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:57:01.038 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:57:02.439 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:57:03.687 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:57:05.677 - New_Camera_State_Event: 14.160.26.245 - Lost Connection - EmptySlot: 0
+INFO 2021-11-13 09:57:06.812 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:57:07.995 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:57:09.240 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:57:10.440 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:57:11.713 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:57:12.891 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:57:14.026 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:57:15.240 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:57:18.571 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:57:19.793 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:58:01.741 - New_Camera_State_Event: 14.160.26.245 - Lost Connection - EmptySlot: 0
+INFO 2021-11-13 09:58:03.011 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:58:06.954 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:58:08.118 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:58:09.388 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:58:10.578 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:58:11.725 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:58:12.995 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:58:14.214 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:58:15.332 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:58:16.529 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:58:17.707 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:58:18.829 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:58:19.991 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:59:00.568 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:59:01.724 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:59:03.623 - New_Camera_State_Event: 14.160.26.245 - Lost Connection - EmptySlot: 0
+INFO 2021-11-13 09:59:04.764 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:59:05.876 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:59:07.161 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:59:08.340 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:59:09.577 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:59:10.871 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:59:12.081 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:59:13.299 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 09:59:18.986 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 10:00:00.382 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 10:00:06.038 - New_Camera_State_Event: 14.160.26.245 - Lost Connection - EmptySlot: 0
+INFO 2021-11-13 10:00:07.342 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 10:00:10.423 - New_Camera_State_Event: 14.160.26.245 - Lost Connection - EmptySlot: 0
+INFO 2021-11-13 12:01:22.825 - Start App
+INFO 2021-11-13 12:01:23.230 - Khởi tạo TCP Server thành công
+INFO 2021-11-13 12:01:23.294 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:02:00.910 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 12:02:05.721 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 12:02:06.854 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 12:02:07.953 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 12:02:09.048 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 12:02:10.151 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 12:02:11.221 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 12:02:12.325 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 12:02:13.443 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 12:02:14.550 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 12:02:15.639 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 12:02:16.735 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 12:02:17.818 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 12:02:18.942 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 12:02:20.041 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 12:02:31.720 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:02:33.846 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:02:34.526 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:02:35.190 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:02:35.873 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:02:36.541 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:02:37.204 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:02:37.873 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:02:38.533 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:02:39.207 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:02:39.871 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:02:40.543 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:02:41.221 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:02:41.922 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:02:42.596 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:02:43.265 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:02:43.932 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:02:44.599 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:02:45.325 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:03:00.824 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 12:03:02.105 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 12:03:03.327 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 12:03:03.617 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:03:04.562 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:03:04.613 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 12:03:05.250 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:03:05.746 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 12:03:05.924 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:03:06.593 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:03:06.846 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 12:03:07.260 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:03:07.949 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:03:07.988 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 12:03:08.609 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:03:09.098 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 12:03:09.323 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:03:09.990 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:03:10.220 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 12:03:10.667 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:03:11.334 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 12:03:11.364 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:03:12.032 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:03:12.708 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:03:13.378 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:03:14.053 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:03:14.718 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:03:14.851 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 12:03:15.386 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:03:15.951 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 12:03:16.051 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:03:16.707 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:03:17.077 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 12:03:17.389 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:03:18.056 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:03:18.200 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 12:03:18.723 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:03:19.274 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 12:03:19.386 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:03:20.061 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:03:33.455 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:03:34.299 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:03:34.974 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:03:35.644 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:03:36.310 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:03:36.977 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:03:37.644 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:03:38.313 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:03:38.982 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:03:39.648 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:03:40.318 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:03:40.986 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:03:41.659 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:03:42.321 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:03:42.994 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:03:43.677 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:03:44.357 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:03:45.035 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:03:45.704 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:03:46.371 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:03:47.038 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:03:47.711 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:03:48.370 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:03:49.040 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:03:49.729 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:03:50.402 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:03:51.081 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:04:01.108 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 12:04:04.508 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:04:04.724 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 12:04:05.897 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 12:04:07.058 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 12:04:08.169 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 12:04:09.270 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 12:04:10.403 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 12:04:11.502 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 12:04:12.629 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 12:04:13.720 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 12:04:14.804 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 12:04:16.150 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 12:04:17.268 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 12:04:18.362 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 12:04:19.500 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 12:04:54.561 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:05:00.158 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 12:05:01.253 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 12:05:02.383 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 12:05:03.468 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 12:05:04.555 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 12:05:05.646 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 12:05:06.728 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 12:05:06.901 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:05:07.569 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:05:07.819 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 12:05:08.236 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:05:08.924 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:05:08.930 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 12:05:09.588 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:05:10.024 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 12:05:10.254 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:05:10.921 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:05:11.102 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 12:05:11.586 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:05:12.196 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 12:05:12.256 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-11-13 12:05:13.356 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 12:05:14.451 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 12:05:15.522 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 12:05:16.601 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 12:05:17.685 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 12:05:18.805 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 12:05:19.925 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-11-13 12:05:25.966 - Close App

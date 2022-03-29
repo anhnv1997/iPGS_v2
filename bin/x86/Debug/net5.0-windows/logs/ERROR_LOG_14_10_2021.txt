@@ -1,0 +1,15 @@
+ERROR 2021-10-14 14:49:21.295 - Access DB: Not a valid file name.
+ERROR 2021-10-14 14:49:21.394 - Access DB: Error while get data fom table: Not a valid file name.
+select * from tblCamera order by ID
+ERROR 2021-10-14 14:49:21.470 - Access DB: Error while get data fom table: Not a valid file name.
+Select * from tblComputer
+ERROR 2021-10-14 14:49:27.249 - Access DB: Not a valid file name.
+ERROR 2021-10-14 14:49:27.345 - Access DB: Error while get data fom table: Not a valid file name.
+Select * from tblComputer
+ERROR 2021-10-14 14:49:27.472 - Access DB: Error while get data fom table: Not a valid file name.
+select * from tblCamera order by ID
+ERROR 2021-10-14 14:49:27.522 - Access DB: Error while get data fom table: Not a valid file name.
+select * from tblUser order by ID
+ERROR 2021-10-14 14:49:32.275 - Access DB: Not a valid file name.
+ERROR 2021-10-14 14:49:48.018 - Access DB: Error while excute command: ExecuteNonQuery requires an open and available Connection. The connection's current state is closed.
+Insert into tblCamera(CameraType,CameraName,[IP],[Port],[Login],[Password],[ImagePath]) values('HIKVision','HIK','192.168.20.170',85,'admin','Kztek123456','')

@@ -1,0 +1,46 @@
+ERROR 2021-05-25 09:26:11.123 - Camera address 1 chưa có trong CSDL
+ERROR 2021-05-25 09:38:29.497 - Camera address 1 chưa có trong CSDL
+ERROR 2021-05-25 09:47:09.003 - Camera address 1 chưa có trong CSDL
+ERROR 2021-05-25 09:55:47.383 - Camera address 1 chưa có trong CSDL
+ERROR 2021-05-25 10:30:22.814 - Camera Error: System.ArgumentNullException: Value cannot be null. (Parameter 'inArray')
+   at System.Convert.ToBase64String(Byte[] inArray)
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 576
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 135
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 129
+ERROR 2021-05-25 10:43:07.731 - Camera Error: System.ArgumentNullException: Value cannot be null. (Parameter 'inArray')
+   at System.Convert.ToBase64String(Byte[] inArray)
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 576
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 135
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 129
+ERROR 2021-05-25 10:44:23.684 - Không lấy được hình ảnh
+ERROR 2021-05-25 10:48:23.597 - Không lấy được hình ảnh
+ERROR 2021-05-25 10:49:04.063 - Không lấy được hình ảnh
+ERROR 2021-05-25 10:51:43.956 - Không lấy được hình ảnh
+ERROR 2021-05-25 10:53:27.197 - Camera Error: System.ArgumentNullException: Value cannot be null. (Parameter 'inArray')
+   at System.Convert.ToBase64String(Byte[] inArray)
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 576
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 135
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 129
+ERROR 2021-05-25 10:57:24.248 - Không lấy được hình ảnh
+ERROR 2021-05-25 11:00:26.689 - Camera Error: System.ArgumentNullException: Value cannot be null. (Parameter 'inArray')
+   at System.Convert.ToBase64String(Byte[] inArray)
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 576
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 135
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 129
+ERROR 2021-05-25 11:03:47.828 - Không lấy được hình ảnh
+ERROR 2021-05-25 11:06:06.434 - Camera Error: System.ArgumentNullException: Value cannot be null. (Parameter 'inArray')
+   at System.Convert.ToBase64String(Byte[] inArray)
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 576
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 135
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 129
+ERROR 2021-05-25 11:14:50.598 - Không lấy được hình ảnh
+ERROR 2021-05-25 11:19:24.340 - Camera Error: System.ArgumentNullException: Value cannot be null. (Parameter 'inArray')
+   at System.Convert.ToBase64String(Byte[] inArray)
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 576
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 135
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 129
+ERROR 2021-05-25 11:35:36.166 - Camera Error: System.ArgumentNullException: Value cannot be null. (Parameter 'inArray')
+   at System.Convert.ToBase64String(Byte[] inArray)
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 577
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 135
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 129

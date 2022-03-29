@@ -1,0 +1,84 @@
+ERROR 2021-07-28 08:16:37.834 - Thiết lập sai IP
+ERROR 2021-07-28 08:16:38.036 - System.InvalidOperationException: You must call the Bind method before performing this operation.
+   at System.Net.Sockets.Socket.Accept()
+   at Kztek.iZCU.frmMainForm.udpServer_Worker_DoWork(Object sender1, DoWorkEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 135
+ERROR 2021-07-28 08:16:47.678 - Access DB: Error while get data fom table: The Microsoft Jet database engine cannot find the input table or query 'tblUser'.  Make sure it exists and that its name is spelled correctly.
+select * from tblUser order by ID
+ERROR 2021-07-28 08:17:08.283 - Không lấy được hình ảnh
+ERROR 2021-07-28 08:17:23.710 - Camera Error: System.ArgumentNullException: Value cannot be null. (Parameter 'bytes')
+   at System.IO.File.WriteAllBytes(String path, Byte[] bytes)
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 565
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 125
+ERROR 2021-07-28 08:18:17.631 - Không lấy được hình ảnh
+ERROR 2021-07-28 08:19:05.512 - Camera Error: System.ArgumentNullException: Value cannot be null. (Parameter 'bytes')
+   at System.IO.File.WriteAllBytes(String path, Byte[] bytes)
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 565
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 125
+ERROR 2021-07-28 08:19:11.139 - Camera Error: System.ArgumentNullException: Value cannot be null. (Parameter 'bytes')
+   at System.IO.File.WriteAllBytes(String path, Byte[] bytes)
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 565
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 125
+ERROR 2021-07-28 08:19:19.129 - Camera Error: System.ArgumentNullException: Value cannot be null. (Parameter 'bytes')
+   at System.IO.File.WriteAllBytes(String path, Byte[] bytes)
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 565
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 125
+ERROR 2021-07-28 08:19:45.777 - Access DB: Error while get data fom table: The Microsoft Jet database engine cannot find the input table or query 'tblUser'.  Make sure it exists and that its name is spelled correctly.
+select * from tblUser order by ID
+ERROR 2021-07-28 08:19:54.092 - Access DB: Error while get data fom table: The Microsoft Jet database engine cannot find the input table or query 'tblUser'.  Make sure it exists and that its name is spelled correctly.
+select * from tblUser order by ID
+ERROR 2021-07-28 08:20:08.990 - Camera Error: System.ArgumentNullException: Value cannot be null. (Parameter 'bytes')
+   at System.IO.File.WriteAllBytes(String path, Byte[] bytes)
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 565
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 125
+ERROR 2021-07-28 08:20:12.726 - Load Image Error
+ERROR 2021-07-28 08:21:00.365 - Thiết lập sai IP
+ERROR 2021-07-28 08:21:00.519 - System.InvalidOperationException: You must call the Bind method before performing this operation.
+   at System.Net.Sockets.Socket.Accept()
+   at Kztek.iZCU.frmMainForm.udpServer_Worker_DoWork(Object sender1, DoWorkEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 135
+ERROR 2021-07-28 08:21:07.882 - Không lấy được hình ảnh
+ERROR 2021-07-28 08:21:10.280 - Load Image Error
+ERROR 2021-07-28 08:23:08.093 - Load Image Error
+ERROR 2021-07-28 08:23:13.510 - Load Image Error
+ERROR 2021-07-28 08:23:16.176 - Load Image Error
+ERROR 2021-07-28 08:23:24.468 - Camera Error: System.ArgumentNullException: Value cannot be null. (Parameter 'bytes')
+   at System.IO.File.WriteAllBytes(String path, Byte[] bytes)
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 565
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 125
+ERROR 2021-07-28 08:24:09.981 - Camera Error: System.ArgumentNullException: Value cannot be null. (Parameter 'bytes')
+   at System.IO.File.WriteAllBytes(String path, Byte[] bytes)
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 565
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 125
+ERROR 2021-07-28 08:25:06.509 - Camera Error: System.ArgumentNullException: Value cannot be null. (Parameter 'bytes')
+   at System.IO.File.WriteAllBytes(String path, Byte[] bytes)
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 565
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 125
+ERROR 2021-07-28 08:25:14.553 - Camera Error: System.ArgumentNullException: Value cannot be null. (Parameter 'bytes')
+   at System.IO.File.WriteAllBytes(String path, Byte[] bytes)
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 565
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 125
+ERROR 2021-07-28 08:25:20.217 - Camera Error: System.ArgumentNullException: Value cannot be null. (Parameter 'bytes')
+   at System.IO.File.WriteAllBytes(String path, Byte[] bytes)
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 565
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 125
+ERROR 2021-07-28 08:26:06.068 - Camera Error: System.ArgumentNullException: Value cannot be null. (Parameter 'bytes')
+   at System.IO.File.WriteAllBytes(String path, Byte[] bytes)
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 565
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 125
+ERROR 2021-07-28 08:26:14.449 - Không lấy được hình ảnh
+ERROR 2021-07-28 08:26:19.502 - Camera Error: System.ArgumentNullException: Value cannot be null. (Parameter 'bytes')
+   at System.IO.File.WriteAllBytes(String path, Byte[] bytes)
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 565
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 125
+ERROR 2021-07-28 08:27:11.121 - Không lấy được hình ảnh

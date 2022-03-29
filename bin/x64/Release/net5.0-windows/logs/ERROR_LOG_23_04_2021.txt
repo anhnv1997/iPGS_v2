@@ -1,0 +1,13 @@
+ERROR 2021-04-23 07:15:32.578 - Access DB: The 'Microsoft.Jet.OLEDB.4.0' provider is not registered on the local machine.
+ERROR 2021-04-23 07:15:32.798 - Access DB: Error while get data fom table: The 'Microsoft.Jet.OLEDB.4.0' provider is not registered on the local machine.
+select * from tblCamera
+ERROR 2021-04-23 07:47:38.956 - Access DB: The 'Microsoft.Jet.OLEDB.4.0' provider is not registered on the local machine.
+ERROR 2021-04-23 07:47:39.234 - Access DB: Error while get data fom table: The 'Microsoft.Jet.OLEDB.4.0' provider is not registered on the local machine.
+select * from tblCamera
+ERROR 2021-04-23 07:48:23.035 - Access DB: The 'Microsoft.Jet.OLEDB.4.0' provider is not registered on the local machine.
+ERROR 2021-04-23 07:48:23.258 - Access DB: Error while get data fom table: The 'Microsoft.Jet.OLEDB.4.0' provider is not registered on the local machine.
+select * from tblCamera
+ERROR 2021-04-23 07:48:47.396 - Access DB: The 'Microsoft.Jet.OLEDB.4.0' provider is not registered on the local machine.
+ERROR 2021-04-23 07:49:35.548 - Access DB: Error while get data fom table: The 'Microsoft.Jet.OLEDB.4.0' provider is not registered on the local machine.
+select * from tblCamera
+ERROR 2021-04-23 08:32:16.510 - Access DB: The 'Microsoft.Jet.OLEDB.4.00' provider is not registered on the local machine.

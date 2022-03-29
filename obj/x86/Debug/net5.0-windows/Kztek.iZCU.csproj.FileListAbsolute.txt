@@ -1,0 +1,87 @@
+C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Kztek.iZCU.exe
+C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Kztek.iZCU.deps.json
+C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Kztek.iZCU.runtimeconfig.json
+C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Kztek.iZCU.runtimeconfig.dev.json
+C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Kztek.iZCU.dll
+C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\ref\Kztek.iZCU.dll
+C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Kztek.iZCU.pdb
+C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\RestSharp.dll
+C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\RestSharp.Authenticators.Digest.dll
+C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\System.Data.OleDb.dll
+C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Kztek.Databases.dll
+C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\obj\x86\Debug\net5.0-windows\Kztek.iZCU.frmMainForm.resources
+C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\obj\x86\Debug\net5.0-windows\Kztek.iZCU.frmSetting.resources
+C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\obj\x86\Debug\net5.0-windows\Kztek.iZCU.Properties.Resources.resources
+C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\obj\x86\Debug\net5.0-windows\Kztek.iZCU.csproj.GenerateResource.cache
+C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\obj\x86\Debug\net5.0-windows\Kztek.iZCU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\obj\x86\Debug\net5.0-windows\Kztek.iZCU.AssemblyInfoInputs.cache
+C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\obj\x86\Debug\net5.0-windows\Kztek.iZCU.AssemblyInfo.cs
+C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\obj\x86\Debug\net5.0-windows\Kztek.iZCU.csproj.CoreCompileInputs.cache
+C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\obj\x86\Debug\net5.0-windows\Kztek.iZCU.csproj.CopyComplete
+C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\obj\x86\Debug\net5.0-windows\Kztek.iZCU.dll
+C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\obj\x86\Debug\net5.0-windows\ref\Kztek.iZCU.dll
+C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\obj\x86\Debug\net5.0-windows\Kztek.iZCU.pdb
+C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\obj\x86\Debug\net5.0-windows\Kztek.iZCU.genruntimeconfig.cache
+C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\obj\x86\Debug\net5.0-windows\Kztek.iZCU.frmCamera.resources
+C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\obj\x86\Debug\net5.0-windows\Kztek.iZCU.frmLiveView.resources
+C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\obj\x86\Debug\net5.0-windows\Kztek.iZCU.csproj.AssemblyReference.cache
+C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\obj\x86\Debug\net5.0-windows\Kztek.iZCU.frmShowPIC.resources
+D:\2.KZTECH\Dự Án\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Kztek.iZCU.exe
+D:\2.KZTECH\Dự Án\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Kztek.iZCU.deps.json
+D:\2.KZTECH\Dự Án\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Kztek.iZCU.runtimeconfig.json
+D:\2.KZTECH\Dự Án\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Kztek.iZCU.runtimeconfig.dev.json
+D:\2.KZTECH\Dự Án\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Kztek.iZCU.dll
+D:\2.KZTECH\Dự Án\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\ref\Kztek.iZCU.dll
+D:\2.KZTECH\Dự Án\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Kztek.iZCU.pdb
+D:\2.KZTECH\Dự Án\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\RestSharp.dll
+D:\2.KZTECH\Dự Án\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\RestSharp.Authenticators.Digest.dll
+D:\2.KZTECH\Dự Án\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\System.Data.OleDb.dll
+D:\2.KZTECH\Dự Án\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+D:\2.KZTECH\Dự Án\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Kztek.Databases.dll
+D:\2.KZTECH\Dự Án\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\obj\x86\Debug\net5.0-windows\Kztek.iZCU.csproj.AssemblyReference.cache
+D:\2.KZTECH\Dự Án\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\obj\x86\Debug\net5.0-windows\Kztek.iZCU.frmCamera.resources
+D:\2.KZTECH\Dự Án\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\obj\x86\Debug\net5.0-windows\Kztek.iZCU.frmLiveView.resources
+D:\2.KZTECH\Dự Án\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\obj\x86\Debug\net5.0-windows\Kztek.iZCU.frmMainForm.resources
+D:\2.KZTECH\Dự Án\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\obj\x86\Debug\net5.0-windows\Kztek.iZCU.frmSetting.resources
+D:\2.KZTECH\Dự Án\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\obj\x86\Debug\net5.0-windows\Kztek.iZCU.frmShowPIC.resources
+D:\2.KZTECH\Dự Án\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\obj\x86\Debug\net5.0-windows\Kztek.iZCU.Properties.Resources.resources
+D:\2.KZTECH\Dự Án\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\obj\x86\Debug\net5.0-windows\Kztek.iZCU.csproj.GenerateResource.cache
+D:\2.KZTECH\Dự Án\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\obj\x86\Debug\net5.0-windows\Kztek.iZCU.GeneratedMSBuildEditorConfig.editorconfig
+D:\2.KZTECH\Dự Án\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\obj\x86\Debug\net5.0-windows\Kztek.iZCU.AssemblyInfoInputs.cache
+D:\2.KZTECH\Dự Án\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\obj\x86\Debug\net5.0-windows\Kztek.iZCU.AssemblyInfo.cs
+D:\2.KZTECH\Dự Án\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\obj\x86\Debug\net5.0-windows\Kztek.iZCU.csproj.CoreCompileInputs.cache
+D:\2.KZTECH\Dự Án\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\obj\x86\Debug\net5.0-windows\Kztek.iZCU.csproj.CopyComplete
+D:\2.KZTECH\Dự Án\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\obj\x86\Debug\net5.0-windows\Kztek.iZCU.dll
+D:\2.KZTECH\Dự Án\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\obj\x86\Debug\net5.0-windows\ref\Kztek.iZCU.dll
+D:\2.KZTECH\Dự Án\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\obj\x86\Debug\net5.0-windows\Kztek.iZCU.pdb
+D:\2.KZTECH\Dự Án\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\obj\x86\Debug\net5.0-windows\Kztek.iZCU.genruntimeconfig.cache
+D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Kztek.iZCU.exe
+D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Kztek.iZCU.deps.json
+D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Kztek.iZCU.runtimeconfig.json
+D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Kztek.iZCU.runtimeconfig.dev.json
+D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Kztek.iZCU.dll
+D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\ref\Kztek.iZCU.dll
+D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Kztek.iZCU.pdb
+D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\RestSharp.dll
+D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\RestSharp.Authenticators.Digest.dll
+D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\System.Data.OleDb.dll
+D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Kztek.Databases.dll
+D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\obj\x86\Debug\net5.0-windows\Kztek.iZCU.csproj.AssemblyReference.cache
+D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\obj\x86\Debug\net5.0-windows\Kztek.iZCU.frmCamera.resources
+D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\obj\x86\Debug\net5.0-windows\Kztek.iZCU.frmLiveView.resources
+D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\obj\x86\Debug\net5.0-windows\Kztek.iZCU.frmMainForm.resources
+D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\obj\x86\Debug\net5.0-windows\Kztek.iZCU.frmSetting.resources
+D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\obj\x86\Debug\net5.0-windows\Kztek.iZCU.frmShowPIC.resources
+D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\obj\x86\Debug\net5.0-windows\Kztek.iZCU.Properties.Resources.resources
+D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\obj\x86\Debug\net5.0-windows\Kztek.iZCU.csproj.GenerateResource.cache
+D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\obj\x86\Debug\net5.0-windows\Kztek.iZCU.GeneratedMSBuildEditorConfig.editorconfig
+D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\obj\x86\Debug\net5.0-windows\Kztek.iZCU.AssemblyInfoInputs.cache
+D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\obj\x86\Debug\net5.0-windows\Kztek.iZCU.AssemblyInfo.cs
+D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\obj\x86\Debug\net5.0-windows\Kztek.iZCU.csproj.CoreCompileInputs.cache
+D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\obj\x86\Debug\net5.0-windows\Kztek.iZCU.dll
+D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\obj\x86\Debug\net5.0-windows\ref\Kztek.iZCU.dll
+D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\obj\x86\Debug\net5.0-windows\Kztek.iZCU.pdb
+D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\obj\x86\Debug\net5.0-windows\Kztek.iZCU.genruntimeconfig.cache
+D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\obj\x86\Debug\net5.0-windows\Kztek.iZCU.csproj.CopyComplete

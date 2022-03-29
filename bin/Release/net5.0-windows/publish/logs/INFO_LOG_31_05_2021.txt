@@ -1,0 +1,17 @@
+INFO 2021-05-31 16:11:29.456 - Start App
+INFO 2021-05-31 16:11:31.354 - Khởi tạo TCP Server thành công
+INFO 2021-05-31 16:11:41.415 - New_Camera_State_Event: 192.168.20.170 - New Event - EmptySlot: 1
+INFO 2021-05-31 16:11:41.769 - New_Camera_State_Event: 192.168.20.171 - Lost Connection - EmptySlot: 0
+INFO 2021-05-31 16:11:42.765 - New_Camera_State_Event: 192.168.20.172 - Lost Connection - EmptySlot: 0
+INFO 2021-05-31 16:38:31.828 - Start App
+INFO 2021-05-31 16:38:38.361 - Khởi tạo TCP Server thành công
+INFO 2021-05-31 16:38:42.158 - New_Camera_State_Event: 192.168.20.171 - Lost Connection - EmptySlot: 0
+INFO 2021-05-31 16:38:42.773 - New_Camera_State_Event: 192.168.20.172 - Lost Connection - EmptySlot: 0
+INFO 2021-05-31 16:38:45.426 - New_Camera_State_Event: 192.168.20.170 - New Event - EmptySlot: 1
+INFO 2021-05-31 16:39:17.784 - Close App
+INFO 2021-05-31 16:45:02.845 - Start App
+INFO 2021-05-31 16:45:03.838 - Khởi tạo TCP Server thành công
+INFO 2021-05-31 16:45:20.986 - New_Camera_State_Event: 192.168.20.170 - New Event - EmptySlot: 1
+INFO 2021-05-31 16:45:21.757 - New_Camera_State_Event: 192.168.20.171 - Lost Connection - EmptySlot: 0
+INFO 2021-05-31 16:45:22.759 - New_Camera_State_Event: 192.168.20.172 - Lost Connection - EmptySlot: 0
+INFO 2021-05-31 16:45:33.666 - Close App

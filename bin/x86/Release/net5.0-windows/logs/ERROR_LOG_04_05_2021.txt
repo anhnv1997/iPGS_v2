@@ -1,0 +1,108 @@
+ERROR 2021-05-04 08:28:01.316 - Camera Error: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 311
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 131
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 216
+ERROR 2021-05-04 09:45:20.134 - System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   at System.Net.Sockets.Socket.ReceiveFrom(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, EndPoint& remoteEP)
+   at Kztek.iZCU.frmMainForm.udpServer_Worker_DoWork(Object sender1, DoWorkEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 113
+ERROR 2021-05-04 09:53:37.693 - System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   at System.Net.Sockets.Socket.ReceiveFrom(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, EndPoint& remoteEP)
+   at Kztek.iZCU.frmMainForm.udpServer_Worker_DoWork(Object sender1, DoWorkEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 113
+ERROR 2021-05-04 09:55:23.260 - System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   at System.Net.Sockets.Socket.ReceiveFrom(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, EndPoint& remoteEP)
+   at Kztek.iZCU.frmMainForm.udpServer_Worker_DoWork(Object sender1, DoWorkEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 113
+ERROR 2021-05-04 09:59:38.612 - System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   at System.Net.Sockets.Socket.ReceiveFrom(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, EndPoint& remoteEP)
+   at Kztek.iZCU.frmMainForm.udpServer_Worker_DoWork(Object sender1, DoWorkEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 113
+ERROR 2021-05-04 11:02:47.786 - System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   at System.Net.Sockets.Socket.ReceiveFrom(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, EndPoint& remoteEP)
+   at Kztek.iZCU.frmMainForm.udpServer_Worker_DoWork(Object sender1, DoWorkEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 113
+ERROR 2021-05-04 11:05:28.025 - System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   at System.Net.Sockets.Socket.ReceiveFrom(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, EndPoint& remoteEP)
+   at Kztek.iZCU.frmMainForm.udpServer_Worker_DoWork(Object sender1, DoWorkEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 113
+ERROR 2021-05-04 11:07:30.236 - System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   at System.Net.Sockets.Socket.ReceiveFrom(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, EndPoint& remoteEP)
+   at Kztek.iZCU.frmMainForm.udpServer_Worker_DoWork(Object sender1, DoWorkEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 113
+ERROR 2021-05-04 11:14:57.307 - System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   at System.Net.Sockets.Socket.ReceiveFrom(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, EndPoint& remoteEP)
+   at Kztek.iZCU.frmMainForm.udpServer_Worker_DoWork(Object sender1, DoWorkEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 113
+ERROR 2021-05-04 11:30:41.942 - System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   at System.Net.Sockets.Socket.ReceiveFrom(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, EndPoint& remoteEP)
+   at Kztek.iZCU.frmMainForm.udpServer_Worker_DoWork(Object sender1, DoWorkEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 113
+ERROR 2021-05-04 14:05:36.988 - System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   at System.Net.Sockets.Socket.ReceiveFrom(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, EndPoint& remoteEP)
+   at Kztek.iZCU.frmMainForm.udpServer_Worker_DoWork(Object sender1, DoWorkEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 113
+ERROR 2021-05-04 14:31:22.002 - Camera Error: System.Net.WebException: An error occurred while sending the request.
+ ---> System.Net.Http.HttpRequestException: An error occurred while sending the request.
+ ---> System.IO.IOException: Unable to read data from the transport connection: An established connection was aborted by the software in your host machine..
+ ---> System.Net.Sockets.SocketException (10053): An established connection was aborted by the software in your host machine.
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at System.Net.Http.HttpConnection.FillAsync(Boolean async)
+   at System.Net.Http.HttpConnection.ReadNextResponseHeaderLineAsync(Boolean async, Boolean foldedHeadersAllowed)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpMessageHandlerStage.Send(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.SocketsHttpHandler.Send(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClientHandler.Send(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpMessageInvoker.Send(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsyncCore(HttpRequestMessage request, HttpCompletionOption completionOption, Boolean async, Boolean emitTelemetryStartStop, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.Send(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at System.Net.HttpWebRequest.SendRequest(Boolean async)
+   at System.Net.HttpWebRequest.GetResponse()
+   --- End of inner exception stack trace ---
+   at RestSharp.Authenticators.Digest.DigestAuthenticatorManager.GetDigestDataFromException(WebException ex)
+   at RestSharp.Authenticators.Digest.DigestAuthenticatorManager.GetDigestAuthHeader(String path, Method method)
+   at RestSharp.Authenticators.Digest.DigestAuthenticator.Authenticate(IRestClient client, IRestRequest request)
+   at RestSharp.RestClient.AuthenticateIfNeeded(IRestRequest request)
+   at RestSharp.RestClient.Execute(IRestRequest request, String httpMethod, Func`3 getResponse)
+   at RestSharp.RestClient.Execute(IRestRequest request)
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 162
+ERROR 2021-05-04 14:31:40.805 - Camera Error: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 311
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 131
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 216
+ERROR 2021-05-04 14:52:20.803 - Camera Error: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 311
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 131
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 216
+ERROR 2021-05-04 16:14:20.896 - Camera Error: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 311
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 131
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 216
+ERROR 2021-05-04 16:18:00.813 - Camera Error: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 311
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 131
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 216
+ERROR 2021-05-04 16:18:40.803 - Camera Error: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 311
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 131
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 216
+ERROR 2021-05-04 16:19:20.817 - Camera Error: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 311
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 131
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 216
+ERROR 2021-05-04 16:22:00.808 - Camera Error: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 311
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 131
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 216
+ERROR 2021-05-04 16:45:00.834 - Camera Error: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 311
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 131
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 216
+ERROR 2021-05-04 16:56:21.176 - Camera Error: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 314
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 131
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 216
+ERROR 2021-05-04 16:59:23.370 - System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   at System.Net.Sockets.Socket.ReceiveFrom(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, EndPoint& remoteEP)
+   at Kztek.iZCU.frmMainForm.udpServer_Worker_DoWork(Object sender1, DoWorkEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 113
+ERROR 2021-05-04 17:00:07.241 - Camera Error: System.ArgumentNullException: Value cannot be null. (Parameter 'inArray')
+   at System.Convert.ToBase64String(Byte[] inArray)
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 357
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 131
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 190

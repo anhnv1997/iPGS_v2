@@ -1,0 +1,3 @@
+INFO 2021-10-14 14:49:21.297 - Start App
+INFO 2021-10-14 14:49:21.494 - Khởi tạo TCP Server thành công
+INFO 2021-10-14 14:49:51.993 - Close App

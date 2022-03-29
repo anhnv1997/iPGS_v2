@@ -1,0 +1,364 @@
+INFO 2021-05-03 07:52:22.696 - Start App
+INFO 2021-05-03 07:52:40.772 - New_Camera_State_Event: 192.168.21.170 - Lost Connection - EmptySlot: 0
+INFO 2021-05-03 07:53:24.186 - Close App
+INFO 2021-05-03 07:53:28.282 - Start App
+INFO 2021-05-03 07:54:00.382 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 07:55:20.818 - Start App
+INFO 2021-05-03 07:55:22.567 - Close App
+INFO 2021-05-03 07:55:40.654 - Start App
+INFO 2021-05-03 07:56:00.349 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 07:58:31.084 - Start App
+INFO 2021-05-03 07:58:40.340 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 07:58:49.967 - Close App
+INFO 2021-05-03 08:00:10.792 - Start App
+INFO 2021-05-03 08:00:20.315 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 08:01:18.097 - Close App
+INFO 2021-05-03 08:03:41.497 - Start App
+INFO 2021-05-03 08:04:00.337 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 08:04:06.389 - Close App
+INFO 2021-05-03 08:04:51.745 - Start App
+INFO 2021-05-03 08:05:00.355 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 08:05:04.447 - Close App
+INFO 2021-05-03 08:05:27.199 - Start App
+INFO 2021-05-03 08:05:40.653 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 08:05:51.497 - Close App
+INFO 2021-05-03 08:06:36.508 - Start App
+INFO 2021-05-03 08:06:40.328 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 08:07:54.707 - Start App
+INFO 2021-05-03 08:08:00.357 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 08:08:10.366 - Close App
+INFO 2021-05-03 08:08:35.382 - Start App
+INFO 2021-05-03 08:08:40.354 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 08:09:38.655 - Close App
+INFO 2021-05-03 08:10:24.138 - Start App
+INFO 2021-05-03 08:10:40.350 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 08:10:54.635 - Close App
+INFO 2021-05-03 08:11:00.211 - Start App
+INFO 2021-05-03 08:11:01.467 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 08:11:13.507 - Close App
+INFO 2021-05-03 08:16:29.066 - Start App
+INFO 2021-05-03 08:16:40.724 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 08:16:56.008 - Close App
+INFO 2021-05-03 08:19:47.745 - Start App
+INFO 2021-05-03 08:20:00.355 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 08:20:11.175 - Close App
+INFO 2021-05-03 08:20:16.850 - Start App
+INFO 2021-05-03 08:20:20.332 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 08:21:32.376 - Start App
+INFO 2021-05-03 08:21:40.443 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 08:21:54.431 - Close App
+INFO 2021-05-03 08:21:59.853 - Start App
+INFO 2021-05-03 08:22:01.502 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 08:27:20.431 - Close App
+INFO 2021-05-03 08:27:42.042 - Start App
+INFO 2021-05-03 08:28:00.361 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 08:28:08.832 - Close App
+INFO 2021-05-03 08:28:35.652 - Start App
+INFO 2021-05-03 08:28:40.351 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 08:29:02.891 - Close App
+INFO 2021-05-03 08:43:29.945 - Start App
+INFO 2021-05-03 08:43:40.730 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 08:44:24.291 - Close App
+INFO 2021-05-03 10:24:04.743 - Start App
+INFO 2021-05-03 10:24:20.495 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 10:24:32.468 - Start App
+INFO 2021-05-03 10:24:40.540 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 10:24:45.109 - Start App
+INFO 2021-05-03 10:25:19.738 - Start App
+INFO 2021-05-03 10:25:21.550 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 10:25:28.090 - Close App
+INFO 2021-05-03 10:25:52.337 - Start App
+INFO 2021-05-03 10:25:57.750 - Close App
+INFO 2021-05-03 10:26:30.388 - Start App
+INFO 2021-05-03 10:26:40.315 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 10:26:55.963 - Close App
+INFO 2021-05-03 10:27:43.951 - Start App
+INFO 2021-05-03 10:28:30.018 - Start App
+INFO 2021-05-03 10:28:40.705 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 10:28:51.831 - Close App
+INFO 2021-05-03 10:29:04.673 - Start App
+INFO 2021-05-03 10:29:20.509 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 10:29:50.268 - Start App
+INFO 2021-05-03 10:29:52.426 - Close App
+INFO 2021-05-03 10:30:30.167 - Start App
+INFO 2021-05-03 10:30:38.410 - Close App
+INFO 2021-05-03 10:31:00.199 - Start App
+INFO 2021-05-03 10:31:01.851 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 10:31:45.621 - Start App
+INFO 2021-05-03 10:32:00.886 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 10:34:38.261 - Close App
+INFO 2021-05-03 10:34:49.913 - Start App
+INFO 2021-05-03 10:35:00.525 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 10:35:45.088 - Close App
+INFO 2021-05-03 10:36:04.858 - Start App
+INFO 2021-05-03 10:36:20.357 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 10:37:30.314 - Start App
+INFO 2021-05-03 10:37:40.345 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 10:41:03.255 - Start App
+INFO 2021-05-03 10:41:20.370 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 10:41:53.653 - Close App
+INFO 2021-05-03 10:42:08.650 - Start App
+INFO 2021-05-03 10:42:20.438 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 10:42:56.343 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-05-03 10:43:47.534 - Start App
+INFO 2021-05-03 10:43:59.441 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-05-03 10:44:00.517 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 10:50:39.828 - Start App
+INFO 2021-05-03 10:50:42.498 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 10:52:08.957 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-05-03 11:00:50.163 - Start App
+INFO 2021-05-03 11:01:00.374 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 11:01:35.564 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-05-03 11:02:00.718 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-05-03 11:02:21.468 - Close App
+INFO 2021-05-03 11:02:30.714 - Start App
+INFO 2021-05-03 11:02:40.358 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 11:12:16.434 - Start App
+INFO 2021-05-03 11:12:20.373 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 11:14:26.702 - Start App
+INFO 2021-05-03 11:14:40.379 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 11:14:55.841 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-05-03 11:15:22.478 - Start App
+INFO 2021-05-03 11:15:40.336 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 11:15:49.848 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-05-03 11:16:21.963 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-05-03 11:17:12.437 - Start App
+INFO 2021-05-03 11:17:20.343 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 11:17:34.520 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-05-03 11:18:41.783 - Start App
+INFO 2021-05-03 11:19:00.394 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 11:19:06.848 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-05-03 11:21:06.210 - Start App
+INFO 2021-05-03 11:21:20.442 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 11:21:40.907 - Start App
+INFO 2021-05-03 11:21:52.932 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-05-03 11:22:00.410 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 11:22:03.231 - Close App
+INFO 2021-05-03 11:23:10.078 - Start App
+INFO 2021-05-03 11:23:20.364 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 11:23:59.828 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-05-03 11:25:05.758 - Start App
+INFO 2021-05-03 11:25:20.362 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 11:25:28.342 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-05-03 11:25:51.769 - Start App
+INFO 2021-05-03 11:26:00.386 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 11:26:58.258 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-05-03 11:27:26.901 - Start App
+INFO 2021-05-03 11:27:40.400 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 11:28:01.986 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-05-03 11:34:33.518 - Start App
+INFO 2021-05-03 11:34:40.350 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 11:35:02.945 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-05-03 11:35:53.462 - Start App
+INFO 2021-05-03 11:36:00.679 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 11:36:45.074 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-05-03 11:37:07.637 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-05-03 11:37:13.687 - Close App
+INFO 2021-05-03 11:38:06.144 - Start App
+INFO 2021-05-03 11:38:20.372 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 11:38:22.083 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-05-03 11:40:27.862 - Start App
+INFO 2021-05-03 11:40:40.378 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 11:40:43.429 - Close App
+INFO 2021-05-03 11:42:28.204 - Start App
+INFO 2021-05-03 11:42:40.382 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 11:43:04.632 - Close App
+INFO 2021-05-03 11:44:32.283 - Start App
+INFO 2021-05-03 11:44:40.308 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 11:44:42.750 - Close App
+INFO 2021-05-03 11:45:46.415 - Start App
+INFO 2021-05-03 11:46:00.372 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 11:46:25.310 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-05-03 11:48:42.871 - Start App
+INFO 2021-05-03 11:49:00.325 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 11:49:42.115 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-05-03 11:51:48.566 - Start App
+INFO 2021-05-03 11:52:00.783 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 11:52:07.970 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-05-03 11:53:09.016 - Close App
+INFO 2021-05-03 11:56:58.581 - Start App
+INFO 2021-05-03 11:57:00.771 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 11:57:27.108 - Close App
+INFO 2021-05-03 11:57:34.297 - Start App
+INFO 2021-05-03 11:57:40.357 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 13:21:14.826 - Start App
+INFO 2021-05-03 13:21:20.507 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 13:22:21.763 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-05-03 13:23:18.244 - Start App
+INFO 2021-05-03 13:23:21.018 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 13:24:09.916 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-05-03 13:24:47.173 - Start App
+INFO 2021-05-03 13:25:00.951 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 13:25:04.953 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-05-03 13:26:32.034 - Start App
+INFO 2021-05-03 13:26:40.545 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 13:26:48.781 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-05-03 13:31:51.410 - Start App
+INFO 2021-05-03 13:32:01.608 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 13:32:29.807 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-05-03 13:33:03.755 - Close App
+INFO 2021-05-03 13:33:42.459 - Start App
+INFO 2021-05-03 13:33:58.767 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-05-03 13:34:00.427 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 13:35:19.118 - Start App
+INFO 2021-05-03 13:35:20.700 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 13:35:22.908 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-05-03 13:35:37.868 - Close App
+INFO 2021-05-03 13:36:28.819 - Start App
+INFO 2021-05-03 13:36:40.376 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 13:37:06.530 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-05-03 13:38:25.818 - Start App
+INFO 2021-05-03 13:38:40.939 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 13:38:43.003 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-05-03 13:39:32.968 - Start App
+INFO 2021-05-03 13:39:38.997 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-05-03 13:39:40.877 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 13:40:44.341 - Start App
+INFO 2021-05-03 13:40:57.366 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-05-03 13:41:00.394 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 13:41:27.658 - Start App
+INFO 2021-05-03 13:41:40.376 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 13:41:50.765 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-05-03 13:42:53.097 - Start App
+INFO 2021-05-03 13:43:00.394 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 13:43:28.104 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-05-03 13:43:55.570 - Start App
+INFO 2021-05-03 13:44:00.427 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 13:44:01.355 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-05-03 13:45:07.253 - Start App
+INFO 2021-05-03 13:45:17.036 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-05-03 13:45:20.504 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 13:45:59.474 - Start App
+INFO 2021-05-03 13:46:01.999 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 13:46:37.337 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-05-03 13:47:34.340 - Start App
+INFO 2021-05-03 13:47:35.929 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-05-03 13:47:40.373 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 13:48:21.442 - Close App
+INFO 2021-05-03 13:49:28.362 - Start App
+INFO 2021-05-03 13:49:40.345 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 13:49:44.953 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-05-03 13:49:57.700 - Close App
+INFO 2021-05-03 13:50:31.817 - Start App
+INFO 2021-05-03 13:50:35.390 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-05-03 13:50:40.401 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 13:51:09.615 - Start App
+INFO 2021-05-03 13:51:16.059 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-05-03 13:51:20.792 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 13:51:46.422 - Start App
+INFO 2021-05-03 13:51:51.346 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-05-03 13:51:58.973 - Close App
+INFO 2021-05-03 13:52:15.721 - Start App
+INFO 2021-05-03 13:52:18.261 - Close App
+INFO 2021-05-03 13:52:44.887 - Start App
+INFO 2021-05-03 13:52:58.244 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-05-03 13:53:00.725 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 13:56:14.919 - Start App
+INFO 2021-05-03 13:56:21.181 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 13:56:32.291 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-05-03 13:58:58.133 - Start App
+INFO 2021-05-03 13:59:00.605 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 13:59:10.711 - Close App
+INFO 2021-05-03 13:59:24.567 - Start App
+INFO 2021-05-03 13:59:40.493 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 14:03:18.854 - Start App
+INFO 2021-05-03 14:03:20.473 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 14:03:42.877 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-05-03 14:18:42.845 - Start App
+INFO 2021-05-03 14:19:00.383 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 14:19:03.263 - Close App
+INFO 2021-05-03 14:27:28.203 - Start App
+INFO 2021-05-03 14:27:43.085 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-05-03 14:32:37.590 - Start App
+INFO 2021-05-03 14:33:20.654 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-05-03 14:34:13.823 - Close App
+INFO 2021-05-03 14:35:37.010 - Start App
+INFO 2021-05-03 14:36:52.555 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-05-03 14:38:16.721 - Start App
+INFO 2021-05-03 14:39:03.211 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-05-03 14:39:59.434 - Start App
+INFO 2021-05-03 14:42:23.682 - Start App
+INFO 2021-05-03 14:51:20.064 - Start App
+INFO 2021-05-03 14:56:32.296 - Start App
+INFO 2021-05-03 14:56:41.622 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 14:58:54.872 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-05-03 14:59:40.157 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 2
+INFO 2021-05-03 14:59:42.598 - Close App
+INFO 2021-05-03 14:59:49.917 - Start App
+INFO 2021-05-03 15:00:00.490 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 2
+INFO 2021-05-03 15:00:53.421 - Close App
+INFO 2021-05-03 15:01:15.726 - Start App
+INFO 2021-05-03 15:01:20.351 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 15:01:34.234 - Close App
+INFO 2021-05-03 15:01:59.582 - Start App
+INFO 2021-05-03 15:02:00.797 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 2
+INFO 2021-05-03 15:02:44.426 - Start App
+INFO 2021-05-03 15:03:01.551 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 1
+INFO 2021-05-03 15:03:32.677 - Close App
+INFO 2021-05-03 15:03:40.367 - Start App
+INFO 2021-05-03 15:03:42.646 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 1
+INFO 2021-05-03 15:06:02.837 - Start App
+INFO 2021-05-03 15:06:20.946 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 1
+INFO 2021-05-03 15:06:26.565 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-05-03 15:07:29.398 - Start App
+INFO 2021-05-03 15:07:40.467 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 1
+INFO 2021-05-03 15:08:14.934 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-05-03 15:09:21.624 - Start App
+INFO 2021-05-03 15:09:40.552 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 1
+INFO 2021-05-03 15:09:49.877 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-05-03 15:10:05.834 - Close App
+INFO 2021-05-03 15:11:14.769 - Start App
+INFO 2021-05-03 15:11:20.516 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 1
+INFO 2021-05-03 15:11:53.368 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-05-03 15:12:40.856 - Start App
+INFO 2021-05-03 15:12:53.487 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-05-03 15:13:33.267 - Start App
+INFO 2021-05-03 15:13:40.409 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 1
+INFO 2021-05-03 15:13:57.550 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-05-03 15:14:38.952 - Start App
+INFO 2021-05-03 15:14:40.971 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 1
+INFO 2021-05-03 15:14:56.362 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-05-03 15:15:57.949 - Start App
+INFO 2021-05-03 15:16:00.589 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 1
+INFO 2021-05-03 15:16:12.849 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-05-03 15:16:18.106 - Close App
+INFO 2021-05-03 15:17:10.050 - Start App
+INFO 2021-05-03 15:17:20.640 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 1
+INFO 2021-05-03 15:18:19.972 - Start App
+INFO 2021-05-03 15:18:40.650 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 1
+INFO 2021-05-03 15:19:17.731 - Start App
+INFO 2021-05-03 15:19:20.792 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 1
+INFO 2021-05-03 15:20:33.545 - Start App
+INFO 2021-05-03 15:20:41.304 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 1
+INFO 2021-05-03 15:22:13.336 - Start App
+INFO 2021-05-03 15:22:20.457 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 1
+INFO 2021-05-03 15:23:10.867 - Start App
+INFO 2021-05-03 15:23:20.445 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 1
+INFO 2021-05-03 15:24:59.393 - Start App
+INFO 2021-05-03 15:25:01.224 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 1
+INFO 2021-05-03 15:26:02.908 - Start App
+INFO 2021-05-03 15:26:20.610 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 1
+INFO 2021-05-03 15:27:20.587 - Start App
+INFO 2021-05-03 15:27:53.679 - Start App
+INFO 2021-05-03 15:28:00.575 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 1
+INFO 2021-05-03 15:28:45.800 - Start App
+INFO 2021-05-03 15:29:00.641 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 1
+INFO 2021-05-03 15:29:32.557 - Close App
+INFO 2021-05-03 15:30:10.915 - Start App
+INFO 2021-05-03 15:30:20.456 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 2
+INFO 2021-05-03 15:32:12.838 - Start App
+INFO 2021-05-03 15:32:21.445 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 2
+INFO 2021-05-03 15:34:20.033 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 15:37:43.687 - Start App
+INFO 2021-05-03 15:38:00.658 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 15:39:38.719 - Close App
+INFO 2021-05-03 15:39:55.215 - Start App
+INFO 2021-05-03 15:40:01.108 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 2
+INFO 2021-05-03 15:42:10.263 - Close App
+INFO 2021-05-03 15:42:53.301 - Start App
+INFO 2021-05-03 15:43:00.548 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 15:55:09.000 - Start App
+INFO 2021-05-03 15:55:25.756 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 15:58:36.001 - Start App
+INFO 2021-05-03 15:58:40.607 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-03 16:43:36.317 - Close App

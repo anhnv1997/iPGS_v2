@@ -1,0 +1,28 @@
+ERROR 2021-04-23 10:29:42.024 - Access DB: 'E:\configs\iZCU.mdb' is not a valid path.  Make sure that the path name is spelled correctly and that you are connected to the server on which the file resides.
+ERROR 2021-04-23 10:29:42.156 - Access DB: Error while get data fom table: 'E:\configs\iZCU.mdb' is not a valid path.  Make sure that the path name is spelled correctly and that you are connected to the server on which the file resides.
+select * from tblCamera
+ERROR 2021-04-23 10:30:22.718 - Access DB: 'E:\configs\iZCU.mdb' is not a valid path.  Make sure that the path name is spelled correctly and that you are connected to the server on which the file resides.
+ERROR 2021-04-23 10:30:22.869 - Access DB: Error while get data fom table: 'E:\configs\iZCU.mdb' is not a valid path.  Make sure that the path name is spelled correctly and that you are connected to the server on which the file resides.
+select * from tblCamera
+ERROR 2021-04-23 10:30:41.500 - Access DB: 'E:\configs\iZCU.mdb' is not a valid path.  Make sure that the path name is spelled correctly and that you are connected to the server on which the file resides.
+ERROR 2021-04-23 10:30:41.621 - Access DB: Error while get data fom table: 'E:\configs\iZCU.mdb' is not a valid path.  Make sure that the path name is spelled correctly and that you are connected to the server on which the file resides.
+select * from tblCamera
+ERROR 2021-04-23 10:33:52.287 - Access DB: 'E:\Kztek.Projects\Kztek.iZCU\bin\x86\Release\net5.0-windows\configs\iZCU.mdb' is not a valid path.  Make sure that the path name is spelled correctly and that you are connected to the server on which the file resides.
+ERROR 2021-04-23 10:33:52.419 - Access DB: Error while get data fom table: 'E:\Kztek.Projects\Kztek.iZCU\bin\x86\Release\net5.0-windows\configs\iZCU.mdb' is not a valid path.  Make sure that the path name is spelled correctly and that you are connected to the server on which the file resides.
+select * from tblCamera
+ERROR 2021-04-23 10:35:18.106 - Access DB: 'E:\Kztek.Projects\Kztek.iZCU\bin\x86\Release\net5.0-windows\configs\iZCU.mdb' is not a valid path.  Make sure that the path name is spelled correctly and that you are connected to the server on which the file resides.
+ERROR 2021-04-23 10:35:18.249 - Access DB: Error while get data fom table: 'E:\Kztek.Projects\Kztek.iZCU\bin\x86\Release\net5.0-windows\configs\iZCU.mdb' is not a valid path.  Make sure that the path name is spelled correctly and that you are connected to the server on which the file resides.
+select * from tblCamera
+ERROR 2021-04-23 10:40:06.447 - Access DB: 'E:\Kztek.Projects\Kztek.iZCU\bin\x86\Release\net5.0-windows\configs\iZCU.mdb' is not a valid path.  Make sure that the path name is spelled correctly and that you are connected to the server on which the file resides.
+ERROR 2021-04-23 10:40:06.568 - Access DB: Error while get data fom table: 'E:\Kztek.Projects\Kztek.iZCU\bin\x86\Release\net5.0-windows\configs\iZCU.mdb' is not a valid path.  Make sure that the path name is spelled correctly and that you are connected to the server on which the file resides.
+select * from tblCamera
+ERROR 2021-04-23 11:46:59.272 - Get_Parking_Info: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Kztek.iZCU.Configuration.Get_Parking_Info(String response, Int32& parkingNum, String[]& parkingNo, String[]& plateNum, Int32[]& carStatus) in E:\Kztek.Projects\Kztek.iZCU\Configuration.cs:line 194
+ERROR 2021-04-23 11:54:54.616 - Camera Error: Get_Parking_Info: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Kztek.iZCU.Devices.HIKCameraController.Get_Parking_Info(String response, Int32& parkingNum, String[]& parkingNo, String[]& plateNum, Int32[]& carStatus) in E:\Kztek.Projects\Kztek.iZCU\Devices\HIKCameraController.cs:line 224
+ERROR 2021-04-23 16:27:35.110 - System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   at System.Net.Sockets.Socket.ReceiveFrom(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, EndPoint& remoteEP)
+   at Kztek.iZCU.frmMainForm.udpServer_Worker_DoWork(Object sender1, DoWorkEventArgs e) in E:\Kztek.Projects\Kztek.iZCU\frmMainForm.cs:line 119
+ERROR 2021-04-23 16:40:27.621 - System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   at System.Net.Sockets.Socket.ReceiveFrom(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, EndPoint& remoteEP)
+   at Kztek.iZCU.frmMainForm.udpServer_Worker_DoWork(Object sender1, DoWorkEventArgs e) in E:\Kztek.Projects\Kztek.iZCU\frmMainForm.cs:line 119

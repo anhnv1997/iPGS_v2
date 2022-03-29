@@ -1,0 +1,770 @@
+INFO 2021-05-26 08:58:42.200 - Start App
+INFO 2021-05-26 08:58:45.794 - Khởi tạo TCP Server thành công
+INFO 2021-05-26 08:58:46.317 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 08:58:49.534 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 08:58:51.737 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 08:58:56.039 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 08:58:58.760 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 08:59:01.192 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 08:59:01.286 - New_Camera_State_Event: 192.168.20.170 - New Event - EmptySlot: 1
+INFO 2021-05-26 08:59:01.763 - New_Camera_State_Event: 192.168.20.171 - Lost Connection - EmptySlot: 0
+INFO 2021-05-26 08:59:02.756 - New_Camera_State_Event: 192.168.20.172 - Lost Connection - EmptySlot: 0
+INFO 2021-05-26 08:59:03.107 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 08:59:05.140 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 08:59:07.159 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 08:59:09.113 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 08:59:11.039 - Receive CommandGetInforFrom192.168.21.231At04
+INFO 2021-05-26 08:59:11.139 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 08:59:13.099 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 08:59:13.781 - Receive CommandGetInforFrom192.168.21.231At02
+INFO 2021-05-26 08:59:13.787 - Send Data Success: ImagePathC:\Users\VIET ANH\Desktop\Data\2021_05_25_17_02_42.png,-1,No
+INFO 2021-05-26 08:59:15.215 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 08:59:17.134 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 08:59:19.124 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 08:59:21.185 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 08:59:23.093 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 08:59:25.104 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 08:59:27.141 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 08:59:29.124 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 08:59:31.731 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 08:59:34.232 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 08:59:36.676 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 08:59:38.773 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 08:59:41.185 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 08:59:43.176 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 08:59:45.190 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 08:59:47.762 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 08:59:50.157 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 08:59:52.107 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 08:59:54.123 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 08:59:56.158 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 08:59:58.146 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:00:00.132 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:00:02.152 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:00:04.125 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:00:06.239 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:00:08.651 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:00:10.641 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:00:12.625 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:00:14.646 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:00:16.601 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:00:18.644 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:00:20.612 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:00:22.603 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:00:24.651 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:00:26.708 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:00:28.638 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:00:30.721 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:00:32.617 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:00:34.713 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:00:36.668 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:00:38.799 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:00:41.823 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:00:44.168 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:00:46.155 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:00:48.145 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:00:50.225 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:00:52.124 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:00:54.136 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:00:56.166 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:00:58.210 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:01:00.187 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:01:02.135 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:01:04.193 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:01:07.327 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:01:10.102 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:01:12.145 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:01:14.231 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:01:16.235 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:01:18.683 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:01:20.038 - New_Camera_State_Event: 192.168.20.170 - New Event - EmptySlot: 3
+INFO 2021-05-26 09:01:20.639 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:01:22.590 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:01:23.344 - Receive CommandGetInforFrom192.168.21.231At02
+INFO 2021-05-26 09:01:23.349 - Send Data Success: ImagePathC:\Users\VIET ANH\Desktop\Data\2021_05_26_09_01_22.png,0,No
+INFO 2021-05-26 09:01:24.798 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:01:27.232 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:01:29.216 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:01:31.359 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:01:33.632 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:01:35.608 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:01:37.604 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:01:39.631 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:01:41.598 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:01:43.909 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:01:46.244 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:01:48.883 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:01:51.177 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:01:53.139 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:01:55.144 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:01:57.244 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:01:59.688 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:02:01.686 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:02:03.607 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:02:05.679 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:02:07.862 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:02:10.180 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:02:12.160 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:02:14.246 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:02:17.169 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:02:19.157 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:02:21.147 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:02:23.120 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:02:25.230 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:02:27.143 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:02:29.170 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:02:31.143 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:02:33.271 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:02:35.613 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:02:37.641 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:02:39.665 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:02:41.625 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:02:43.627 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:02:45.636 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:02:47.696 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:02:49.630 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:02:51.843 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:02:54.170 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:02:56.157 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:02:58.142 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:03:00.166 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:03:02.135 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:03:04.152 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:03:06.142 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:03:08.165 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:03:10.219 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:03:12.663 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:03:14.692 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:03:16.625 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:03:18.698 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:03:20.612 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:03:22.622 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:03:24.783 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:03:27.238 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:03:29.778 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:03:32.180 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:03:34.261 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:03:36.638 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:03:38.626 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:03:40.596 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:03:42.611 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:03:44.665 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:03:46.684 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:03:49.165 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:03:51.256 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:03:54.366 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:03:58.230 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:04:01.415 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:04:03.853 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:04:06.914 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:04:09.995 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:04:12.988 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:04:16.002 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:04:18.874 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:04:21.727 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:04:24.277 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:04:26.834 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:04:29.862 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:04:32.765 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:04:35.794 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:04:38.332 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:04:41.269 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:04:44.162 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:04:46.879 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:04:49.966 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:04:52.892 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:04:55.764 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:04:59.002 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:05:01.837 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:05:04.848 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:05:08.390 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:05:11.533 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:05:15.965 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:05:19.725 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:05:22.918 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:05:26.246 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:05:30.151 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:05:33.446 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:05:36.381 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:05:39.466 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:05:41.756 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:05:44.964 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:05:47.807 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 09:54:09.097 - Start App
+INFO 2021-05-26 09:54:11.749 - Khởi tạo TCP Server thành công
+INFO 2021-05-26 09:54:22.182 - New_Camera_State_Event: 192.168.20.171 - Lost Connection - EmptySlot: 0
+INFO 2021-05-26 09:54:22.992 - New_Camera_State_Event: 192.168.20.172 - Lost Connection - EmptySlot: 0
+INFO 2021-05-26 09:54:23.496 - Close App
+INFO 2021-05-26 10:00:40.165 - Start App
+INFO 2021-05-26 10:00:41.311 - Khởi tạo TCP Server thành công
+INFO 2021-05-26 10:00:41.750 - New_Camera_State_Event: 192.168.20.170 - New Event - EmptySlot: 3
+INFO 2021-05-26 10:00:41.754 - New_Camera_State_Event: 192.168.20.171 - Lost Connection - EmptySlot: 0
+INFO 2021-05-26 10:00:42.756 - New_Camera_State_Event: 192.168.20.172 - Lost Connection - EmptySlot: 0
+INFO 2021-05-26 10:03:29.867 - Start App
+INFO 2021-05-26 10:03:32.076 - Khởi tạo TCP Server thành công
+INFO 2021-05-26 10:06:39.857 - Start App
+INFO 2021-05-26 10:06:41.348 - Khởi tạo TCP Server thành công
+INFO 2021-05-26 10:06:41.747 - New_Camera_State_Event: 192.168.20.170 - New Event - EmptySlot: 3
+INFO 2021-05-26 10:06:41.778 - New_Camera_State_Event: 192.168.20.171 - Lost Connection - EmptySlot: 0
+INFO 2021-05-26 10:06:42.770 - New_Camera_State_Event: 192.168.20.172 - Lost Connection - EmptySlot: 0
+INFO 2021-05-26 10:07:55.918 - Start App
+INFO 2021-05-26 10:07:58.454 - Khởi tạo TCP Server thành công
+INFO 2021-05-26 10:08:01.104 - New_Camera_State_Event: 192.168.20.170 - New Event - EmptySlot: 3
+INFO 2021-05-26 10:08:01.773 - New_Camera_State_Event: 192.168.20.171 - Lost Connection - EmptySlot: 0
+INFO 2021-05-26 10:08:02.768 - New_Camera_State_Event: 192.168.20.172 - Lost Connection - EmptySlot: 0
+INFO 2021-05-26 10:16:44.776 - Start App
+INFO 2021-05-26 10:17:22.338 - Start App
+INFO 2021-05-26 10:17:30.610 - Khởi tạo TCP Server thành công
+INFO 2021-05-26 10:17:41.895 - New_Camera_State_Event: 192.168.20.171 - Lost Connection - EmptySlot: 0
+INFO 2021-05-26 10:17:42.158 - New_Camera_State_Event: 192.168.20.170 - New Event - EmptySlot: 3
+INFO 2021-05-26 10:17:42.762 - New_Camera_State_Event: 192.168.20.172 - Lost Connection - EmptySlot: 0
+INFO 2021-05-26 10:17:43.471 - Close App
+INFO 2021-05-26 10:18:21.045 - Start App
+INFO 2021-05-26 10:18:23.462 - Khởi tạo TCP Server thành công
+INFO 2021-05-26 10:18:41.385 - New_Camera_State_Event: 192.168.20.170 - New Event - EmptySlot: 3
+INFO 2021-05-26 10:18:41.756 - New_Camera_State_Event: 192.168.20.171 - Lost Connection - EmptySlot: 0
+INFO 2021-05-26 10:18:42.762 - New_Camera_State_Event: 192.168.20.172 - Lost Connection - EmptySlot: 0
+INFO 2021-05-26 10:19:17.367 - Close App
+INFO 2021-05-26 10:27:11.281 - Start App
+INFO 2021-05-26 10:27:13.163 - Khởi tạo TCP Server thành công
+INFO 2021-05-26 10:27:17.109 - Close App
+INFO 2021-05-26 10:28:35.800 - Start App
+INFO 2021-05-26 10:28:37.530 - Khởi tạo TCP Server thành công
+INFO 2021-05-26 10:28:40.869 - New_Camera_State_Event: 192.168.20.170 - New Event - EmptySlot: 3
+INFO 2021-05-26 10:28:41.765 - New_Camera_State_Event: 192.168.20.171 - Lost Connection - EmptySlot: 0
+INFO 2021-05-26 10:28:42.768 - New_Camera_State_Event: 192.168.20.172 - Lost Connection - EmptySlot: 0
+INFO 2021-05-26 10:28:45.335 - Close App
+INFO 2021-05-26 10:30:06.069 - Start App
+INFO 2021-05-26 10:30:08.254 - Khởi tạo TCP Server thành công
+INFO 2021-05-26 10:30:21.278 - New_Camera_State_Event: 192.168.20.170 - New Event - EmptySlot: 3
+INFO 2021-05-26 10:30:21.768 - New_Camera_State_Event: 192.168.20.171 - Lost Connection - EmptySlot: 0
+INFO 2021-05-26 10:30:22.768 - New_Camera_State_Event: 192.168.20.172 - Lost Connection - EmptySlot: 0
+INFO 2021-05-26 10:30:29.031 - Close App
+INFO 2021-05-26 10:32:27.506 - Start App
+INFO 2021-05-26 10:32:29.566 - Khởi tạo TCP Server thành công
+INFO 2021-05-26 10:32:41.604 - New_Camera_State_Event: 192.168.20.170 - New Event - EmptySlot: 3
+INFO 2021-05-26 10:32:41.766 - New_Camera_State_Event: 192.168.20.171 - Lost Connection - EmptySlot: 0
+INFO 2021-05-26 10:36:43.424 - Start App
+INFO 2021-05-26 10:36:45.058 - Khởi tạo TCP Server thành công
+INFO 2021-05-26 10:37:00.765 - New_Camera_State_Event: 192.168.20.170 - New Event - EmptySlot: 3
+INFO 2021-05-26 10:37:01.758 - New_Camera_State_Event: 192.168.20.171 - Lost Connection - EmptySlot: 0
+INFO 2021-05-26 10:37:02.763 - New_Camera_State_Event: 192.168.20.172 - Lost Connection - EmptySlot: 0
+INFO 2021-05-26 10:37:47.096 - Close App
+INFO 2021-05-26 10:38:16.384 - Start App
+INFO 2021-05-26 10:38:17.976 - Khởi tạo TCP Server thành công
+INFO 2021-05-26 10:38:20.846 - New_Camera_State_Event: 192.168.20.170 - New Event - EmptySlot: 3
+INFO 2021-05-26 10:38:21.766 - New_Camera_State_Event: 192.168.20.171 - Lost Connection - EmptySlot: 0
+INFO 2021-05-26 10:38:22.769 - New_Camera_State_Event: 192.168.20.172 - Lost Connection - EmptySlot: 0
+INFO 2021-05-26 10:39:40.072 - New_Camera_State_Event: 192.168.20.170 - New Event - EmptySlot: 2
+INFO 2021-05-26 10:40:12.753 - Close App
+INFO 2021-05-26 10:40:56.374 - Start App
+INFO 2021-05-26 10:42:52.074 - Start App
+INFO 2021-05-26 10:42:54.476 - Khởi tạo TCP Server thành công
+INFO 2021-05-26 10:43:01.232 - New_Camera_State_Event: 192.168.20.170 - New Event - EmptySlot: 2
+INFO 2021-05-26 10:43:01.767 - New_Camera_State_Event: 192.168.20.171 - Lost Connection - EmptySlot: 0
+INFO 2021-05-26 10:43:02.763 - New_Camera_State_Event: 192.168.20.172 - Lost Connection - EmptySlot: 0
+INFO 2021-05-26 10:44:53.817 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:44:58.438 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:45:00.835 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:45:03.678 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:45:07.765 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:45:11.805 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:45:14.968 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:45:19.162 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:45:21.177 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:45:24.333 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:45:27.951 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:45:30.847 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:45:35.616 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:45:38.358 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:45:40.100 - New_Camera_State_Event: 192.168.20.170 - New Event - EmptySlot: 1
+INFO 2021-05-26 10:45:41.506 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:45:44.886 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:45:45.973 - Receive CommandGetInforFrom192.168.21.231At02
+INFO 2021-05-26 10:45:45.978 - Send Data Success: ImagePathC:\Users\VIET ANH\Desktop\Data\2021_05_26_10_45_42.png,-1,No
+INFO 2021-05-26 10:45:50.977 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:45:54.904 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:45:57.652 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:45:59.898 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:46:02.683 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:46:05.168 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:46:07.149 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:46:09.137 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:46:11.384 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:46:14.237 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:46:16.702 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:46:18.872 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:46:21.517 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:46:24.803 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:46:28.005 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:46:30.858 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:46:33.843 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:46:36.955 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:46:41.344 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:46:43.844 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:46:46.466 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:46:49.052 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:47:49.130 - Start App
+INFO 2021-05-26 10:47:51.279 - Khởi tạo TCP Server thành công
+INFO 2021-05-26 10:47:52.249 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:47:55.585 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:47:59.296 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:48:01.575 - New_Camera_State_Event: 192.168.20.170 - New Event - EmptySlot: 1
+INFO 2021-05-26 10:48:01.761 - New_Camera_State_Event: 192.168.20.171 - Lost Connection - EmptySlot: 0
+INFO 2021-05-26 10:48:01.818 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:48:02.766 - New_Camera_State_Event: 192.168.20.172 - Lost Connection - EmptySlot: 0
+INFO 2021-05-26 10:48:05.347 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:48:08.397 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:48:11.765 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:48:16.306 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:48:19.557 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:48:21.977 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:48:24.666 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:48:28.180 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:48:31.626 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:48:35.566 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:48:39.127 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:48:41.793 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:48:45.079 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:48:48.243 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:48:52.667 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:48:55.229 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:48:57.812 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:49:00.438 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:49:03.722 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:49:07.372 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:49:10.397 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:49:13.193 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:49:15.657 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:49:17.645 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:49:19.744 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:49:22.435 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:49:25.615 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:49:28.223 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:49:31.477 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:49:33.920 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:49:36.211 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:49:39.239 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:49:41.699 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:49:43.819 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:49:46.253 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:49:47.384 - Receive CommandGetInforFrom192.168.21.231At01
+INFO 2021-05-26 10:49:47.391 - Send Data Success: ImagePathC:\Users\VIET ANH\Desktop\Data\2021_05_26_10_45_42.png,0,No
+INFO 2021-05-26 10:49:49.743 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:49:50.854 - Receive CommandGetInforFrom192.168.21.231At01
+INFO 2021-05-26 10:49:50.862 - Send Data Success: ImagePathC:\Users\VIET ANH\Desktop\Data\2021_05_26_10_45_42.png,0,No
+INFO 2021-05-26 10:49:52.676 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:49:54.761 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:49:57.303 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:49:59.774 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:50:02.140 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:50:04.215 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:50:07.300 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:50:10.145 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:50:12.855 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:50:15.818 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:50:18.879 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:50:21.406 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:50:23.626 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:50:26.372 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:50:28.649 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:50:30.716 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:50:33.244 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:50:35.845 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:50:38.148 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:50:40.132 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:50:42.202 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:50:44.137 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:50:46.271 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:50:50.032 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:50:53.355 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:50:56.055 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:50:58.379 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:51:01.143 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:51:03.197 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:51:05.142 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:51:07.237 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:51:09.733 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:51:14.554 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:51:18.364 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:51:21.369 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:51:23.861 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:51:26.167 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:51:28.697 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:51:30.708 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:51:34.133 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:51:34.854 - Close App
+INFO 2021-05-26 10:55:48.038 - Start App
+INFO 2021-05-26 10:55:49.531 - Khởi tạo TCP Server thành công
+INFO 2021-05-26 10:55:50.043 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:55:52.898 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:55:56.201 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:55:59.474 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:56:01.856 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:56:01.994 - New_Camera_State_Event: 192.168.20.171 - Lost Connection - EmptySlot: 0
+INFO 2021-05-26 10:56:02.096 - New_Camera_State_Event: 192.168.20.170 - New Event - EmptySlot: 1
+INFO 2021-05-26 10:56:02.762 - New_Camera_State_Event: 192.168.20.172 - Lost Connection - EmptySlot: 0
+INFO 2021-05-26 10:56:07.586 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:56:10.494 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:56:17.097 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:58:41.998 - Start App
+INFO 2021-05-26 10:58:42.852 - Khởi tạo TCP Server thành công
+INFO 2021-05-26 10:58:43.232 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:58:43.911 - New_Camera_State_Event: 192.168.20.172 - Lost Connection - EmptySlot: 0
+INFO 2021-05-26 10:58:45.308 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:58:47.653 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:58:49.605 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:58:51.795 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:58:54.311 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:58:56.964 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:58:59.116 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:59:00.515 - New_Camera_State_Event: 192.168.20.170 - New Event - EmptySlot: 1
+INFO 2021-05-26 10:59:01.150 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:59:01.769 - New_Camera_State_Event: 192.168.20.171 - Lost Connection - EmptySlot: 0
+INFO 2021-05-26 10:59:03.141 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:59:05.259 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:59:07.651 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:59:09.799 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:59:12.295 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:59:15.334 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:59:17.677 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:59:19.929 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:59:22.871 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 10:59:59.754 - Start App
+INFO 2021-05-26 11:00:01.625 - Khởi tạo TCP Server thành công
+INFO 2021-05-26 11:00:02.009 - New_Camera_State_Event: 192.168.20.171 - Lost Connection - EmptySlot: 0
+INFO 2021-05-26 11:00:02.012 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:00:02.582 - New_Camera_State_Event: 192.168.20.170 - New Event - EmptySlot: 1
+INFO 2021-05-26 11:00:02.756 - New_Camera_State_Event: 192.168.20.172 - Lost Connection - EmptySlot: 0
+INFO 2021-05-26 11:00:04.469 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:00:07.999 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:00:10.211 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:00:12.600 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:00:16.146 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:00:21.487 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:00:24.323 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:00:26.031 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:00:28.835 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:01:18.050 - Start App
+INFO 2021-05-26 11:01:19.497 - Khởi tạo TCP Server thành công
+INFO 2021-05-26 11:01:19.849 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:01:20.948 - New_Camera_State_Event: 192.168.20.170 - New Event - EmptySlot: 1
+INFO 2021-05-26 11:01:21.766 - New_Camera_State_Event: 192.168.20.171 - Lost Connection - EmptySlot: 0
+INFO 2021-05-26 11:01:22.235 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:01:22.762 - New_Camera_State_Event: 192.168.20.172 - Lost Connection - EmptySlot: 0
+INFO 2021-05-26 11:01:26.197 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:01:28.380 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:01:30.889 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:01:33.860 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:01:37.264 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:01:39.955 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:01:42.186 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:01:46.202 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:01:49.285 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:01:51.709 - Close App
+INFO 2021-05-26 11:02:57.890 - Start App
+INFO 2021-05-26 11:02:59.597 - Khởi tạo TCP Server thành công
+INFO 2021-05-26 11:03:00.052 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:03:00.949 - New_Camera_State_Event: 192.168.20.170 - New Event - EmptySlot: 1
+INFO 2021-05-26 11:03:01.763 - New_Camera_State_Event: 192.168.20.171 - Lost Connection - EmptySlot: 0
+INFO 2021-05-26 11:03:02.219 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:03:02.766 - New_Camera_State_Event: 192.168.20.172 - Lost Connection - EmptySlot: 0
+INFO 2021-05-26 11:03:05.775 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:03:08.944 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:03:12.368 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:03:13.472 - Close App
+INFO 2021-05-26 11:04:24.148 - Start App
+INFO 2021-05-26 11:04:25.475 - Khởi tạo TCP Server thành công
+INFO 2021-05-26 11:04:40.465 - New_Camera_State_Event: 192.168.20.170 - New Event - EmptySlot: 1
+INFO 2021-05-26 11:04:41.770 - New_Camera_State_Event: 192.168.20.171 - Lost Connection - EmptySlot: 0
+INFO 2021-05-26 11:04:42.763 - New_Camera_State_Event: 192.168.20.172 - Lost Connection - EmptySlot: 0
+INFO 2021-05-26 11:05:12.381 - Close App
+INFO 2021-05-26 11:10:36.522 - Start App
+INFO 2021-05-26 11:10:37.983 - Khởi tạo TCP Server thành công
+INFO 2021-05-26 11:10:40.640 - New_Camera_State_Event: 192.168.20.170 - New Event - EmptySlot: 1
+INFO 2021-05-26 11:10:41.757 - New_Camera_State_Event: 192.168.20.171 - Lost Connection - EmptySlot: 0
+INFO 2021-05-26 11:10:42.755 - New_Camera_State_Event: 192.168.20.172 - Lost Connection - EmptySlot: 0
+INFO 2021-05-26 11:11:29.278 - Close App
+INFO 2021-05-26 11:12:11.200 - Start App
+INFO 2021-05-26 11:12:13.084 - Khởi tạo TCP Server thành công
+INFO 2021-05-26 11:12:20.503 - New_Camera_State_Event: 192.168.20.170 - New Event - EmptySlot: 1
+INFO 2021-05-26 11:12:21.761 - New_Camera_State_Event: 192.168.20.171 - Lost Connection - EmptySlot: 0
+INFO 2021-05-26 11:12:22.766 - New_Camera_State_Event: 192.168.20.172 - Lost Connection - EmptySlot: 0
+INFO 2021-05-26 11:13:16.520 - Close App
+INFO 2021-05-26 11:30:53.438 - Start App
+INFO 2021-05-26 11:30:55.240 - Khởi tạo TCP Server thành công
+INFO 2021-05-26 11:31:01.832 - New_Camera_State_Event: 192.168.20.171 - Lost Connection - EmptySlot: 0
+INFO 2021-05-26 11:31:02.021 - New_Camera_State_Event: 192.168.20.170 - New Event - EmptySlot: 1
+INFO 2021-05-26 11:31:02.758 - New_Camera_State_Event: 192.168.20.172 - Lost Connection - EmptySlot: 0
+INFO 2021-05-26 11:32:34.650 - Start App
+INFO 2021-05-26 11:32:36.003 - Khởi tạo TCP Server thành công
+INFO 2021-05-26 11:32:40.773 - New_Camera_State_Event: 192.168.20.170 - New Event - EmptySlot: 1
+INFO 2021-05-26 11:32:41.762 - New_Camera_State_Event: 192.168.20.171 - Lost Connection - EmptySlot: 0
+INFO 2021-05-26 11:32:42.769 - New_Camera_State_Event: 192.168.20.172 - Lost Connection - EmptySlot: 0
+INFO 2021-05-26 11:33:02.856 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:33:05.163 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:33:07.204 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:33:09.167 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:33:11.296 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:33:13.730 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:33:16.727 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:33:19.725 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:33:22.301 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:33:24.817 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:33:27.247 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:33:29.709 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:33:31.697 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:33:33.709 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:33:35.696 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:33:37.830 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:33:41.188 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:33:43.205 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:33:45.931 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:33:48.308 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:33:50.783 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:33:53.382 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:33:55.812 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:33:58.708 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:34:00.669 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:34:02.662 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:34:04.662 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:34:06.641 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:34:08.657 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:34:10.650 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:34:12.655 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:34:14.670 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:34:17.940 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:34:20.126 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:34:22.121 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:34:24.394 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:34:27.499 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:34:32.183 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:34:35.817 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:34:39.693 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:34:42.263 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:34:46.686 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:34:51.031 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:34:56.698 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:35:01.012 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:35:03.685 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:35:06.931 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:35:09.994 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:35:12.885 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:35:16.239 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:35:19.298 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:35:22.581 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:35:24.999 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:35:27.752 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:35:31.001 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:35:33.346 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:35:36.545 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:35:39.331 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:35:42.266 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:35:44.715 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:35:47.520 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:35:49.745 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:35:52.313 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:35:55.652 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:35:58.293 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:36:01.534 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:36:03.985 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:36:06.842 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:36:09.955 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:36:13.901 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:36:16.857 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:36:19.968 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:36:23.058 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:36:26.070 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:36:28.953 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:36:31.808 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:36:34.880 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:36:37.417 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:36:40.511 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:36:43.583 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:36:46.733 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:36:49.951 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:36:54.875 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:37:01.291 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:37:03.753 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:37:04.805 - Receive CommandGetInforFrom192.168.21.231At01
+INFO 2021-05-26 11:37:04.812 - Send Data Success: ImagePathC:\Users\VIET ANH\Desktop\Data\2021_05_26_10_45_42.png,0,No
+INFO 2021-05-26 11:37:06.720 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:37:07.849 - Receive CommandGetInforFrom192.168.21.231At01
+INFO 2021-05-26 11:37:07.854 - Send Data Success: ImagePathC:\Users\VIET ANH\Desktop\Data\2021_05_26_10_45_42.png,0,No
+INFO 2021-05-26 11:37:09.889 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:37:12.691 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:37:16.305 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:37:19.244 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:37:21.795 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:37:25.167 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:37:28.527 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:37:31.423 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:37:34.457 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:37:37.377 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:37:41.263 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:37:44.499 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:37:47.245 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:37:50.453 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:37:53.415 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:37:56.258 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:38:00.232 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:38:03.244 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:38:06.074 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:38:08.239 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:38:11.737 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:38:14.813 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:38:17.324 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:38:20.387 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:38:22.690 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:38:25.114 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:38:27.328 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:38:31.332 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:38:35.173 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:38:38.284 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:38:42.795 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:38:46.776 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:38:50.175 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:38:53.287 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:38:56.327 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:38:59.411 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:39:00.100 - New_Camera_State_Event: 192.168.20.170 - New Event - EmptySlot: 3
+INFO 2021-05-26 11:39:01.648 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:39:03.904 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:39:04.897 - Receive CommandGetInforFrom192.168.21.231At02
+INFO 2021-05-26 11:39:04.901 - Send Data Success: ImagePathC:\Users\VIET ANH\Desktop\Data\2021_05_26_11_39_02.png,0,No
+INFO 2021-05-26 11:39:06.854 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:39:09.847 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:39:12.907 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:39:15.328 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:39:18.273 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:39:21.152 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:39:23.141 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:39:25.261 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:39:27.713 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:39:30.196 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:39:33.328 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:39:36.350 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:39:39.437 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:39:42.226 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:39:45.451 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:39:48.365 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:39:50.816 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:39:53.289 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:39:56.437 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:39:58.845 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:40:01.749 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:40:04.247 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:40:06.674 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:40:08.808 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:40:11.249 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:40:12.361 - Receive CommandGetInforFrom192.168.21.231At01
+INFO 2021-05-26 11:40:12.367 - Send Data Success: ImagePathC:\Users\VIET ANH\Desktop\Data\2021_05_26_11_39_02.png,0,No
+INFO 2021-05-26 11:40:12.785 - Receive CommandGetInforFrom192.168.21.231At02
+INFO 2021-05-26 11:40:12.790 - Send Data Success: ImagePathC:\Users\VIET ANH\Desktop\Data\2021_05_26_11_39_02.png,0,No
+INFO 2021-05-26 11:40:14.981 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:40:15.959 - Receive CommandGetInforFrom192.168.21.231At01
+INFO 2021-05-26 11:40:15.966 - Send Data Success: ImagePathC:\Users\VIET ANH\Desktop\Data\2021_05_26_11_39_02.png,0,No
+INFO 2021-05-26 11:40:16.438 - Receive CommandGetInforFrom192.168.21.231At02
+INFO 2021-05-26 11:40:16.442 - Send Data Success: ImagePathC:\Users\VIET ANH\Desktop\Data\2021_05_26_11_39_02.png,0,No
+INFO 2021-05-26 11:40:19.395 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:40:21.747 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:40:24.383 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:40:26.796 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:40:29.309 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:40:31.985 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:40:34.763 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:40:37.974 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:40:40.326 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:40:42.619 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:40:45.018 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:40:47.935 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:40:50.339 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:40:52.763 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:40:55.777 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:40:58.962 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:41:01.263 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:41:03.712 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:41:06.882 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:41:09.555 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:41:12.388 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:41:15.274 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:41:18.295 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:41:20.734 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:41:23.166 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:41:25.372 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:41:27.967 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:41:30.975 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:41:33.891 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:41:36.347 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:41:39.244 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:41:41.727 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:41:44.324 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:41:47.678 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:41:51.278 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:41:54.449 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:41:57.063 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:42:00.010 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:42:02.961 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:42:06.887 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:42:09.931 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:42:12.784 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:42:16.491 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:42:19.879 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:42:22.909 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:42:26.113 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:42:28.292 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:42:31.526 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:42:34.459 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:42:37.564 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:42:40.348 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:42:42.734 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:42:45.887 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:42:48.938 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:42:51.827 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:42:55.158 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:42:59.128 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:43:02.603 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:43:04.914 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:43:07.260 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:43:09.836 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:43:12.835 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:43:16.236 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:43:20.067 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:43:23.083 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:43:27.038 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:43:31.675 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:43:36.115 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:43:40.199 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:43:43.536 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:43:50.253 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:43:54.876 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:43:57.951 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:44:01.231 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:44:03.800 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:44:06.848 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:44:09.757 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:44:12.241 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:44:14.844 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:44:17.831 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:44:20.203 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:44:22.207 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:44:24.180 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:44:26.171 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:44:28.129 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:44:30.156 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:44:32.201 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:44:34.122 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:44:36.194 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:44:38.199 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:44:40.119 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:44:42.125 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:44:44.110 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:44:46.229 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:44:48.903 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:44:51.217 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:44:53.189 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:44:55.209 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:44:57.145 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:44:59.144 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 11:45:01.127 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-05-26 12:28:24.325 - Close App

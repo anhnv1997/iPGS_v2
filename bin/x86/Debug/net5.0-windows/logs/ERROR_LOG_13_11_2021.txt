@@ -1,0 +1,25 @@
+ERROR 2021-11-13 08:12:09.371 - Thiết lập sai IP
+ERROR 2021-11-13 08:12:10.381 - System.InvalidOperationException: You must call the Bind method before performing this operation.
+   at System.Net.Sockets.Socket.Accept()
+   at Kztek.iZCU.frmMainForm.udpServer_Worker_DoWork(Object sender1, DoWorkEventArgs e) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 135
+ERROR 2021-11-13 08:55:04.858 - Camera Error: System.ArgumentNullException: Value cannot be null. (Parameter 'bytes')
+   at System.IO.File.WriteAllBytes(String path, Byte[] bytes)
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 566
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 125
+ERROR 2021-11-13 09:30:06.747 - Camera Error: System.ArgumentNullException: Value cannot be null. (Parameter 'bytes')
+   at System.IO.File.WriteAllBytes(String path, Byte[] bytes)
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 566
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 125
+ERROR 2021-11-13 09:49:05.383 - Camera Error: System.ArgumentNullException: Value cannot be null. (Parameter 'bytes')
+   at System.IO.File.WriteAllBytes(String path, Byte[] bytes)
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 566
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 125
+ERROR 2021-11-13 09:57:18.324 - Load Image Error
+ERROR 2021-11-13 09:59:24.404 - Camera Error: System.ArgumentNullException: Value cannot be null. (Parameter 'bytes')
+   at System.IO.File.WriteAllBytes(String path, Byte[] bytes)
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 566
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 125

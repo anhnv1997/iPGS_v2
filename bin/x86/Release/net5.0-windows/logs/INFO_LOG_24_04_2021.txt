@@ -1,0 +1,12 @@
+INFO 2021-04-24 08:53:14.282 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-04-24 08:53:14.286 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-04-24 08:53:14.289 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-04-24 08:53:14.370 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-04-24 08:53:14.394 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-04-24 08:53:14.411 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-04-24 08:53:14.424 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-04-24 08:53:14.430 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-04-24 08:53:14.439 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-04-24 08:53:14.442 - Udp Server Get: GetStateAllSensor?/
+INFO 2021-04-24 08:53:20.083 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-04-24 08:53:28.464 - Close App

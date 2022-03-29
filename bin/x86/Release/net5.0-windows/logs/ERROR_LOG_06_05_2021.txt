@@ -1,0 +1,16 @@
+ERROR 2021-05-06 08:03:41.210 - Camera Error: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 316
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 131
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 216
+ERROR 2021-05-06 10:41:40.873 - Camera Error: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 316
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 131
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 216
+ERROR 2021-05-06 10:44:00.882 - Camera Error: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 316
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 131
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 216
+ERROR 2021-05-06 15:03:25.363 - Camera Error: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 320
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 132
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in C:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 216

@@ -1,0 +1,904 @@
+INFO 2021-06-24 13:29:45.317 - Start App
+INFO 2021-06-24 13:29:47.377 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 0
+INFO 2021-06-24 13:30:37.471 - Close App
+INFO 2021-06-24 13:31:28.778 - Start App
+INFO 2021-06-24 13:32:06.839 - Start App
+INFO 2021-06-24 14:22:38.765 - Start App
+INFO 2021-06-24 14:22:45.641 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 0
+INFO 2021-06-24 14:36:08.963 - Start App
+INFO 2021-06-24 14:36:25.945 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 0
+INFO 2021-06-24 14:37:58.980 - Close App
+INFO 2021-06-24 14:38:30.454 - Start App
+INFO 2021-06-24 14:38:45.659 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 0
+INFO 2021-06-24 14:40:10.641 - Start App
+INFO 2021-06-24 14:40:25.656 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 0
+INFO 2021-06-24 15:07:54.211 - Start App
+INFO 2021-06-24 15:08:05.645 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 0
+INFO 2021-06-24 15:09:46.684 - Start App
+INFO 2021-06-24 15:10:06.171 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 0
+INFO 2021-06-24 15:10:17.721 - Close App
+INFO 2021-06-24 15:10:27.395 - Start App
+INFO 2021-06-24 15:11:59.135 - Close App
+INFO 2021-06-24 15:12:12.190 - Start App
+INFO 2021-06-24 15:12:25.890 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 0
+INFO 2021-06-24 15:13:56.727 - Start App
+INFO 2021-06-24 15:14:49.026 - Start App
+INFO 2021-06-24 15:15:24.556 - Start App
+INFO 2021-06-24 15:15:40.091 - Close App
+INFO 2021-06-24 15:16:21.236 - Start App
+INFO 2021-06-24 15:17:42.017 - Start App
+INFO 2021-06-24 15:18:45.111 - Start App
+INFO 2021-06-24 15:21:41.688 - Start App
+INFO 2021-06-24 15:21:48.498 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 0
+INFO 2021-06-24 15:24:50.491 - Start App
+INFO 2021-06-24 15:25:33.573 - Start App
+INFO 2021-06-24 15:27:26.742 - Start App
+INFO 2021-06-24 15:28:16.466 - Start App
+INFO 2021-06-24 15:29:10.512 - Start App
+INFO 2021-06-24 15:30:07.529 - Start App
+INFO 2021-06-24 15:30:52.393 - Start App
+INFO 2021-06-24 15:31:58.598 - Start App
+INFO 2021-06-24 15:36:19.592 - Start App
+INFO 2021-06-24 15:38:34.180 - Start App
+INFO 2021-06-24 15:38:40.794 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 0
+INFO 2021-06-24 15:38:43.758 - New_Camera_State_Event: 14.160.26.245 - Lost Connection - EmptySlot: 0
+INFO 2021-06-24 15:38:48.646 - Close App
+INFO 2021-06-24 15:39:45.191 - Start App
+INFO 2021-06-24 15:39:47.093 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 0
+INFO 2021-06-24 15:40:17.165 - Close App
+INFO 2021-06-24 15:40:39.822 - Start App
+INFO 2021-06-24 15:40:42.034 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 0
+INFO 2021-06-24 15:40:50.697 - New_Camera_State_Event: 14.160.26.245 - Lost Connection - EmptySlot: 0
+INFO 2021-06-24 15:40:58.352 - Close App
+INFO 2021-06-24 15:41:12.199 - Start App
+INFO 2021-06-24 15:41:40.641 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 0
+INFO 2021-06-24 15:42:52.803 - New_Camera_State_Event: 14.160.26.245 - Lost Connection - EmptySlot: 0
+INFO 2021-06-24 15:43:30.540 - Start App
+INFO 2021-06-24 15:43:41.991 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 0
+INFO 2021-06-24 15:43:58.165 - Close App
+INFO 2021-06-24 15:44:23.734 - Start App
+INFO 2021-06-24 15:44:41.753 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 0
+INFO 2021-06-24 15:47:52.932 - Start App
+INFO 2021-06-24 15:48:00.999 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 0
+INFO 2021-06-24 15:52:07.201 - Start App
+INFO 2021-06-24 15:53:24.054 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 0
+INFO 2021-06-24 15:57:00.395 - Start App
+INFO 2021-06-24 15:57:30.226 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 15:59:06.483 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 0
+INFO 2021-06-24 16:00:17.457 - New_Camera_State_Event: 14.160.26.245 - Lost Connection - EmptySlot: 0
+INFO 2021-06-24 16:02:54.715 - Start App
+INFO 2021-06-24 16:03:01.696 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 0
+INFO 2021-06-24 16:03:02.895 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 0
+INFO 2021-06-24 16:03:04.045 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 0
+INFO 2021-06-24 16:03:05.173 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 0
+INFO 2021-06-24 16:03:06.331 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 0
+INFO 2021-06-24 16:03:07.478 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 0
+INFO 2021-06-24 16:03:08.656 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 0
+INFO 2021-06-24 16:03:09.880 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 0
+INFO 2021-06-24 16:03:11.063 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 0
+INFO 2021-06-24 16:03:12.238 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 0
+INFO 2021-06-24 16:03:13.370 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 0
+INFO 2021-06-24 16:03:15.107 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:03:18.643 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:03:19.750 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:04:00.406 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:04:04.138 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:04:05.318 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:04:06.488 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:04:07.634 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:04:08.762 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:04:09.907 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:04:11.138 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:04:12.343 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:04:13.656 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:04:14.801 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:04:18.383 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:05:00.978 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:05:04.887 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:05:06.041 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:05:07.220 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:05:08.337 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:05:09.448 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:05:10.549 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:05:11.671 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:05:12.765 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:05:13.868 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:05:14.979 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:05:16.089 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:05:17.208 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:05:18.316 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:05:19.437 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:06:00.912 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:06:02.034 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:06:03.166 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:06:04.272 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:06:05.379 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:06:06.502 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:06:07.622 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:06:08.758 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:06:09.869 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:06:10.981 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:06:12.115 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:06:13.251 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:06:14.369 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:06:15.487 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:06:16.614 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:06:17.754 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:06:18.855 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:06:19.963 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:07:00.466 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:07:01.585 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:07:02.751 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:07:03.893 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:07:05.033 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:07:06.196 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:07:07.837 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:07:11.391 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:07:12.626 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:07:13.743 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:07:17.193 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:08:00.344 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:08:03.978 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:08:07.637 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:08:11.105 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:08:14.568 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:08:18.082 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:09:00.969 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:09:04.408 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:09:07.791 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:09:11.199 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:09:14.673 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:09:18.116 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:10:00.918 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:10:04.352 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:10:07.777 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:10:11.169 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:10:14.598 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:10:18.029 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:11:00.823 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:11:04.317 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:11:32.070 - Start App
+INFO 2021-06-24 16:12:07.826 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:14:00.653 - Start App
+INFO 2021-06-24 16:14:49.072 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:15:00.880 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:15:02.099 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:15:03.267 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:15:04.487 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:15:05.649 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:15:06.784 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:15:07.928 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:15:09.261 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:15:10.399 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:15:12.416 - New_Camera_State_Event: 14.160.26.245 - Lost Connection - EmptySlot: 0
+INFO 2021-06-24 16:15:13.546 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:15:14.752 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:15:16.032 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:15:17.215 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:15:18.436 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:16:00.633 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:16:04.253 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:16:07.364 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:16:10.897 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:16:14.529 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:16:15.682 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:16:16.872 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:16:18.137 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:16:19.306 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:17:00.826 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 0
+INFO 2021-06-24 16:17:04.315 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 0
+INFO 2021-06-24 16:17:05.442 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 0
+INFO 2021-06-24 16:17:06.565 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 0
+INFO 2021-06-24 16:17:07.678 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 0
+INFO 2021-06-24 16:17:08.989 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 0
+INFO 2021-06-24 16:17:10.193 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 0
+INFO 2021-06-24 16:17:11.363 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 0
+INFO 2021-06-24 16:17:12.493 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 0
+INFO 2021-06-24 16:17:13.632 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 0
+INFO 2021-06-24 16:17:14.761 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 0
+INFO 2021-06-24 16:17:15.955 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:17:19.446 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:17:47.090 - Close App
+INFO 2021-06-24 16:49:11.201 - Start App
+INFO 2021-06-24 16:49:16.421 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:50:00.570 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:50:04.873 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:50:08.335 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:50:09.473 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:50:10.598 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:50:11.912 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:50:13.562 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:50:14.921 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:50:16.100 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:50:17.292 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:50:18.878 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:50:20.085 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:50:52.635 - Close App
+INFO 2021-06-24 16:51:04.203 - Start App
+INFO 2021-06-24 16:51:06.455 - Khởi tạo TCP Server thành công
+INFO 2021-06-24 16:51:14.182 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:51:14.283 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:51:14.785 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:51:15.386 - Receive CommandGetInforFrom192.168.21.231At01
+INFO 2021-06-24 16:51:15.404 - Send Data Success: ImagePathC:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Data\2021_06_24_16_50_07.png,1,30G-08836
+INFO 2021-06-24 16:51:16.615 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:51:18.107 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:51:19.600 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:51:21.095 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:51:22.610 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:51:24.118 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:51:25.712 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:51:27.196 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:51:28.598 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:51:29.393 - Receive CommandGetInforFrom192.168.21.231At06
+INFO 2021-06-24 16:51:30.111 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:51:31.649 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:51:31.784 - Receive CommandGetInforFrom192.168.21.231At08
+INFO 2021-06-24 16:51:33.104 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:51:33.445 - Receive CommandGetInforFrom192.168.21.231At01
+INFO 2021-06-24 16:51:33.450 - Send Data Success: ImagePathC:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Data\2021_06_24_16_50_07.png,1,30G-08836
+INFO 2021-06-24 16:51:33.950 - Receive CommandGetInforFrom192.168.21.231At02
+INFO 2021-06-24 16:51:33.955 - Send Data Success: ImagePathC:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Data\2021_06_24_16_50_07.png,1,30F-30444
+INFO 2021-06-24 16:51:35.711 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:51:37.740 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:51:39.130 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:51:40.597 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:51:42.146 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:51:43.650 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:51:45.297 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:51:47.647 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:51:49.137 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:51:50.629 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:51:52.115 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:51:52.831 - Close App
+INFO 2021-06-24 16:52:49.370 - Start App
+INFO 2021-06-24 16:52:50.542 - Khởi tạo TCP Server thành công
+INFO 2021-06-24 16:52:50.930 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:52:52.641 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:52:54.109 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:52:55.600 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:52:57.118 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:52:58.616 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:52:59.741 - Receive CommandGetInforFrom192.168.21.231At02
+INFO 2021-06-24 16:52:59.755 - Send Data Success: ImagePathC:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Data\2021_06_24_16_50_07.png,1,30F-30444
+INFO 2021-06-24 16:53:00.107 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:53:01.832 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:53:03.586 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:53:03.786 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:53:05.122 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:53:06.611 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:53:07.518 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:53:08.130 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:53:09.630 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:53:10.025 - Receive CommandGetInforFrom192.168.21.231At03
+INFO 2021-06-24 16:53:10.123 - Send Data Success: ImagePathC:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Data\2021_06_24_16_53_09.png,-1,No
+INFO 2021-06-24 16:53:11.094 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:53:11.196 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:53:12.334 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:53:12.602 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:53:13.570 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:53:14.144 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:53:14.769 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:53:15.618 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:53:17.110 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:53:17.141 - Receive CommandGetInforFrom192.168.21.231At04
+INFO 2021-06-24 16:53:18.755 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:53:18.810 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:53:18.921 - Receive CommandGetInforFrom192.168.21.231At01
+INFO 2021-06-24 16:53:18.927 - Send Data Success: ImagePathC:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Data\2021_06_24_16_53_17.png,1,30E-16252
+INFO 2021-06-24 16:53:20.184 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:53:21.619 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:53:23.115 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:53:24.593 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:53:26.121 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:53:27.600 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:53:29.104 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:53:30.601 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:53:32.147 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:53:32.484 - Receive CommandGetInforFrom192.168.21.231At01
+INFO 2021-06-24 16:53:32.490 - Send Data Success: ImagePathC:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Data\2021_06_24_16_53_21.png,1,30G-08836
+INFO 2021-06-24 16:53:32.517 - Receive CommandGetInforFrom192.168.21.231At02
+INFO 2021-06-24 16:53:32.522 - Send Data Success: ImagePathC:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Data\2021_06_24_16_53_21.png,1,30F-30444
+INFO 2021-06-24 16:53:33.690 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:53:34.001 - Receive CommandGetInforFrom192.168.21.231At01
+INFO 2021-06-24 16:53:34.005 - Send Data Success: ImagePathC:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Data\2021_06_24_16_53_21.png,1,30G-08836
+INFO 2021-06-24 16:53:34.021 - Receive CommandGetInforFrom192.168.21.231At02
+INFO 2021-06-24 16:53:34.027 - Send Data Success: ImagePathC:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Data\2021_06_24_16_53_21.png,1,30F-30444
+INFO 2021-06-24 16:53:35.108 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:53:36.831 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:53:38.115 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:53:39.605 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:53:41.103 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:53:42.595 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:53:44.095 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:53:45.596 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:53:47.122 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:53:48.600 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:53:50.091 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:53:51.597 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:53:53.131 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:53:54.619 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:53:56.132 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:53:57.588 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:53:59.103 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:54:00.621 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:54:00.840 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:54:01.979 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:54:02.117 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:54:03.138 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:54:03.617 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:54:04.283 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:54:05.088 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:54:05.428 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:54:06.546 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:54:06.606 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:54:07.650 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:54:08.092 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:54:08.795 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:54:09.616 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:54:09.916 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:54:11.061 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:54:11.089 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:54:12.211 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:54:12.604 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:54:14.110 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:54:15.638 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:54:15.724 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:54:17.076 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:54:18.644 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:54:19.238 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:54:20.165 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:54:21.623 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:54:23.094 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:54:24.591 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:54:26.103 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:54:27.613 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:54:29.110 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:54:30.601 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:54:32.101 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:54:33.608 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:54:35.129 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:54:36.612 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:54:38.111 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:54:39.603 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:54:41.099 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:54:42.601 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:54:44.109 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:54:45.600 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:54:47.100 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:54:48.597 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:54:50.097 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:55:00.943 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:55:02.058 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:55:03.250 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:55:04.377 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:55:05.476 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:55:08.894 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:55:12.344 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:55:13.504 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:55:14.681 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:55:15.794 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:55:16.915 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:55:18.039 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:56:00.821 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:56:02.002 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:56:03.126 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:56:06.673 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:56:07.834 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:56:11.365 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:56:14.908 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:56:16.033 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:56:17.353 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:57:02.185 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:57:05.906 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:57:09.487 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:57:10.740 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:57:16.631 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:57:32.729 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:57:34.121 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:57:35.599 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:57:37.094 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:57:38.581 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:57:40.114 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:57:41.612 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:57:43.107 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:57:44.605 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:57:46.096 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:57:47.628 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:57:49.107 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:57:50.600 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:57:52.192 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:57:53.612 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:57:55.115 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:57:56.606 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:57:58.097 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:57:59.582 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:58:00.228 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:58:01.108 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:58:01.351 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:58:02.474 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:58:02.596 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:58:03.674 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:58:04.120 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:58:04.822 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:58:05.590 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:58:05.966 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:58:07.087 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:58:07.138 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:58:08.220 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:58:08.614 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:58:09.359 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:58:10.123 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:58:11.616 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:58:12.850 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:58:13.119 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:58:14.630 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:58:16.100 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:58:16.386 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:58:17.503 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:58:17.610 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:58:18.618 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:58:19.102 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:58:19.759 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:58:20.600 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:58:22.215 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:58:23.611 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:58:25.105 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:58:26.636 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:58:28.132 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:58:29.614 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:58:31.096 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:58:32.632 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:58:34.109 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:58:35.632 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:58:37.107 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:58:38.614 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:58:40.109 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:58:41.067 - Receive CommandGetInforFrom192.168.21.231At04
+INFO 2021-06-24 16:58:41.612 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:58:43.068 - Receive CommandGetInforFrom192.168.21.231At01
+INFO 2021-06-24 16:58:43.074 - Send Data Success: ImagePathC:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Data\2021_06_24_16_58_15.png,1,30G-08836
+INFO 2021-06-24 16:58:43.092 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:58:44.633 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:58:46.090 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:58:47.607 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:58:49.105 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:58:50.606 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:58:52.132 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:58:53.610 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:58:55.111 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:58:56.618 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:58:58.089 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:58:59.600 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:59:00.265 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:59:01.094 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:59:01.414 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:59:02.831 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:59:02.932 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:59:04.132 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:59:05.699 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:59:06.744 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:59:07.229 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:59:08.103 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:59:08.716 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:59:09.268 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:59:10.152 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:59:11.725 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:59:13.024 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:59:13.096 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:59:14.182 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:59:14.601 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:59:15.350 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:59:16.128 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:59:16.496 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:59:17.614 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:59:17.622 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:59:18.776 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:59:19.140 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:59:19.924 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 16:59:20.590 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:59:22.105 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:59:23.624 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:59:25.105 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:59:26.613 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:59:28.099 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:59:29.635 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:59:31.124 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:59:32.762 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:59:34.129 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:59:35.639 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:59:37.116 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:59:38.657 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:59:39.049 - Receive CommandGetInforFrom192.168.21.231At01
+INFO 2021-06-24 16:59:39.058 - Send Data Success: ImagePathC:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Data\2021_06_24_16_59_11.png,1,30G-08836
+INFO 2021-06-24 16:59:40.132 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:59:41.589 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:59:43.140 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:59:43.467 - Receive CommandGetInforFrom192.168.21.231At01
+INFO 2021-06-24 16:59:43.472 - Send Data Success: ImagePathC:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Data\2021_06_24_16_59_11.png,1,30G-08836
+INFO 2021-06-24 16:59:44.612 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:59:46.155 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:59:47.604 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:59:49.143 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:59:50.695 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:59:52.144 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:59:54.100 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:59:55.779 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:59:57.097 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 16:59:58.601 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:00:00.147 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:00:00.803 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 17:00:01.613 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:00:02.000 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 17:00:03.116 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 17:00:03.178 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:00:04.614 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:00:06.113 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:00:06.650 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 17:00:07.607 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:00:09.217 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:00:10.143 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 17:00:10.637 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:00:11.351 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 17:00:12.111 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:00:12.539 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 17:00:13.638 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:00:13.676 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 17:00:14.837 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 17:00:15.114 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:00:15.969 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 17:00:16.617 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:00:17.083 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 17:00:18.159 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:00:18.226 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 17:00:19.398 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 17:00:19.604 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:00:21.095 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:00:22.600 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:00:24.123 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:00:25.644 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:00:27.100 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:00:28.628 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:00:30.137 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:00:31.642 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:00:33.108 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:00:34.606 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:00:36.116 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:00:37.595 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:00:39.092 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:00:40.609 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:00:42.143 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:00:43.592 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:00:45.120 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:00:46.618 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:00:48.134 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:00:49.603 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:00:51.122 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:00:52.605 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:00:54.098 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:00:55.615 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:00:57.139 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:00:58.620 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:01:00.103 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:01:00.967 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 17:01:01.614 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:01:03.109 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:01:04.473 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 17:01:04.610 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:01:06.090 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:01:07.633 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:01:08.039 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 17:01:09.102 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:01:10.616 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:01:11.604 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 17:01:12.107 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:01:13.625 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:01:15.118 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:01:15.231 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 17:01:16.482 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-24 17:01:16.620 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:01:18.296 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:01:19.652 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:01:21.286 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:01:22.603 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:01:24.104 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:01:25.617 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:01:27.148 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:01:28.664 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:01:30.121 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:01:31.672 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:01:33.110 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:01:34.595 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:01:36.120 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:01:37.624 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:01:39.116 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:01:40.631 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:01:42.114 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:01:43.628 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:01:45.180 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:01:46.612 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:01:48.116 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:01:49.683 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:01:51.168 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:01:52.613 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:01:54.120 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:01:55.725 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:01:57.182 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:01:58.602 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:02:00.127 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:02:01.019 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 2
+INFO 2021-06-24 17:02:01.695 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:02:03.121 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:02:04.621 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:02:04.798 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 2
+INFO 2021-06-24 17:02:05.924 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 2
+INFO 2021-06-24 17:02:06.134 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:02:07.088 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 2
+INFO 2021-06-24 17:02:08.184 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:02:08.225 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 2
+INFO 2021-06-24 17:02:09.354 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 2
+INFO 2021-06-24 17:02:09.594 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:02:10.389 - Receive CommandGetInforFrom192.168.21.231At01
+INFO 2021-06-24 17:02:10.396 - Send Data Success: ImagePathC:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Data\2021_06_24_17_02_03.png,1,30E-I6252
+INFO 2021-06-24 17:02:10.565 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 2
+INFO 2021-06-24 17:02:11.148 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:02:11.837 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 2
+INFO 2021-06-24 17:02:12.474 - Receive CommandGetInforFrom192.168.21.231At04
+INFO 2021-06-24 17:02:12.603 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:02:12.970 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 2
+INFO 2021-06-24 17:02:14.142 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:02:14.155 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 2
+INFO 2021-06-24 17:02:15.375 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 2
+INFO 2021-06-24 17:02:15.627 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:02:16.482 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 2
+INFO 2021-06-24 17:02:17.100 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:02:17.676 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 2
+INFO 2021-06-24 17:02:18.603 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:02:18.836 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 2
+INFO 2021-06-24 17:02:20.021 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 2
+INFO 2021-06-24 17:02:20.129 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:02:21.615 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:02:22.564 - Receive CommandGetInforFrom192.168.21.231At03
+INFO 2021-06-24 17:02:22.570 - Send Data Success: ImagePathC:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Data\2021_06_24_17_02_03.png,-1,No
+INFO 2021-06-24 17:02:23.112 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:02:24.628 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:02:26.130 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:02:27.606 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:02:29.102 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:02:30.626 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:02:32.115 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:02:33.680 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:02:35.220 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:02:37.157 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:02:38.664 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:02:40.662 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:02:42.272 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:02:44.181 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:02:45.685 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:02:47.152 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:02:48.679 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:02:50.139 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:02:51.677 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:02:53.101 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:02:54.600 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:02:56.153 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:02:57.608 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:02:59.108 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:03:00.606 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:03:01.023 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 2
+INFO 2021-06-24 17:03:02.128 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:03:02.340 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 2
+INFO 2021-06-24 17:03:03.557 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 2
+INFO 2021-06-24 17:03:03.694 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:03:04.809 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 2
+INFO 2021-06-24 17:03:05.230 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:03:06.001 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 2
+INFO 2021-06-24 17:03:06.601 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:03:08.107 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:03:09.551 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 2
+INFO 2021-06-24 17:03:09.590 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:03:10.676 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 2
+INFO 2021-06-24 17:03:11.117 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:03:11.811 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 2
+INFO 2021-06-24 17:03:12.607 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:03:12.991 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 2
+INFO 2021-06-24 17:03:14.159 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:03:14.220 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 2
+INFO 2021-06-24 17:03:15.344 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 2
+INFO 2021-06-24 17:03:15.626 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:03:16.460 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 2
+INFO 2021-06-24 17:03:17.108 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:03:17.575 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 2
+INFO 2021-06-24 17:03:18.658 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:03:20.157 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:03:21.638 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:03:23.129 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:03:24.637 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:03:26.119 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:03:27.632 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:03:29.108 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:03:30.621 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:03:32.115 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:03:33.616 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:03:35.107 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:03:36.628 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:03:38.115 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:03:39.640 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:03:41.198 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:03:42.670 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:03:44.106 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:03:45.601 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:03:47.115 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:03:48.597 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:03:50.109 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:03:51.610 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:03:52.649 - Receive CommandGetInforFrom192.168.21.231At01
+INFO 2021-06-24 17:03:52.654 - Send Data Success: ImagePathC:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Data\2021_06_24_17_03_08.png,1,30E-16252
+INFO 2021-06-24 17:03:53.105 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:03:54.613 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:03:56.102 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:03:57.639 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:03:59.196 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:04:00.620 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:04:00.722 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 2
+INFO 2021-06-24 17:04:02.150 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:04:03.621 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:04:03.959 - Receive CommandGetInforFrom192.168.21.231At03
+INFO 2021-06-24 17:04:03.965 - Send Data Success: ImagePathC:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Data\2021_06_24_17_04_03.png,0,No
+INFO 2021-06-24 17:04:04.431 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 2
+INFO 2021-06-24 17:04:05.115 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:04:05.575 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 3
+INFO 2021-06-24 17:04:06.610 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:04:08.126 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:04:08.449 - Receive CommandGetInforFrom192.168.21.231At01
+INFO 2021-06-24 17:04:08.454 - Send Data Success: ImagePathC:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Data\2021_06_24_17_04_07.png,0,No
+INFO 2021-06-24 17:04:09.141 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 3
+INFO 2021-06-24 17:04:09.671 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:04:10.419 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 3
+INFO 2021-06-24 17:04:11.122 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:04:12.470 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 3
+INFO 2021-06-24 17:04:12.669 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:04:13.726 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 3
+INFO 2021-06-24 17:04:14.130 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:04:14.933 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 3
+INFO 2021-06-24 17:04:15.686 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:04:16.215 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 3
+INFO 2021-06-24 17:04:17.109 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:04:17.373 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 3
+INFO 2021-06-24 17:04:18.537 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 3
+INFO 2021-06-24 17:04:18.609 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:04:19.821 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 3
+INFO 2021-06-24 17:04:20.135 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:04:21.638 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:04:23.111 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:04:24.789 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:04:26.117 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:04:27.623 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:04:29.141 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:04:30.004 - Receive CommandGetInforFrom192.168.21.231At01
+INFO 2021-06-24 17:04:30.010 - Send Data Success: ImagePathC:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Data\2021_06_24_17_04_07.png,0,No
+INFO 2021-06-24 17:04:30.730 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:04:32.103 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:04:33.603 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:04:35.117 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:04:36.587 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:04:38.100 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:04:39.608 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:04:41.101 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:04:42.600 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:04:44.109 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:04:45.605 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:04:47.090 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:04:48.614 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:04:50.095 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:04:51.607 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:04:53.109 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:04:54.590 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:04:56.109 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:04:57.597 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:04:59.101 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:05:00.342 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 2
+INFO 2021-06-24 17:05:00.605 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:05:02.114 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:05:03.619 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:05:03.832 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 2
+INFO 2021-06-24 17:05:03.947 - Receive CommandGetInforFrom192.168.21.231At01
+INFO 2021-06-24 17:05:03.953 - Send Data Success: ImagePathC:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Data\2021_06_24_17_05_02.png,1,30E-16252
+INFO 2021-06-24 17:05:04.966 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 2
+INFO 2021-06-24 17:05:05.101 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:05:06.180 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 2
+INFO 2021-06-24 17:05:06.627 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:05:07.301 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 3
+INFO 2021-06-24 17:05:08.111 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:05:09.608 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:05:10.806 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 3
+INFO 2021-06-24 17:05:11.098 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:05:11.413 - Receive CommandGetInforFrom192.168.21.231At01
+INFO 2021-06-24 17:05:11.419 - Send Data Success: ImagePathC:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Data\2021_06_24_17_05_09.png,0,No
+INFO 2021-06-24 17:05:11.947 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 3
+INFO 2021-06-24 17:05:12.606 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:05:13.185 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 3
+INFO 2021-06-24 17:05:14.145 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:05:14.309 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 3
+INFO 2021-06-24 17:05:15.596 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:05:17.103 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:05:17.593 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 3
+INFO 2021-06-24 17:05:18.607 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:05:18.640 - Receive CommandGetInforFrom192.168.21.231At01
+INFO 2021-06-24 17:05:18.646 - Send Data Success: ImagePathC:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Data\2021_06_24_17_05_09.png,0,No
+INFO 2021-06-24 17:05:18.771 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 3
+INFO 2021-06-24 17:05:19.943 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 3
+INFO 2021-06-24 17:05:20.149 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:05:21.627 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:05:22.520 - Receive CommandGetInforFrom192.168.21.231At04
+INFO 2021-06-24 17:05:23.103 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:05:24.597 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:05:26.144 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:05:27.632 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:05:28.341 - Receive CommandGetInforFrom192.168.21.231At01
+INFO 2021-06-24 17:05:28.348 - Send Data Success: ImagePathC:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Data\2021_06_24_17_05_09.png,0,No
+INFO 2021-06-24 17:05:29.125 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:05:30.602 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:05:32.125 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:05:33.608 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:05:33.996 - Receive CommandGetInforFrom192.168.21.231At08
+INFO 2021-06-24 17:05:35.107 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:05:36.610 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:05:38.112 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:05:39.620 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:05:41.130 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:05:42.610 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:05:44.107 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:05:45.616 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:05:46.720 - Receive CommandGetInforFrom192.168.21.231At03
+INFO 2021-06-24 17:05:46.726 - Send Data Success: ImagePathC:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Data\2021_06_24_17_05_09.png,0,No
+INFO 2021-06-24 17:05:47.094 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:05:48.665 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:05:50.112 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:05:51.617 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:05:53.101 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:05:54.618 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:05:56.114 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:05:57.634 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:05:59.170 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:06:00.020 - Receive CommandGetInforFrom192.168.21.231At01
+INFO 2021-06-24 17:06:00.026 - Send Data Success: ImagePathC:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Data\2021_06_24_17_05_09.png,0,No
+INFO 2021-06-24 17:06:00.613 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 3
+INFO 2021-06-24 17:06:00.766 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:06:01.740 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 3
+INFO 2021-06-24 17:06:02.149 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:06:02.877 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 3
+INFO 2021-06-24 17:06:03.611 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:06:04.003 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 3
+INFO 2021-06-24 17:06:05.111 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:06:05.185 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 3
+INFO 2021-06-24 17:06:06.321 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 3
+INFO 2021-06-24 17:06:06.633 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:06:07.450 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 3
+INFO 2021-06-24 17:06:08.091 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:06:08.614 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 3
+INFO 2021-06-24 17:06:09.607 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:06:09.745 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 3
+INFO 2021-06-24 17:06:10.878 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 3
+INFO 2021-06-24 17:06:11.100 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:06:12.018 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 3
+INFO 2021-06-24 17:06:12.607 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:06:13.153 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 3
+INFO 2021-06-24 17:06:14.112 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:06:14.259 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 3
+INFO 2021-06-24 17:06:15.399 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 3
+INFO 2021-06-24 17:06:15.587 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:06:16.532 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 3
+INFO 2021-06-24 17:06:17.102 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:06:17.669 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 3
+INFO 2021-06-24 17:06:18.599 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:06:18.784 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 3
+INFO 2021-06-24 17:06:19.893 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 3
+INFO 2021-06-24 17:06:20.107 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:06:21.581 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:06:23.106 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:06:24.590 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:06:26.116 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:06:27.599 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:06:29.111 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-24 17:06:30.601 - Nhận lệnh GetStateAllSensor?/

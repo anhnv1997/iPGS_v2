@@ -1,0 +1,274 @@
+ERROR 2021-12-17 15:30:27.819 - Thiết lập sai IP
+ERROR 2021-12-17 15:30:28.834 - System.InvalidOperationException: You must call the Bind method before performing this operation.
+   at System.Net.Sockets.Socket.Accept()
+   at Kztek.iZCU.frmMainForm.udpServer_Worker_DoWork(Object sender1, DoWorkEventArgs e) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 122
+ERROR 2021-12-17 15:31:06.636 - Thiết lập sai IP
+ERROR 2021-12-17 15:31:08.237 - System.InvalidOperationException: You must call the Bind method before performing this operation.
+   at System.Net.Sockets.Socket.Accept()
+   at Kztek.iZCU.frmMainForm.udpServer_Worker_DoWork(Object sender1, DoWorkEventArgs e) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 122
+ERROR 2021-12-17 15:31:43.271 - Camera Error: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 456
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.ExcecuteNewEvent(Int32 parkingNum, String[] parkingNo, String[] plateNum, Int32[] carStatus) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 176
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 110
+ERROR 2021-12-17 15:31:46.911 - Camera Error: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 456
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.ExcecuteNewEvent(Int32 parkingNum, String[] parkingNo, String[] plateNum, Int32[] carStatus) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 176
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 110
+ERROR 2021-12-17 15:31:50.531 - Camera Error: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 456
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.ExcecuteNewEvent(Int32 parkingNum, String[] parkingNo, String[] plateNum, Int32[] carStatus) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 176
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 110
+ERROR 2021-12-17 15:31:54.419 - Camera Error: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 456
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.ExcecuteNewEvent(Int32 parkingNum, String[] parkingNo, String[] plateNum, Int32[] carStatus) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 176
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 110
+ERROR 2021-12-17 15:31:58.308 - Camera Error: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 456
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.ExcecuteNewEvent(Int32 parkingNum, String[] parkingNo, String[] plateNum, Int32[] carStatus) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 176
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 110
+ERROR 2021-12-17 15:32:02.004 - Camera Error: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 456
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.ExcecuteNewEvent(Int32 parkingNum, String[] parkingNo, String[] plateNum, Int32[] carStatus) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 176
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 110
+ERROR 2021-12-17 15:32:06.853 - Camera Error: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 456
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.ExcecuteNewEvent(Int32 parkingNum, String[] parkingNo, String[] plateNum, Int32[] carStatus) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 176
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 110
+ERROR 2021-12-17 15:32:10.526 - Camera Error: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 456
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.ExcecuteNewEvent(Int32 parkingNum, String[] parkingNo, String[] plateNum, Int32[] carStatus) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 176
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 110
+ERROR 2021-12-17 15:32:14.155 - Camera Error: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 456
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.ExcecuteNewEvent(Int32 parkingNum, String[] parkingNo, String[] plateNum, Int32[] carStatus) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 176
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 110
+ERROR 2021-12-17 15:32:18.045 - Camera Error: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 456
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.ExcecuteNewEvent(Int32 parkingNum, String[] parkingNo, String[] plateNum, Int32[] carStatus) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 176
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 110
+ERROR 2021-12-17 16:07:59.844 - Thiết lập sai IP
+ERROR 2021-12-17 16:08:00.752 - System.InvalidOperationException: You must call the Bind method before performing this operation.
+   at System.Net.Sockets.Socket.Accept()
+   at Kztek.iZCU.frmMainForm.udpServer_Worker_DoWork(Object sender1, DoWorkEventArgs e) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 122
+ERROR 2021-12-17 16:08:03.627 - Camera Error: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 456
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.ExcecuteNewEvent(Int32 parkingNum, String[] parkingNo, String[] plateNum, Int32[] carStatus) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 176
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 110
+ERROR 2021-12-17 16:08:07.047 - Camera Error: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 456
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.ExcecuteNewEvent(Int32 parkingNum, String[] parkingNo, String[] plateNum, Int32[] carStatus) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 176
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 110
+ERROR 2021-12-17 16:08:10.468 - Camera Error: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 456
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.ExcecuteNewEvent(Int32 parkingNum, String[] parkingNo, String[] plateNum, Int32[] carStatus) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 176
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 110
+ERROR 2021-12-17 16:08:13.919 - Camera Error: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 456
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.ExcecuteNewEvent(Int32 parkingNum, String[] parkingNo, String[] plateNum, Int32[] carStatus) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 176
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 110
+ERROR 2021-12-17 16:08:17.361 - Camera Error: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 456
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.ExcecuteNewEvent(Int32 parkingNum, String[] parkingNo, String[] plateNum, Int32[] carStatus) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 176
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 110
+ERROR 2021-12-17 16:08:20.842 - Camera Error: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 456
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.ExcecuteNewEvent(Int32 parkingNum, String[] parkingNo, String[] plateNum, Int32[] carStatus) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 176
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 110
+ERROR 2021-12-17 16:08:24.428 - Camera Error: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 456
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.ExcecuteNewEvent(Int32 parkingNum, String[] parkingNo, String[] plateNum, Int32[] carStatus) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 176
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 110
+ERROR 2021-12-17 16:08:27.895 - Camera Error: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 456
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.ExcecuteNewEvent(Int32 parkingNum, String[] parkingNo, String[] plateNum, Int32[] carStatus) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 176
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 110
+ERROR 2021-12-17 16:08:31.363 - Camera Error: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 456
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.ExcecuteNewEvent(Int32 parkingNum, String[] parkingNo, String[] plateNum, Int32[] carStatus) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 176
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 110
+ERROR 2021-12-17 16:08:34.778 - Camera Error: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 456
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.ExcecuteNewEvent(Int32 parkingNum, String[] parkingNo, String[] plateNum, Int32[] carStatus) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 176
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 110
+ERROR 2021-12-17 16:08:38.185 - Camera Error: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 456
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.ExcecuteNewEvent(Int32 parkingNum, String[] parkingNo, String[] plateNum, Int32[] carStatus) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 176
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 110
+ERROR 2021-12-17 16:08:41.609 - Camera Error: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 456
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.ExcecuteNewEvent(Int32 parkingNum, String[] parkingNo, String[] plateNum, Int32[] carStatus) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 176
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 110
+ERROR 2021-12-17 16:08:44.998 - Camera Error: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 456
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.ExcecuteNewEvent(Int32 parkingNum, String[] parkingNo, String[] plateNum, Int32[] carStatus) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 176
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 110
+ERROR 2021-12-17 16:08:48.412 - Camera Error: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 456
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.ExcecuteNewEvent(Int32 parkingNum, String[] parkingNo, String[] plateNum, Int32[] carStatus) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 176
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 110
+ERROR 2021-12-17 16:08:51.800 - Camera Error: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 456
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.ExcecuteNewEvent(Int32 parkingNum, String[] parkingNo, String[] plateNum, Int32[] carStatus) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 176
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 110
+ERROR 2021-12-17 16:08:55.240 - Camera Error: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 456
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.ExcecuteNewEvent(Int32 parkingNum, String[] parkingNo, String[] plateNum, Int32[] carStatus) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 176
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 110
+ERROR 2021-12-17 16:08:58.723 - Camera Error: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 456
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.ExcecuteNewEvent(Int32 parkingNum, String[] parkingNo, String[] plateNum, Int32[] carStatus) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 176
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 110
+ERROR 2021-12-17 16:09:04.225 - Camera Error: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 456
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.ExcecuteNewEvent(Int32 parkingNum, String[] parkingNo, String[] plateNum, Int32[] carStatus) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 176
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 110
+ERROR 2021-12-17 16:09:07.690 - Camera Error: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 456
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.ExcecuteNewEvent(Int32 parkingNum, String[] parkingNo, String[] plateNum, Int32[] carStatus) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 176
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 110
+ERROR 2021-12-17 16:09:11.213 - Camera Error: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 456
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.ExcecuteNewEvent(Int32 parkingNum, String[] parkingNo, String[] plateNum, Int32[] carStatus) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 176
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 110
+ERROR 2021-12-17 16:09:14.673 - Camera Error: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 456
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.ExcecuteNewEvent(Int32 parkingNum, String[] parkingNo, String[] plateNum, Int32[] carStatus) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 176
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 110
+ERROR 2021-12-17 16:09:18.158 - Camera Error: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 456
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.ExcecuteNewEvent(Int32 parkingNum, String[] parkingNo, String[] plateNum, Int32[] carStatus) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 176
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 110
+ERROR 2021-12-17 16:09:20.948 - Access DB: Error while get data fom table: The Microsoft Jet database engine cannot find the input table or query 'tblUser'.  Make sure it exists and that its name is spelled correctly.
+select * from tblUser order by ID
+ERROR 2021-12-17 16:09:21.557 - Camera Error: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 456
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.ExcecuteNewEvent(Int32 parkingNum, String[] parkingNo, String[] plateNum, Int32[] carStatus) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 176
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 110
+ERROR 2021-12-17 16:09:24.995 - Camera Error: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 456
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.ExcecuteNewEvent(Int32 parkingNum, String[] parkingNo, String[] plateNum, Int32[] carStatus) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 176
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 110
+ERROR 2021-12-17 16:09:28.577 - Camera Error: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 456
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.ExcecuteNewEvent(Int32 parkingNum, String[] parkingNo, String[] plateNum, Int32[] carStatus) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 176
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 110
+ERROR 2021-12-17 16:09:32.192 - Camera Error: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 456
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.ExcecuteNewEvent(Int32 parkingNum, String[] parkingNo, String[] plateNum, Int32[] carStatus) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 176
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 110
+ERROR 2021-12-17 16:09:35.743 - Camera Error: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 456
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.ExcecuteNewEvent(Int32 parkingNum, String[] parkingNo, String[] plateNum, Int32[] carStatus) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 176
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 110
+ERROR 2021-12-17 16:09:39.555 - Camera Error: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 456
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.ExcecuteNewEvent(Int32 parkingNum, String[] parkingNo, String[] plateNum, Int32[] carStatus) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 176
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 110
+ERROR 2021-12-17 16:09:43.031 - Camera Error: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 456
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.ExcecuteNewEvent(Int32 parkingNum, String[] parkingNo, String[] plateNum, Int32[] carStatus) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 176
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 110
+ERROR 2021-12-17 16:09:46.484 - Camera Error: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 456
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.ExcecuteNewEvent(Int32 parkingNum, String[] parkingNo, String[] plateNum, Int32[] carStatus) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 176
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 110
+ERROR 2021-12-17 16:09:49.916 - Camera Error: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 456
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.ExcecuteNewEvent(Int32 parkingNum, String[] parkingNo, String[] plateNum, Int32[] carStatus) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 176
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 110
+ERROR 2021-12-17 16:09:53.332 - Camera Error: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 456
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.ExcecuteNewEvent(Int32 parkingNum, String[] parkingNo, String[] plateNum, Int32[] carStatus) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 176
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 110
+ERROR 2021-12-17 16:09:56.748 - Camera Error: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 456
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.ExcecuteNewEvent(Int32 parkingNum, String[] parkingNo, String[] plateNum, Int32[] carStatus) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 176
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 110
+ERROR 2021-12-17 16:10:00.184 - Camera Error: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 456
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.ExcecuteNewEvent(Int32 parkingNum, String[] parkingNo, String[] plateNum, Int32[] carStatus) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 176
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 110
+ERROR 2021-12-17 16:10:03.688 - Camera Error: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 456
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.ExcecuteNewEvent(Int32 parkingNum, String[] parkingNo, String[] plateNum, Int32[] carStatus) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 176
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 110
+ERROR 2021-12-17 16:10:07.221 - Camera Error: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 456
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.ExcecuteNewEvent(Int32 parkingNum, String[] parkingNo, String[] plateNum, Int32[] carStatus) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 176
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 110
+ERROR 2021-12-17 16:10:10.678 - Camera Error: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 456
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.ExcecuteNewEvent(Int32 parkingNum, String[] parkingNo, String[] plateNum, Int32[] carStatus) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 176
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 110
+ERROR 2021-12-17 16:10:14.072 - Camera Error: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 456
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.ExcecuteNewEvent(Int32 parkingNum, String[] parkingNo, String[] plateNum, Int32[] carStatus) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 176
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 110
+ERROR 2021-12-17 16:10:17.681 - Camera Error: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 456
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.ExcecuteNewEvent(Int32 parkingNum, String[] parkingNo, String[] plateNum, Int32[] carStatus) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 176
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 110
+ERROR 2021-12-17 16:10:21.217 - Camera Error: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 456
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.ExcecuteNewEvent(Int32 parkingNum, String[] parkingNo, String[] plateNum, Int32[] carStatus) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 176
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 110
+ERROR 2021-12-17 16:10:24.636 - Camera Error: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 456
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.ExcecuteNewEvent(Int32 parkingNum, String[] parkingNo, String[] plateNum, Int32[] carStatus) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 176
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 110
+ERROR 2021-12-17 16:10:28.101 - Camera Error: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Kztek.iZCU.frmMainForm.Camera_StateEvent(Object sender, StateEventArgs currentEventData) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\frmMainForm.cs:line 456
+   at Kztek.iZCU.Objects.Camera._StateEvent(Object sender, StateEventArgs e) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Objects\Camera.cs:line 136
+   at Kztek.iZCU.Devices.HIKCameraController.ExcecuteNewEvent(Int32 parkingNum, String[] parkingNo, String[] plateNum, Int32[] carStatus) in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 176
+   at Kztek.iZCU.Devices.HIKCameraController.WorkerThread() in D:\2.KZTECH\5.DuAn\3.IPGS\Kztek\Kztek.iZCU\Kztek.iZCU\Devices\HIKCameraController.cs:line 110

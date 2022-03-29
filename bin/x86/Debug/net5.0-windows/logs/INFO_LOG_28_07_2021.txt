@@ -1,0 +1,39 @@
+INFO 2021-07-28 08:16:36.686 - Start App
+INFO 2021-07-28 08:17:02.743 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 2
+INFO 2021-07-28 08:17:10.633 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 2
+INFO 2021-07-28 08:17:18.001 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 2
+INFO 2021-07-28 08:18:00.978 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-07-28 08:18:09.102 - New_Camera_State_Event: 14.160.26.245 - Lost Connection - EmptySlot: 0
+INFO 2021-07-28 08:18:13.918 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 2
+INFO 2021-07-28 08:18:21.983 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 2
+INFO 2021-07-28 08:19:02.275 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 2
+INFO 2021-07-28 08:19:07.548 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 2
+INFO 2021-07-28 08:19:13.026 - New_Camera_State_Event: 14.160.26.245 - Lost Connection - EmptySlot: 0
+INFO 2021-07-28 08:19:15.719 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 2
+INFO 2021-07-28 08:20:03.969 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 3
+INFO 2021-07-28 08:20:12.299 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 3
+INFO 2021-07-28 08:20:47.699 - Close App
+INFO 2021-07-28 08:20:59.448 - Start App
+INFO 2021-07-28 08:21:02.905 - New_Camera_State_Event: 14.160.26.245 - Lost Connection - EmptySlot: 0
+INFO 2021-07-28 08:21:04.529 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 3
+INFO 2021-07-28 08:21:09.678 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 2
+INFO 2021-07-28 08:21:14.937 - New_Camera_State_Event: 14.160.26.245 - Lost Connection - EmptySlot: 0
+INFO 2021-07-28 08:21:21.716 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 2
+INFO 2021-07-28 08:22:02.955 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 2
+INFO 2021-07-28 08:22:16.571 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 2
+INFO 2021-07-28 08:23:02.213 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 3
+INFO 2021-07-28 08:23:10.205 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 3
+INFO 2021-07-28 08:23:15.778 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 3
+INFO 2021-07-28 08:23:18.206 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 3
+INFO 2021-07-28 08:24:03.412 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 3
+INFO 2021-07-28 08:24:17.692 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 3
+INFO 2021-07-28 08:25:02.926 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 3
+INFO 2021-07-28 08:25:08.441 - New_Camera_State_Event: 14.160.26.245 - Lost Connection - EmptySlot: 0
+INFO 2021-07-28 08:25:11.248 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 3
+INFO 2021-07-28 08:25:16.624 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 3
+INFO 2021-07-28 08:26:02.421 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 2
+INFO 2021-07-28 08:26:10.974 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-07-28 08:26:16.041 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 2
+INFO 2021-07-28 08:27:01.343 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 2
+INFO 2021-07-28 08:27:07.473 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 2
+INFO 2021-07-28 08:27:12.129 - Close App

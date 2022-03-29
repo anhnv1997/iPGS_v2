@@ -1,0 +1,116 @@
+INFO 2021-05-04 08:27:54.288 - Start App
+INFO 2021-05-04 08:28:00.783 - New_Camera_State_Event: 192.168.21.170 - Lost Connection - EmptySlot: 0
+INFO 2021-05-04 08:41:00.447 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-04 09:10:00.021 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 2
+INFO 2021-05-04 09:33:22.145 - Start App
+INFO 2021-05-04 09:33:41.123 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 2
+INFO 2021-05-04 09:36:06.577 - Start App
+INFO 2021-05-04 09:36:23.422 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 2
+INFO 2021-05-04 09:38:35.364 - Start App
+INFO 2021-05-04 09:38:48.835 - Start App
+INFO 2021-05-04 09:39:02.234 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 2
+INFO 2021-05-04 09:40:00.530 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-04 09:43:55.489 - Start App
+INFO 2021-05-04 09:44:02.921 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-04 09:50:14.810 - Close App
+INFO 2021-05-04 09:50:43.607 - Start App
+INFO 2021-05-04 09:51:02.567 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-04 09:53:41.721 - Close App
+INFO 2021-05-04 09:54:11.234 - Start App
+INFO 2021-05-04 09:54:22.040 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-04 09:54:38.488 - Close App
+INFO 2021-05-04 09:55:01.707 - Start App
+INFO 2021-05-04 09:55:21.022 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-04 09:56:33.417 - Close App
+INFO 2021-05-04 09:56:40.509 - Start App
+INFO 2021-05-04 09:57:02.299 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-04 10:41:20.104 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 2
+INFO 2021-05-04 10:44:40.022 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-04 10:46:24.018 - Close App
+INFO 2021-05-04 11:02:33.047 - Start App
+INFO 2021-05-04 11:02:40.617 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-04 11:05:07.642 - Close App
+INFO 2021-05-04 11:05:16.222 - Start App
+INFO 2021-05-04 11:05:20.557 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-04 11:06:47.333 - Close App
+INFO 2021-05-04 11:07:00.516 - Start App
+INFO 2021-05-04 11:07:01.546 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-04 11:10:19.021 - Close App
+INFO 2021-05-04 11:10:30.633 - Start App
+INFO 2021-05-04 11:10:40.345 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-04 11:14:25.902 - Close App
+INFO 2021-05-04 11:14:32.496 - Start App
+INFO 2021-05-04 11:14:40.352 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-04 11:26:03.448 - Close App
+INFO 2021-05-04 11:29:45.541 - Start App
+INFO 2021-05-04 11:30:00.392 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-04 11:31:23.070 - Close App
+INFO 2021-05-04 11:31:28.642 - Start App
+INFO 2021-05-04 11:31:40.439 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-04 11:32:12.495 - Close App
+INFO 2021-05-04 11:41:31.240 - Start App
+INFO 2021-05-04 11:41:40.427 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-04 11:42:08.162 - Close App
+INFO 2021-05-04 11:44:17.986 - Start App
+INFO 2021-05-04 11:44:20.468 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-04 11:44:39.474 - Close App
+INFO 2021-05-04 11:46:36.709 - Start App
+INFO 2021-05-04 11:46:40.371 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-04 11:48:23.076 - Start App
+INFO 2021-05-04 11:48:40.653 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-04 12:47:23.544 - Close App
+INFO 2021-05-04 13:28:17.207 - Start App
+INFO 2021-05-04 13:28:20.490 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-04 13:30:08.627 - Start App
+INFO 2021-05-04 13:30:21.026 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-04 13:33:29.448 - Start App
+INFO 2021-05-04 13:33:40.479 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-04 13:36:56.509 - Start App
+INFO 2021-05-04 13:37:00.371 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-04 14:06:53.032 - Close App
+INFO 2021-05-04 14:28:29.087 - Start App
+INFO 2021-05-04 14:28:40.346 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-04 14:31:00.474 - Start App
+INFO 2021-05-04 14:31:01.797 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-04 14:31:40.761 - New_Camera_State_Event: 192.168.21.170 - Lost Connection - EmptySlot: 0
+INFO 2021-05-04 14:33:00.175 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-04 14:52:20.765 - New_Camera_State_Event: 192.168.21.170 - Lost Connection - EmptySlot: 0
+INFO 2021-05-04 14:52:20.828 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-04 15:01:40.022 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 1
+INFO 2021-05-04 15:08:30.490 - Close App
+INFO 2021-05-04 15:08:44.429 - Start App
+INFO 2021-05-04 15:09:00.421 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 1
+INFO 2021-05-04 15:11:48.079 - Close App
+INFO 2021-05-04 15:12:11.330 - Start App
+INFO 2021-05-04 15:12:20.529 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-04 15:50:00.921 - Start App
+INFO 2021-05-04 15:50:20.543 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-04 16:14:20.768 - New_Camera_State_Event: 192.168.21.170 - Lost Connection - EmptySlot: 0
+INFO 2021-05-04 16:16:00.711 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-04 16:18:00.759 - New_Camera_State_Event: 192.168.21.170 - Lost Connection - EmptySlot: 0
+INFO 2021-05-04 16:18:20.850 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-04 16:18:40.759 - New_Camera_State_Event: 192.168.21.170 - Lost Connection - EmptySlot: 0
+INFO 2021-05-04 16:19:02.042 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-04 16:19:20.767 - New_Camera_State_Event: 192.168.21.170 - Lost Connection - EmptySlot: 0
+INFO 2021-05-04 16:20:02.919 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-04 16:22:00.766 - New_Camera_State_Event: 192.168.21.170 - Lost Connection - EmptySlot: 0
+INFO 2021-05-04 16:23:21.404 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-04 16:45:00.770 - New_Camera_State_Event: 192.168.21.170 - Lost Connection - EmptySlot: 0
+INFO 2021-05-04 16:49:20.603 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-04 16:52:40.097 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 2
+INFO 2021-05-04 16:54:43.997 - Close App
+INFO 2021-05-04 16:56:12.110 - Start App
+INFO 2021-05-04 16:56:20.772 - New_Camera_State_Event: 192.168.21.170 - Lost Connection - EmptySlot: 0
+INFO 2021-05-04 16:57:20.778 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 2
+INFO 2021-05-04 16:58:16.122 - Close App
+INFO 2021-05-04 16:58:32.627 - Start App
+INFO 2021-05-04 16:58:40.849 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 2
+INFO 2021-05-04 16:59:59.404 - Start App
+INFO 2021-05-04 17:00:01.251 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-04 17:01:14.633 - Close App
+INFO 2021-05-04 17:01:35.188 - Start App
+INFO 2021-05-04 17:01:40.350 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-05-04 17:02:20.017 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 2
+INFO 2021-05-04 17:03:36.897 - Start App
+INFO 2021-05-04 17:03:40.510 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 2
+INFO 2021-05-04 17:03:43.023 - Close App

@@ -1,0 +1,3 @@
+INFO 2021-04-26 10:59:58.198 - Start App
+INFO 2021-04-26 11:00:00.741 - New_Camera_State_Event: 192.168.21.170 - New Event - EmptySlot: 3
+INFO 2021-04-26 11:00:07.979 - Close App

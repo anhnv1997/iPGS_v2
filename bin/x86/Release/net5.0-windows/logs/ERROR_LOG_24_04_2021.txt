@@ -1,0 +1,3 @@
+ERROR 2021-04-24 08:53:19.186 - System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   at System.Net.Sockets.Socket.ReceiveFrom(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, EndPoint& remoteEP)
+   at Kztek.iZCU.frmMainForm.udpServer_Worker_DoWork(Object sender1, DoWorkEventArgs e) in E:\Kztek.Projects\Kztek.iZCU\frmMainForm.cs:line 119

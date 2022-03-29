@@ -1,0 +1,437 @@
+INFO 2021-06-02 07:55:22.720 - Start App
+INFO 2021-06-02 07:55:27.336 - Khởi tạo TCP Server thành công
+INFO 2021-06-02 07:55:42.231 - New_Camera_State_Event: 192.168.20.171 - Lost Connection - EmptySlot: 0
+INFO 2021-06-02 07:56:09.860 - New_Camera_State_Event: 192.168.20.172 - Lost Connection - EmptySlot: 0
+INFO 2021-06-02 07:56:31.658 - Start App
+INFO 2021-06-02 07:56:33.821 - Khởi tạo TCP Server thành công
+INFO 2021-06-02 07:56:58.404 - New_Camera_State_Event: 192.168.40.170 - New Event - EmptySlot: 1
+INFO 2021-06-02 07:57:12.155 - Start App
+INFO 2021-06-02 07:57:14.355 - Khởi tạo TCP Server thành công
+INFO 2021-06-02 07:57:36.717 - New_Camera_State_Event: 192.168.40.170 - New Event - EmptySlot: 1
+INFO 2021-06-02 07:57:55.048 - Start App
+INFO 2021-06-02 07:57:57.418 - Khởi tạo TCP Server thành công
+INFO 2021-06-02 07:58:02.045 - New_Camera_State_Event: 192.168.40.170 - New Event - EmptySlot: 1
+INFO 2021-06-02 07:58:25.588 - Start App
+INFO 2021-06-02 07:58:27.812 - Khởi tạo TCP Server thành công
+INFO 2021-06-02 07:58:46.000 - New_Camera_State_Event: 192.168.40.170 - New Event - EmptySlot: 1
+INFO 2021-06-02 07:59:11.830 - Start App
+INFO 2021-06-02 07:59:13.801 - Khởi tạo TCP Server thành công
+INFO 2021-06-02 07:59:25.063 - New_Camera_State_Event: 192.168.40.170 - New Event - EmptySlot: 1
+INFO 2021-06-02 08:00:01.216 - Start App
+INFO 2021-06-02 08:00:02.841 - New_Camera_State_Event: 192.168.20.171 - Lost Connection - EmptySlot: 0
+INFO 2021-06-02 08:00:03.260 - New_Camera_State_Event: 192.168.20.172 - Lost Connection - EmptySlot: 0
+INFO 2021-06-02 08:00:34.443 - Start App
+INFO 2021-06-02 08:00:36.391 - Khởi tạo TCP Server thành công
+INFO 2021-06-02 08:00:40.414 - New_Camera_State_Event: 192.168.40.170 - New Event - EmptySlot: 1
+INFO 2021-06-02 08:01:24.256 - New_Camera_State_Event: 192.168.20.171 - Lost Connection - EmptySlot: 0
+INFO 2021-06-02 08:01:32.988 - Close App
+INFO 2021-06-02 08:01:40.123 - Start App
+INFO 2021-06-02 08:01:41.613 - New_Camera_State_Event: 192.168.40.170 - New Event - EmptySlot: 1
+INFO 2021-06-02 08:01:43.335 - New_Camera_State_Event: 192.168.20.171 - Lost Connection - EmptySlot: 0
+INFO 2021-06-02 08:02:12.235 - Khởi tạo TCP Server thành công
+INFO 2021-06-02 08:02:23.625 - New_Camera_State_Event: 192.168.20.172 - Lost Connection - EmptySlot: 0
+INFO 2021-06-02 08:02:43.144 - Start App
+INFO 2021-06-02 08:02:45.346 - Khởi tạo TCP Server thành công
+INFO 2021-06-02 08:03:00.495 - New_Camera_State_Event: 192.168.40.170 - New Event - EmptySlot: 1
+INFO 2021-06-02 08:05:01.302 - Start App
+INFO 2021-06-02 08:05:02.775 - New_Camera_State_Event: 192.168.20.171 - Lost Connection - EmptySlot: 0
+INFO 2021-06-02 08:05:03.260 - New_Camera_State_Event: 192.168.20.172 - Lost Connection - EmptySlot: 0
+INFO 2021-06-02 08:05:05.358 - Khởi tạo TCP Server thành công
+INFO 2021-06-02 08:05:21.460 - Start App
+INFO 2021-06-02 08:05:22.922 - New_Camera_State_Event: 192.168.20.171 - Lost Connection - EmptySlot: 0
+INFO 2021-06-02 08:05:23.262 - New_Camera_State_Event: 192.168.20.172 - Lost Connection - EmptySlot: 0
+INFO 2021-06-02 08:05:29.325 - Khởi tạo TCP Server thành công
+INFO 2021-06-02 08:05:36.906 - Start App
+INFO 2021-06-02 08:05:38.858 - Khởi tạo TCP Server thành công
+INFO 2021-06-02 08:05:40.534 - New_Camera_State_Event: 192.168.40.170 - New Event - EmptySlot: 1
+INFO 2021-06-02 08:06:02.563 - New_Camera_State_Event: 192.168.20.171 - Lost Connection - EmptySlot: 0
+INFO 2021-06-02 08:06:03.178 - New_Camera_State_Event: 192.168.20.172 - Lost Connection - EmptySlot: 0
+INFO 2021-06-02 08:06:41.400 - Start App
+INFO 2021-06-02 08:06:42.852 - New_Camera_State_Event: 192.168.20.171 - Lost Connection - EmptySlot: 0
+INFO 2021-06-02 08:06:43.260 - New_Camera_State_Event: 192.168.20.172 - Lost Connection - EmptySlot: 0
+INFO 2021-06-02 08:06:43.297 - Khởi tạo TCP Server thành công
+INFO 2021-06-02 08:07:00.449 - New_Camera_State_Event: 192.168.40.170 - New Event - EmptySlot: 1
+INFO 2021-06-02 08:08:34.266 - Start App
+INFO 2021-06-02 08:08:36.951 - Khởi tạo TCP Server thành công
+INFO 2021-06-02 08:08:40.497 - New_Camera_State_Event: 192.168.40.170 - New Event - EmptySlot: 1
+INFO 2021-06-02 08:08:41.789 - New_Camera_State_Event: 192.168.20.171 - Lost Connection - EmptySlot: 0
+INFO 2021-06-02 08:08:42.768 - New_Camera_State_Event: 192.168.20.172 - Lost Connection - EmptySlot: 0
+INFO 2021-06-02 08:09:00.065 - New_Camera_State_Event: 192.168.40.170 - New Event - EmptySlot: 0
+INFO 2021-06-02 08:09:05.713 - Start App
+INFO 2021-06-02 08:09:07.904 - Khởi tạo TCP Server thành công
+INFO 2021-06-02 08:09:20.691 - New_Camera_State_Event: 192.168.40.170 - New Event - EmptySlot: 0
+INFO 2021-06-02 08:09:21.767 - New_Camera_State_Event: 192.168.20.171 - Lost Connection - EmptySlot: 0
+INFO 2021-06-02 08:09:22.767 - New_Camera_State_Event: 192.168.20.172 - Lost Connection - EmptySlot: 0
+INFO 2021-06-02 08:09:44.041 - Start App
+INFO 2021-06-02 08:09:46.415 - Khởi tạo TCP Server thành công
+INFO 2021-06-02 08:10:02.546 - New_Camera_State_Event: 192.168.40.170 - New Event - EmptySlot: 0
+INFO 2021-06-02 08:10:15.530 - Start App
+INFO 2021-06-02 08:10:17.957 - Khởi tạo TCP Server thành công
+INFO 2021-06-02 08:10:23.579 - New_Camera_State_Event: 192.168.40.170 - New Event - EmptySlot: 0
+INFO 2021-06-02 08:10:25.193 - New_Camera_State_Event: 192.168.20.171 - Lost Connection - EmptySlot: 0
+INFO 2021-06-02 08:10:34.415 - Start App
+INFO 2021-06-02 08:10:36.343 - Khởi tạo TCP Server thành công
+INFO 2021-06-02 08:10:43.587 - New_Camera_State_Event: 192.168.40.170 - New Event - EmptySlot: 0
+INFO 2021-06-02 08:11:10.550 - Start App
+INFO 2021-06-02 08:11:12.802 - Khởi tạo TCP Server thành công
+INFO 2021-06-02 08:11:33.002 - New_Camera_State_Event: 192.168.40.170 - New Event - EmptySlot: 0
+INFO 2021-06-02 08:12:00.040 - New_Camera_State_Event: 192.168.20.172 - Lost Connection - EmptySlot: 0
+INFO 2021-06-02 08:12:00.087 - New_Camera_State_Event: 192.168.20.171 - Lost Connection - EmptySlot: 0
+INFO 2021-06-02 08:12:14.922 - Start App
+INFO 2021-06-02 08:12:16.829 - Khởi tạo TCP Server thành công
+INFO 2021-06-02 08:12:20.977 - New_Camera_State_Event: 192.168.40.170 - New Event - EmptySlot: 0
+INFO 2021-06-02 08:12:21.769 - New_Camera_State_Event: 192.168.20.171 - Lost Connection - EmptySlot: 0
+INFO 2021-06-02 08:12:22.769 - New_Camera_State_Event: 192.168.20.172 - Lost Connection - EmptySlot: 0
+INFO 2021-06-02 08:12:44.228 - Start App
+INFO 2021-06-02 08:12:46.387 - Khởi tạo TCP Server thành công
+INFO 2021-06-02 08:13:02.666 - New_Camera_State_Event: 192.168.40.170 - New Event - EmptySlot: 0
+INFO 2021-06-02 08:13:14.823 - New_Camera_State_Event: 192.168.20.172 - Lost Connection - EmptySlot: 0
+INFO 2021-06-02 08:14:00.651 - Start App
+INFO 2021-06-02 08:14:01.455 - New_Camera_State_Event: 192.168.40.170 - New Event - EmptySlot: 0
+INFO 2021-06-02 08:14:02.265 - New_Camera_State_Event: 192.168.20.171 - Lost Connection - EmptySlot: 0
+INFO 2021-06-02 08:14:02.778 - New_Camera_State_Event: 192.168.20.172 - Lost Connection - EmptySlot: 0
+INFO 2021-06-02 08:14:26.330 - Khởi tạo TCP Server thành công
+INFO 2021-06-02 08:15:27.826 - Start App
+INFO 2021-06-02 08:15:29.801 - Khởi tạo TCP Server thành công
+INFO 2021-06-02 08:15:40.407 - New_Camera_State_Event: 192.168.40.170 - New Event - EmptySlot: 0
+INFO 2021-06-02 08:16:01.866 - New_Camera_State_Event: 192.168.20.171 - Lost Connection - EmptySlot: 0
+INFO 2021-06-02 08:16:04.251 - New_Camera_State_Event: 192.168.20.172 - Lost Connection - EmptySlot: 0
+INFO 2021-06-02 08:17:07.668 - Start App
+INFO 2021-06-02 08:17:09.809 - Khởi tạo TCP Server thành công
+INFO 2021-06-02 08:17:20.428 - New_Camera_State_Event: 192.168.40.170 - New Event - EmptySlot: 0
+INFO 2021-06-02 08:17:41.760 - New_Camera_State_Event: 192.168.20.171 - Lost Connection - EmptySlot: 0
+INFO 2021-06-02 08:17:52.971 - New_Camera_State_Event: 192.168.20.172 - Lost Connection - EmptySlot: 0
+INFO 2021-06-02 08:18:29.984 - Start App
+INFO 2021-06-02 08:18:32.704 - Khởi tạo TCP Server thành công
+INFO 2021-06-02 08:18:40.975 - New_Camera_State_Event: 192.168.40.170 - New Event - EmptySlot: 0
+INFO 2021-06-02 08:19:01.035 - New_Camera_State_Event: 192.168.20.171 - Lost Connection - EmptySlot: 0
+INFO 2021-06-02 08:19:07.895 - New_Camera_State_Event: 192.168.20.172 - Lost Connection - EmptySlot: 0
+INFO 2021-06-02 08:19:29.239 - Start App
+INFO 2021-06-02 08:19:32.420 - Khởi tạo TCP Server thành công
+INFO 2021-06-02 08:19:40.389 - New_Camera_State_Event: 192.168.40.170 - New Event - EmptySlot: 0
+INFO 2021-06-02 08:20:02.627 - New_Camera_State_Event: 192.168.20.171 - Lost Connection - EmptySlot: 0
+INFO 2021-06-02 08:20:03.279 - New_Camera_State_Event: 192.168.20.172 - Lost Connection - EmptySlot: 0
+INFO 2021-06-02 08:20:35.432 - Start App
+INFO 2021-06-02 08:20:37.406 - Khởi tạo TCP Server thành công
+INFO 2021-06-02 08:20:40.458 - New_Camera_State_Event: 192.168.40.170 - New Event - EmptySlot: 0
+INFO 2021-06-02 08:21:02.753 - New_Camera_State_Event: 192.168.20.171 - Lost Connection - EmptySlot: 0
+INFO 2021-06-02 08:21:03.268 - New_Camera_State_Event: 192.168.20.172 - Lost Connection - EmptySlot: 0
+INFO 2021-06-02 08:22:41.925 - Start App
+INFO 2021-06-02 08:22:43.917 - New_Camera_State_Event: 192.168.20.172 - Lost Connection - EmptySlot: 0
+INFO 2021-06-02 08:22:43.965 - Khởi tạo TCP Server thành công
+INFO 2021-06-02 08:23:00.620 - New_Camera_State_Event: 192.168.40.170 - New Event - EmptySlot: 0
+INFO 2021-06-02 08:23:01.765 - New_Camera_State_Event: 192.168.20.171 - Lost Connection - EmptySlot: 0
+INFO 2021-06-02 08:23:42.018 - Start App
+INFO 2021-06-02 08:23:42.332 - Khởi tạo TCP Server thành công
+INFO 2021-06-02 08:24:00.341 - New_Camera_State_Event: 192.168.40.170 - New Event - EmptySlot: 0
+INFO 2021-06-02 08:24:43.533 - Start App
+INFO 2021-06-02 08:24:43.939 - Khởi tạo TCP Server thành công
+INFO 2021-06-02 08:25:01.977 - New_Camera_State_Event: 192.168.40.170 - New Event - EmptySlot: 0
+INFO 2021-06-02 08:28:10.174 - Start App
+INFO 2021-06-02 08:28:10.502 - Khởi tạo TCP Server thành công
+INFO 2021-06-02 08:28:22.660 - New_Camera_State_Event: 192.168.40.170 - New Event - EmptySlot: 0
+INFO 2021-06-02 08:29:16.737 - Close App
+INFO 2021-06-02 08:31:59.240 - Start App
+INFO 2021-06-02 08:31:59.539 - Khởi tạo TCP Server thành công
+INFO 2021-06-02 08:32:03.153 - New_Camera_State_Event: 192.168.40.170 - New Event - EmptySlot: 0
+INFO 2021-06-02 08:32:19.089 - Start App
+INFO 2021-06-02 08:32:19.452 - Khởi tạo TCP Server thành công
+INFO 2021-06-02 08:32:22.211 - New_Camera_State_Event: 192.168.40.170 - New Event - EmptySlot: 0
+INFO 2021-06-02 08:33:48.508 - Start App
+INFO 2021-06-02 08:33:49.154 - Khởi tạo TCP Server thành công
+INFO 2021-06-02 08:34:01.985 - New_Camera_State_Event: 192.168.40.170 - New Event - EmptySlot: 0
+INFO 2021-06-02 08:35:05.364 - Start App
+INFO 2021-06-02 08:35:05.994 - Khởi tạo TCP Server thành công
+INFO 2021-06-02 08:35:22.344 - New_Camera_State_Event: 192.168.40.170 - New Event - EmptySlot: 0
+INFO 2021-06-02 08:35:54.838 - Start App
+INFO 2021-06-02 08:35:55.178 - Khởi tạo TCP Server thành công
+INFO 2021-06-02 08:36:10.782 - New_Camera_State_Event: 192.168.40.170 - New Event - EmptySlot: 0
+INFO 2021-06-02 08:37:55.088 - Start App
+INFO 2021-06-02 08:37:56.044 - Khởi tạo TCP Server thành công
+INFO 2021-06-02 08:38:02.081 - New_Camera_State_Event: 192.168.40.170 - New Event - EmptySlot: 0
+INFO 2021-06-02 08:39:24.706 - Start App
+INFO 2021-06-02 08:39:29.727 - Khởi tạo TCP Server thành công
+INFO 2021-06-02 08:39:43.867 - New_Camera_State_Event: 192.168.40.170 - New Event - EmptySlot: 0
+INFO 2021-06-02 08:40:08.282 - Start App
+INFO 2021-06-02 08:41:17.201 - Start App
+INFO 2021-06-02 08:41:34.694 - Khởi tạo TCP Server thành công
+INFO 2021-06-02 08:41:39.585 - Close App
+INFO 2021-06-02 08:41:45.183 - Start App
+INFO 2021-06-02 08:42:37.582 - Start App
+INFO 2021-06-02 08:42:52.354 - Khởi tạo TCP Server thành công
+INFO 2021-06-02 08:43:00.408 - New_Camera_State_Event: 192.168.40.170 - New Event - EmptySlot: 0
+INFO 2021-06-02 08:43:01.759 - New_Camera_State_Event: 192.168.40.171 - Lost Connection - EmptySlot: 0
+INFO 2021-06-02 08:46:27.265 - Start App
+INFO 2021-06-02 08:46:28.446 - Khởi tạo TCP Server thành công
+INFO 2021-06-02 08:46:40.457 - New_Camera_State_Event: 192.168.40.170 - New Event - EmptySlot: 0
+INFO 2021-06-02 08:46:41.764 - New_Camera_State_Event: 192.168.40.171 - Lost Connection - EmptySlot: 0
+INFO 2021-06-02 08:51:36.631 - Close App
+INFO 2021-06-02 08:51:42.409 - Start App
+INFO 2021-06-02 08:51:43.863 - Khởi tạo TCP Server thành công
+INFO 2021-06-02 08:52:08.986 - New_Camera_State_Event: 192.168.40.171 - Lost Connection - EmptySlot: 0
+INFO 2021-06-02 08:52:08.987 - New_Camera_State_Event: 192.168.40.170 - New Event - EmptySlot: 0
+INFO 2021-06-02 08:54:23.979 - New_Camera_State_Event: 192.168.40.170 - New Event - EmptySlot: 1
+INFO 2021-06-02 08:55:42.350 - New_Camera_State_Event: 192.168.40.170 - New Event - EmptySlot: 0
+INFO 2021-06-02 08:57:48.054 - New_Camera_State_Event: 192.168.40.170 - New Event - EmptySlot: 2
+INFO 2021-06-02 08:59:55.943 - Start App
+INFO 2021-06-02 09:00:01.676 - Khởi tạo TCP Server thành công
+INFO 2021-06-02 09:00:05.591 - New_Camera_State_Event: 192.168.40.171 - Lost Connection - EmptySlot: 0
+INFO 2021-06-02 09:00:06.501 - New_Camera_State_Event: 192.168.40.170 - New Event - EmptySlot: 0
+INFO 2021-06-02 09:01:19.889 - Start App
+INFO 2021-06-02 09:01:20.981 - New_Camera_State_Event: 192.168.40.170 - New Event - EmptySlot: 1
+INFO 2021-06-02 09:01:21.287 - Khởi tạo TCP Server thành công
+INFO 2021-06-02 09:01:21.755 - New_Camera_State_Event: 192.168.40.171 - Lost Connection - EmptySlot: 0
+INFO 2021-06-02 09:02:20.053 - New_Camera_State_Event: 192.168.40.170 - New Event - EmptySlot: 2
+INFO 2021-06-02 09:03:00.064 - New_Camera_State_Event: 192.168.40.170 - New Event - EmptySlot: 1
+INFO 2021-06-02 09:03:09.696 - Start App
+INFO 2021-06-02 09:03:11.387 - Khởi tạo TCP Server thành công
+INFO 2021-06-02 09:03:23.411 - New_Camera_State_Event: 192.168.40.171 - Lost Connection - EmptySlot: 0
+INFO 2021-06-02 09:03:23.412 - New_Camera_State_Event: 192.168.40.170 - New Event - EmptySlot: 1
+INFO 2021-06-02 09:04:56.266 - Start App
+INFO 2021-06-02 09:04:58.000 - Khởi tạo TCP Server thành công
+INFO 2021-06-02 09:05:00.759 - New_Camera_State_Event: 192.168.40.170 - New Event - EmptySlot: 1
+INFO 2021-06-02 09:05:01.759 - New_Camera_State_Event: 192.168.40.171 - Lost Connection - EmptySlot: 0
+INFO 2021-06-02 09:06:14.456 - Start App
+INFO 2021-06-02 09:06:16.336 - Khởi tạo TCP Server thành công
+INFO 2021-06-02 09:06:20.410 - New_Camera_State_Event: 192.168.40.170 - New Event - EmptySlot: 1
+INFO 2021-06-02 09:06:21.769 - New_Camera_State_Event: 192.168.40.171 - Lost Connection - EmptySlot: 0
+INFO 2021-06-02 09:06:40.037 - New_Camera_State_Event: 192.168.40.170 - New Event - EmptySlot: 0
+INFO 2021-06-02 09:07:20.023 - New_Camera_State_Event: 192.168.40.170 - New Event - EmptySlot: 2
+INFO 2021-06-02 09:08:00.030 - New_Camera_State_Event: 192.168.40.170 - New Event - EmptySlot: 0
+INFO 2021-06-02 09:10:21.196 - Start App
+INFO 2021-06-02 09:13:28.443 - New_Camera_State_Event: 192.168.40.171 - Lost Connection - EmptySlot: 0
+INFO 2021-06-02 09:15:41.285 - New_Camera_State_Event: 192.168.40.170 - New Event - EmptySlot: 1
+INFO 2021-06-02 09:26:21.908 - Start App
+INFO 2021-06-02 09:26:42.485 - New_Camera_State_Event: 192.168.40.171 - Lost Connection - EmptySlot: 0
+INFO 2021-06-02 09:26:42.796 - New_Camera_State_Event: 192.168.40.170 - New Event - EmptySlot: 1
+INFO 2021-06-02 09:27:29.479 - Close App
+INFO 2021-06-02 09:27:35.976 - Start App
+INFO 2021-06-02 09:27:37.364 - Khởi tạo TCP Server thành công
+INFO 2021-06-02 09:27:46.123 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 09:27:47.265 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 09:27:49.611 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 09:27:51.130 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 09:27:51.592 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 09:27:52.311 - Receive CommandGetInforFrom192.168.21.231At02
+INFO 2021-06-02 09:27:53.091 - Send Data Success: ImagePathC:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Data\2021_06_02_09_26_47.png,1,30G-08836
+INFO 2021-06-02 09:27:54.122 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 09:27:55.695 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 09:28:21.301 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 09:28:24.192 - New_Camera_State_Event: 192.168.40.171 - Lost Connection - EmptySlot: 0
+INFO 2021-06-02 09:29:22.639 - New_Camera_State_Event: 192.168.40.170 - New Event - EmptySlot: 1
+INFO 2021-06-02 15:27:07.409 - Start App
+INFO 2021-06-02 15:27:09.070 - Khởi tạo TCP Server thành công
+INFO 2021-06-02 15:27:44.536 - Start App
+INFO 2021-06-02 15:27:46.811 - Khởi tạo TCP Server thành công
+INFO 2021-06-02 15:27:47.296 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 15:27:49.589 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 15:27:51.180 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 15:27:53.769 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 15:27:55.608 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 15:27:57.160 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 15:27:58.606 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 15:28:00.138 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 15:28:01.052 - New_Camera_State_Event: 192.168.40.170 - New Event - EmptySlot: 1
+INFO 2021-06-02 15:28:01.602 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 15:28:01.767 - New_Camera_State_Event: 192.168.40.171 - Lost Connection - EmptySlot: 0
+INFO 2021-06-02 15:28:03.123 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 15:28:04.693 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 15:28:05.004 - Receive CommandGetInforFrom192.168.21.231At01
+INFO 2021-06-02 15:28:05.019 - Send Data Success: ImagePathC:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Data\2021_06_02_15_28_03.png,1,307-6005
+INFO 2021-06-02 15:28:05.132 - Receive CommandGetInforFrom192.168.21.231At02
+INFO 2021-06-02 15:28:05.136 - Send Data Success: ImagePathC:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Data\2021_06_02_15_28_03.png,0,No
+INFO 2021-06-02 15:28:06.105 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 15:28:07.589 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 15:28:09.172 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 15:28:10.614 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 15:28:12.707 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 15:28:14.198 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 15:28:15.672 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 15:28:17.092 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 15:29:27.521 - Receive CommandGetInforFrom192.168.21.231At01
+INFO 2021-06-02 15:29:57.656 - Send Data Success: ImagePathC:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Data\2021_06_02_15_28_03.png,1,307-6005
+INFO 2021-06-02 15:31:15.473 - Start App
+INFO 2021-06-02 15:31:17.374 - Khởi tạo TCP Server thành công
+INFO 2021-06-02 15:31:20.922 - New_Camera_State_Event: 192.168.40.170 - New Event - EmptySlot: 1
+INFO 2021-06-02 15:31:21.767 - New_Camera_State_Event: 192.168.40.171 - Lost Connection - EmptySlot: 0
+INFO 2021-06-02 15:31:37.211 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 15:31:38.622 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 15:31:40.113 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 15:31:40.537 - Receive CommandGetInforFrom192.168.21.231At01
+INFO 2021-06-02 15:31:40.550 - Send Data Success: ImagePathC:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Data\2021_06_02_15_31_23.png,1,307-6005
+INFO 2021-06-02 15:31:41.600 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 15:31:43.236 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 15:31:44.409 - Receive CommandGetInforFrom192.168.21.231At02
+INFO 2021-06-02 15:31:44.414 - Send Data Success: ImagePathC:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Data\2021_06_02_15_31_23.png,0,No
+INFO 2021-06-02 15:31:44.587 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 15:31:46.102 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 15:31:47.006 - Receive CommandGetInforFrom192.168.21.231At03
+INFO 2021-06-02 15:31:47.011 - Send Data Success: ImagePathC:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Data\2021_06_02_15_31_23.png,1,30E-96140
+INFO 2021-06-02 15:31:47.716 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 15:31:49.086 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 15:31:50.592 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 15:31:52.219 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 15:31:53.594 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 15:31:55.093 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 15:31:56.612 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 15:31:58.093 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 15:31:59.601 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 15:32:01.106 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 15:32:01.273 - Receive CommandGetInforFrom192.168.21.231At03
+INFO 2021-06-02 15:32:01.277 - Send Data Success: ImagePathC:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Data\2021_06_02_15_31_23.png,1,30E-96140
+INFO 2021-06-02 15:32:02.593 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 15:32:03.993 - Receive CommandGetInforFrom192.168.21.231At01
+INFO 2021-06-02 15:32:03.998 - Send Data Success: ImagePathC:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Data\2021_06_02_15_31_23.png,1,307-6005
+INFO 2021-06-02 15:32:04.103 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 15:32:05.607 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 15:32:07.220 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 15:32:08.589 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 15:32:10.098 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 15:32:11.684 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 15:32:13.148 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 15:32:14.605 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 15:32:16.121 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 15:32:17.595 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 15:32:19.093 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 15:33:40.760 - New_Camera_State_Event: 192.168.40.170 - Lost Connection - EmptySlot: 0
+INFO 2021-06-02 15:37:42.771 - Close App
+INFO 2021-06-02 15:41:58.531 - Start App
+INFO 2021-06-02 15:42:00.320 - New_Camera_State_Event: 192.168.40.170 - Lost Connection - EmptySlot: 0
+INFO 2021-06-02 15:42:00.905 - Khởi tạo TCP Server thành công
+INFO 2021-06-02 15:42:01.772 - New_Camera_State_Event: 192.168.40.171 - Lost Connection - EmptySlot: 0
+INFO 2021-06-02 15:46:24.548 - Close App
+INFO 2021-06-02 15:46:36.863 - Start App
+INFO 2021-06-02 15:46:37.711 - Khởi tạo TCP Server thành công
+INFO 2021-06-02 15:46:45.541 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-02 15:50:22.969 - Close App
+INFO 2021-06-02 15:50:34.205 - Start App
+INFO 2021-06-02 15:50:35.610 - Khởi tạo TCP Server thành công
+INFO 2021-06-02 15:50:45.904 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-02 15:51:25.073 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 2
+INFO 2021-06-02 15:51:45.056 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-02 15:51:56.221 - Close App
+INFO 2021-06-02 16:11:04.155 - Start App
+INFO 2021-06-02 16:11:04.630 - Khởi tạo TCP Server thành công
+INFO 2021-06-02 16:11:06.024 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-02 16:11:45.036 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 0
+INFO 2021-06-02 16:12:25.039 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 1
+INFO 2021-06-02 16:13:25.096 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 2
+INFO 2021-06-02 16:14:25.108 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 0
+INFO 2021-06-02 16:15:25.234 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 2
+INFO 2021-06-02 16:16:01.896 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 16:16:02.475 - Receive CommandGetInforFrom192.168.21.231At03
+INFO 2021-06-02 16:16:02.492 - Send Data Success: ImagePathC:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Data\2021_06_02_16_15_31.png,0,No
+INFO 2021-06-02 16:16:03.690 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 16:16:05.255 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 16:16:06.698 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 16:16:08.334 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 16:16:09.676 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 16:16:11.405 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 16:16:13.172 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 16:16:14.637 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 16:16:16.094 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 16:16:17.679 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 16:16:19.182 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 16:16:20.618 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 16:16:22.155 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 16:16:23.763 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 16:16:25.069 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 0
+INFO 2021-06-02 16:16:30.359 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 16:16:30.430 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 16:16:31.833 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 16:16:33.202 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 16:16:33.800 - Receive CommandGetInforFrom192.168.21.231At02
+INFO 2021-06-02 16:16:33.805 - Send Data Success: ImagePathC:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Data\2021_06_02_16_16_33.png,-1,No
+INFO 2021-06-02 16:16:34.233 - Receive CommandGetInforFrom192.168.21.231At03
+INFO 2021-06-02 16:16:34.238 - Send Data Success: ImagePathC:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Data\2021_06_02_16_16_33.png,-1,No
+INFO 2021-06-02 16:16:35.621 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 16:16:37.599 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 16:16:40.447 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 16:16:43.091 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 16:16:45.006 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 16:16:46.724 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 16:16:48.169 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 16:16:49.654 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 16:16:51.167 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 16:16:52.852 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 16:16:54.145 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 16:16:55.609 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 16:16:57.163 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 16:16:58.653 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 16:17:00.207 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 16:17:01.682 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 16:17:03.160 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 16:17:04.605 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 16:17:06.200 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 16:17:08.218 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 16:17:09.716 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 16:17:11.251 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 16:17:11.610 - Receive CommandGetInforFrom192.168.21.231At01
+INFO 2021-06-02 16:17:11.615 - Send Data Success: ImagePathC:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Data\2021_06_02_16_16_33.png,1,760-05
+INFO 2021-06-02 16:17:13.107 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 16:17:13.481 - Receive CommandGetInforFrom192.168.21.231At01
+INFO 2021-06-02 16:17:13.486 - Send Data Success: ImagePathC:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Data\2021_06_02_16_16_33.png,1,760-05
+INFO 2021-06-02 16:17:14.648 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 16:17:16.097 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 16:17:17.623 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 16:17:18.019 - Receive CommandGetInforFrom192.168.21.231At01
+INFO 2021-06-02 16:17:18.023 - Send Data Success: ImagePathC:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Data\2021_06_02_16_16_33.png,1,760-05
+INFO 2021-06-02 16:17:19.179 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 16:17:20.618 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 16:17:22.106 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 16:17:23.662 - Nhận lệnh GetStateAllSensor?/
+INFO 2021-06-02 16:17:45.060 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 2
+INFO 2021-06-02 16:18:25.180 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 0
+INFO 2021-06-02 16:19:25.043 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 2
+INFO 2021-06-02 16:19:45.764 - New_Camera_State_Event: 14.160.26.245 - Lost Connection - EmptySlot: 0
+INFO 2021-06-02 16:20:05.079 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 2
+INFO 2021-06-02 16:20:38.133 - Close App
+INFO 2021-06-02 16:43:52.691 - Start App
+INFO 2021-06-02 16:43:52.897 - Khởi tạo TCP Server thành công
+INFO 2021-06-02 16:44:05.251 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 0
+INFO 2021-06-02 16:46:32.543 - Close App
+INFO 2021-06-02 16:47:34.452 - Start App
+INFO 2021-06-02 16:47:37.325 - Khởi tạo TCP Server thành công
+INFO 2021-06-02 16:47:46.648 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 0
+INFO 2021-06-02 16:47:54.850 - Receive CommandGetInforFrom192.168.21.231At01
+INFO 2021-06-02 16:47:54.868 - Send Data Success: ImagePathC:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Data\2021_06_02_16_44_07.png,1,760-05
+INFO 2021-06-02 16:49:10.704 - Receive CommandGetInforFrom192.168.21.231At01
+INFO 2021-06-02 16:49:10.715 - Send Data Success: ImagePathC:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Data\2021_06_02_16_44_07.png,1,760-05
+INFO 2021-06-02 16:49:37.433 - Start App
+INFO 2021-06-02 16:49:45.294 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 0
+INFO 2021-06-02 16:49:45.648 - Close App
+INFO 2021-06-02 16:49:46.266 - New_Camera_State_Event: 14.160.26.245 - Lost Connection - EmptySlot: 0
+INFO 2021-06-02 16:49:47.920 - Close App
+INFO 2021-06-02 16:50:22.523 - Start App
+INFO 2021-06-02 16:50:22.662 - Khởi tạo TCP Server thành công
+INFO 2021-06-02 16:50:25.210 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 0
+INFO 2021-06-02 16:50:39.569 - Receive CommandGetInforFrom192.168.21.231At01
+INFO 2021-06-02 16:50:39.580 - Send Data Success: ImagePathC:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Data\2021_06_02_16_44_07.png,1,760-05
+INFO 2021-06-02 17:03:06.263 - New_Camera_State_Event: 14.160.26.245 - Lost Connection - EmptySlot: 0
+INFO 2021-06-02 17:03:42.022 - Close App
+INFO 2021-06-02 17:04:14.426 - Start App
+INFO 2021-06-02 17:04:15.380 - Khởi tạo TCP Server thành công
+INFO 2021-06-02 17:04:25.364 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 0
+INFO 2021-06-02 17:04:38.973 - Receive CommandGetInforFrom192.168.21.231At04
+INFO 2021-06-02 17:06:34.760 - Start App
+INFO 2021-06-02 17:06:35.749 - Khởi tạo TCP Server thành công
+INFO 2021-06-02 17:06:41.345 - Receive CommandGetInforFrom192.168.21.231At04
+INFO 2021-06-02 17:06:45.479 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 0
+INFO 2021-06-02 17:07:03.067 - Receive CommandGetInforFrom192.168.21.231At01
+INFO 2021-06-02 17:07:03.089 - Send Data Success: ImagePathC:\Users\VIET ANH\Desktop\Kztek\Kztek.iZCU\Kztek.iZCU\bin\x86\Debug\net5.0-windows\Data\2021_06_02_17_06_54.png,1,300-76005
+INFO 2021-06-02 17:07:23.429 - Close App
+INFO 2021-06-02 20:12:07.589 - Start App
+INFO 2021-06-02 20:12:08.281 - Khởi tạo TCP Server thành công
+INFO 2021-06-02 20:12:25.771 - New_Camera_State_Event: 14.160.26.245 - Lost Connection - EmptySlot: 0
+INFO 2021-06-02 20:17:47.840 - Close App
+INFO 2021-06-02 20:18:30.255 - Start App
+INFO 2021-06-02 20:18:45.761 - New_Camera_State_Event: 14.160.26.245 - Lost Connection - EmptySlot: 0
+INFO 2021-06-02 20:46:22.618 - Close App
+INFO 2021-06-02 21:46:08.395 - Start App
+INFO 2021-06-02 21:46:11.326 - Khởi tạo TCP Server thành công
+INFO 2021-06-02 21:46:25.947 - New_Camera_State_Event: 14.160.26.245 - Lost Connection - EmptySlot: 0
+INFO 2021-06-02 22:01:10.924 - Start App
+INFO 2021-06-02 22:01:12.315 - Khởi tạo TCP Server thành công
+INFO 2021-06-02 22:01:39.614 - New_Camera_State_Event: 14.160.26.245 - New Event - EmptySlot: 0
+INFO 2021-06-02 22:04:25.128 - New_Camera_State_Event: 14.160.26.245 - Lost Connection - EmptySlot: 0
+INFO 2021-06-02 22:12:07.394 - Close App
